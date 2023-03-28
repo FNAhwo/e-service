@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-28" />
   <meta name="citation_publication_date" content="2023-03-28" />
   <meta property="article:published_time" content="2023-03-28" />
-  <meta name="dc.modified" content="2023-03-28T21:13:04+00:00" />
-  <meta property="article:modified_time" content="2023-03-28T21:13:04+00:00" />
+  <meta name="dc.modified" content="2023-03-28T22:36:54+00:00" />
+  <meta property="article:modified_time" content="2023-03-28T22:36:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/721c610a221f52441540eb7afe640de1567e3db1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/721c610a221f52441540eb7afe640de1567e3db1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/721c610a221f52441540eb7afe640de1567e3db1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/))
+([permalink](https://hwong23.github.io/e-service/v/721c610a221f52441540eb7afe640de1567e3db1/))
 was automatically generated
-from [hwong23/e-service@aa78f20](https://github.com/hwong23/e-service/tree/aa78f200ac733b568c0662c5095384090d18bdfa)
+from [hwong23/e-service@721c610](https://github.com/hwong23/e-service/tree/721c610a221f52441540eb7afe640de1567e3db1)
 on March 28, 2023.
 </em></small>
 
@@ -131,301 +131,317 @@ on March 28, 2023.
 
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cambio**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|721c610 del 28 Mar 2023                              |
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+<br>
 
-## Basic formatting
+## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
 
-**Bold** __text__
+![](images/hojaruta1.png)
 
-[Semi-bold text]{.semibold}
+[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, dependencias, secuencia, puntos de control de la evolución de la arquitectura de referencia SOA 2.0 del Fondo.
 
-[Centered text]{.center}
+_Fuente: elaboración propia._
 
-[Right-aligned text]{.right}
+<br>
 
-*Italic* _text_
+## Asunto
+La ejecución de la hoja de ruta E-Service (diagnóstico SOA) plantea la implementación de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcción y diseño de servicios, y a la independencia de proveedor, en el ámbito de las vicepresidencias de Crédito y de Operación, en el período de ejecución 2023.
 
-Combined *italics and __bold__*
+Como resultado del inicio de la ejecución de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnológico de estas soluciones.
 
-~~Strikethrough~~
+Puntualmente, la implementación (todos los proyectos) de la hoja de ruta, tal como está diagnosticada por E-Service, buscan los objetivos de:
 
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
+	• Flexibilidad y tiempo de mercado (OBJ3)
+	• Fortaleza SOA de las aplicaciones (OBJ2)
+	• Independencia de proveedor (OBJ1)
+	
+Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguientes brechas y oportunidades:
+	• OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
+	• OP2. Mejorar proceso de diseño,  construcción y DevOps de soluciones SOA
+	• OP3. Mejorar la oferta de servicios analíticos en segmento FNA
+	• OP4. Aumentar el nivel de utilización de la Tecnología SOA del FNA
+	• OP5. Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0
+	• OP6. Gestión de la Tecnología (gobierno) orientada por arquitectura 2.0
+	• OP7. Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores
+	• OP8. Monitoreo de los índices de eficacia de los servicios FNA
 
-- List item
-- List item
-- List item
+<br>
 
-subscript: H~2~O is a liquid
+## Alcance 
+Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de diseño e implementación de soluciones de negocio (ver todas las capacidades FNA, diagnóstico E-Service, fase 1), en el dominio de aplicaciones y servicios solamente. 
 
-superscript: 2^10^ is 1024.
+Las capacidades impactadas en el alcance del proyecto hoja de ruta E-Service, período 2023, para el dominio de aplicaciones y servicios 
+	• CAP1. Capacidad de gestión de tecnología
+	• CAP2. Entrega de productos y funcionalidades.
 
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
+El incremento de las capacidades de gestión de tecnología (TI), y la de entrega de productos y funcionalidades, incluidas en el alcance del período 2023, se realizará mediante la ejecución de los proyectos aquí indicados:
 
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
+	1. (proy. cierre brecha) PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
+	2. (proy. cierre brecha) Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
 
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El alcance del proyecto de ejecución de la hoja de ruta, período 2023, es el ilustrado en la imagen siguente.
 
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
+![](images/vistaevolucion.png)
 
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
+[Imagen 1.]() Vista de evolución de capacidades dentro del alcance del proyecto hoja de ruta E-Service, período 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
 
-## Document organization
+Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el período 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas, como sigue
 
-Document section headings:
+![](images/vistaevolarquitectura.png)
 
-# Heading 1
+[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
 
-## Heading 2
+<br>
 
-### Heading 3
+## Componentes modificados
+Los aumentos de versión de la arquitectura SOA del FNA implica que ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
-#### Heading 4
+Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
 
-##### Heading 5
+![](images/vistaitemsarq.png)
 
-###### Heading 6
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
 
-### A heading centered on its own printed page{.center .page_center}
+<br>
 
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
+## Equipo Base del Proyecto
+Organizado por proyecto.
 
-Horizontal rule:
+### PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios
+| |Trabajo|Dedicación|Horas|
+|:----|:----|:----|:----|
+|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200 **|
+|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+|Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|1200|
+|Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
+|Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|1200|
+|Personal del FNA|Receción y ejecución de gobierno SOA, modelamiento software y servicios|*|*|
+|        ○ Especialista SOA|
+|        ○ Especialista(s) construcción software|
 
----
+	
+### PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios
+| |Trabajo|Dedicación|Horas|
+|:----|:----|:----|:----|
+|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200|
+|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Personal del FNA|Receción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
+|        ○ Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)|
+|        ○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA|
 
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
+<br>
 
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
 
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
+(**) 160 hrs/mes * 8 meses = 1,280 hrs proy
 
-## Links
+<br>
 
-Bare URL link: <https://manubot.org>
+## Plan de Trabajo
+Organización del proyecto. El proyecto está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en el alcance consignado arriba, periodo 2023, que se corresponden con las fases 2 y 3 de la imagen abajo.
 
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
+![](images/vistaimplementacion.png)
 
-[Link with text](https://manubot.org)
+[Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
-[Link with hover text](https://manubot.org "Manubot Homepage")
+La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
 
-[Link by reference][manubot homepage]
+Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
 
-[Manubot Homepage]: https://manubot.org
+Finalmente, la fase 4 se encarga de ejecutar los indicaddores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
 
-## Citations
+<br>
 
-Citation by DOI [@doi:10.7554/eLife.32822].
+## Entregables
+Fase LVT
+* Detalle de los ítems de arquitectura impactados por el proyecto 
+* Detalle de los recursos, herramientas, roles, responsabilidades y participanes
 
-Citation by PubMed Central ID [@pmc:PMC6103790].
+Fase 1
+* Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
+* Modelos actualizados de los ítems de arquitectura impactados por el proyecto 
 
-Citation by PubMed ID [@pubmed:30718888].
+Fase 2
+* ítems de arquitectura incrementados en ejecución
+* Análisis de impacto y modelos actualizados de los ítems de arquitectura 
 
-Citation by Wikidata ID [@wikidata:Q56458321].
+Fase 3
+* ítems de arquitectura incrementados en ejecución
+* Análisis de impacto y modelos actualizados de los ítems de arquitectura 
 
-Citation by ISBN [@isbn:9780262517638].
+Fase 4
+* Métricas de desempeño gobierno e implementación SOA
+* Modelos actualizados de los ítems de arquitectura impactados por el proyecto
 
-Citation by URL [@{https://greenelab.github.io/meta-review/}].
+## Costo Beneficio (aproximado)
+…
 
-Citation by alias [@deep-review].
+<br>
 
-Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
+## Consideraciones
+…
 
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
 
-[@deep-review]: doi:10.1098/rsif.2017.0387
+## Asunto
+La ejecución de la hoja de ruta E-Service (diagnóstico SOA) plantea la implementación de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcción y diseño de servicios, y a la independencia de proveedor, en el ámbito de las vicepresidencias de Crédito y de Operación, en el período de ejecución 2023.
 
-## Referencing figures, tables, equations
+Como resultado del inicio de la ejecución de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnológico de estas soluciones.
 
-Figure @fig:square-image
+Puntualmente, la implementación (todos los proyectos) de la hoja de ruta, tal como está diagnosticada por E-Service, buscan los objetivos de (ordenados por prioridad):
 
-Figure @fig:wide-image
+* Flexibilidad y tiempo de mercado (OBJ3)
+* Fortaleza SOA de las aplicaciones (OBJ2)
+* Independencia de proveedor (OBJ1)
+	
+Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguientes brechas y oportunidades:
 
-Figure @fig:tall-image
+* OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
+* OP2. Mejorar proceso de diseño,  construcción y DevOps de soluciones SOA
+* OP3. Mejorar la oferta de servicios analíticos en segmento FNA
+* OP4. Aumentar el nivel de utilización de la Tecnología SOA del FNA
+* OP5. Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0
+* OP6. Gestión de la Tecnología (gobierno) orientada por arquitectura 2.0
+* OP7. Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores
+* OP8. Monitoreo de los índices de eficacia de los servicios FNA
 
-Figure @fig:vector-image
+<br>
 
-Table @tbl:bowling-scores
 
-Equation @eq:regular-equation
 
-Equation @eq:long-equation
+## Alcance
+Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de diseño e implementación de soluciones de negocio (ver todas las capacidades FNA, diagnóstico E-Service, fase 1), en el dominio de aplicaciones y servicios solamente. 
 
-## Quotes and code
+Las capacidades impactadas en el alcance del proyecto hoja de ruta E-Service, período 2023, para el dominio de aplicaciones y servicios 
+* CAP1. Capacidad de gestión de tecnología
+* CAP2. Entrega de productos y funcionalidades.
 
-> Quoted text
+El incremento de las capacidades de gestión de tecnología (TI), y la de entrega de productos y funcionalidades, incluidas en el alcance del período 2023, se realizará mediante la ejecución de los proyectos aquí indicados:
 
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
+	1. (proy. cierre brecha) PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
+	2. (proy. cierre brecha) Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
 
-Code `in the middle` of normal text, aka `inline code`.
+El alcance del proyecto de ejecución de la hoja de ruta, período 2023, es el ilustrado en la imagen siguente.
 
-Code block with Python syntax highlighting:
+![](images/vistaevolucion.png)
 
-```python
-from manubot.cite.doi import expand_short_doi
+[Imagen 1.]() Vista de evolución de capacidades dentro del alcance del proyecto hoja de ruta E-Service, período 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
 
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
+Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el período 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas, como sigue
 
-Code block with no syntax highlighting:
+![](images/vistaevolarquitectura.png)
 
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
+[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
 
-## Figures
+<br>
 
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
 
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
 
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
+## Componentes modificados
+Los aumentos de versión de la arquitectura SOA del FNA implica que ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-Note that if you want to export to Word (`.docx`), you need to download the image and reference it locally (e.g. `content/images/vector.svg`) instead of using a URL.
-](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
+Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
 
-## Tables
+![](images/vistaitemsarq.png)
 
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
 
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
+<br>
 
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
 
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
 
-|          | **Colors** <!-- ="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
+## Equipo Base del Proyecto
+Organizado por proyecto.
 
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
+### PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios
+| |Trabajo|Dedicación|Horas|
+|:----|:----|:----|:----|
+|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200 **|
+|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+|Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|1200|
+|Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
+|Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|1200|
+|Personal del FNA|Receción y ejecución de gobierno SOA, modelamiento software y servicios|*|*|
+|        ○ Especialista SOA|
+|        ○ Especialista(s) construcción software|
 
-## Equations
+	
+### PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios
+| |Trabajo|Dedicación|Horas|
+|:----|:----|:----|:----|
+|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200|
+|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Personal del FNA|Receción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
+|        ○ Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)|
+|        ○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA|
 
-A LaTeX equation:
+<br>
 
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
+(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
 
-An equation too long to fit within page:
+(**) 160 hrs/mes * 8 meses = 1,280 hrs proy
 
-$ = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
+<br>
 
-## Special
 
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
-_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
 
-[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
+## Plan de Trabajo
+Organización del proyecto. El proyecto está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en el alcance consignado arriba, periodo 2023, que se corresponden con las fases 2 y 3 de la imagen abajo.
 
-Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
+![](images/vistaimplementacion.png)
 
-::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-:::
+[Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
-Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
+La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
 
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-<!-- ="element_id" class="some_class" ="color: #ad1457; margin-left: 40px;" ="true" ="a paragraph of text" -color="red" -->
+Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
 
-Available background colors for text, images, code, banners, etc:  
+Finalmente, la fase 4 se encarga de ejecutar los indicaddores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
 
-`white`{.white}
-`lightgrey`{.lightgrey}
-`grey`{.grey}
-`darkgrey`{.darkgrey}
-`black`{.black}
-`lightred`{.lightred}
-`lightyellow`{.lightyellow}
-`lightgreen`{.lightgreen}
-`lightblue`{.lightblue}
-`lightpurple`{.lightpurple}
-`red`{.red}
-`orange`{.orange}
-`yellow`{.yellow}
-`green`{.green}
-`blue`{.blue}
-`purple`{.purple}
+<br>
 
-Using the [Font Awesome](https://fontawesome.com/) icon set:
 
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
 
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
+## Entregables
+Fase LVT
+* Detalle de los ítems de arquitectura impactados por el proyecto 
+* Detalle de los recursos, herramientas, roles, responsabilidades y participanes
 
-[
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
-]{.banner .lightgrey}
+Fase 1
+* Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
+* Modelos actualizados de los ítems de arquitectura impactados por el proyecto 
 
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
+Fase 2
+* ítems de arquitectura incrementados en ejecución
+* Análisis de impacto y modelos actualizados de los ítems de arquitectura 
 
-[
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
+Fase 3
+* ítems de arquitectura incrementados en ejecución
+* Análisis de impacto y modelos actualizados de los ítems de arquitectura 
+
+Fase 4
+* Métricas de desempeño gobierno e implementación SOA
+* Modelos actualizados de los ítems de arquitectura impactados por el proyecto
+
+
+
+## Costo Beneficio (aproximado)
+…
+
+<br>
+
+## Consideraciones
+…
 
 
 ## References {.page_break_before}

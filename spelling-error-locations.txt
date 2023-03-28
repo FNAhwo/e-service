@@ -1,51 +1,1394 @@
-content/02.delete-me.md:44:adipiscing
-content/02.delete-me.md:44:aliqua
-content/02.delete-me.md:44:amet
-content/02.delete-me.md:44:consectetur
-content/02.delete-me.md:44:dolore
-content/02.delete-me.md:44:eiusmod
-content/02.delete-me.md:44:elit
-content/02.delete-me.md:44:incididunt
-content/02.delete-me.md:44:ipsum
-content/02.delete-me.md:44:labore
-content/02.delete-me.md:44:Lorem
-content/02.delete-me.md:44:magna
-content/02.delete-me.md:44:sed
-content/02.delete-me.md:44:tempor
-content/02.delete-me.md:45:aliquip
-content/02.delete-me.md:45:commodo
-content/02.delete-me.md:45:consequat
-content/02.delete-me.md:45:enim
-content/02.delete-me.md:45:exercitation
-content/02.delete-me.md:45:laboris
-content/02.delete-me.md:45:nisi
-content/02.delete-me.md:45:nostrud
-content/02.delete-me.md:45:quis
-content/02.delete-me.md:45:ullamco
-content/02.delete-me.md:45:veniam
-content/02.delete-me.md:46:aute
-content/02.delete-me.md:46:cillum
-content/02.delete-me.md:46:dolore
-content/02.delete-me.md:46:Duis
-content/02.delete-me.md:46:esse
-content/02.delete-me.md:46:fugiat
-content/02.delete-me.md:46:irure
-content/02.delete-me.md:46:pariatur
-content/02.delete-me.md:46:reprehenderit
-content/02.delete-me.md:46:velit
-content/02.delete-me.md:46:voluptate
-content/02.delete-me.md:47:anim
-content/02.delete-me.md:47:culpa
-content/02.delete-me.md:47:cupidatat
-content/02.delete-me.md:47:deserunt
-content/02.delete-me.md:47:Excepteur
-content/02.delete-me.md:47:laborum
-content/02.delete-me.md:47:mollit
-content/02.delete-me.md:47:occaecat
-content/02.delete-me.md:47:officia
-content/02.delete-me.md:47:proident
-content/02.delete-me.md:47:qui
-content/02.delete-me.md:47:sint
-content/02.delete-me.md:47:sunt
-content/02.delete-me.md:237:Pandoc's
-content/02.delete-me.md:247:Pandoc's
+content/02a.asunto.md:1:Asunto
+content/02a.asunto.md:2:ámbito
+content/02a.asunto.md:2:brechas
+content/02a.asunto.md:2:cierre
+content/02a.asunto.md:2:construcción
+content/02a.asunto.md:2:Crédito
+content/02a.asunto.md:2:diagnosticados
+content/02a.asunto.md:2:diagnóstico
+content/02a.asunto.md:2:dicho
+content/02a.asunto.md:2:diseño
+content/02a.asunto.md:2:ejecución
+content/02a.asunto.md:2:ejecución
+content/02a.asunto.md:2:el
+content/02a.asunto.md:2:el
+content/02a.asunto.md:2:Estos
+content/02a.asunto.md:2:flexibilidad
+content/02a.asunto.md:2:fortalecimiento
+content/02a.asunto.md:2:hoja
+content/02a.asunto.md:2:impacten
+content/02a.asunto.md:2:implementación
+content/02a.asunto.md:2:independencia
+content/02a.asunto.md:2:negocio
+content/02a.asunto.md:2:Operación
+content/02a.asunto.md:2:período
+content/02a.asunto.md:2:plantea
+content/02a.asunto.md:2:problemas
+content/02a.asunto.md:2:proveedor
+content/02a.asunto.md:2:proyecto
+content/02a.asunto.md:2:proyectos
+content/02a.asunto.md:2:ruta
+content/02a.asunto.md:2:servicios
+content/02a.asunto.md:2:SOA
+content/02a.asunto.md:2:vicepresidencias
+content/02a.asunto.md:4:Ahorro
+content/02a.asunto.md:4:aumentar
+content/02a.asunto.md:4:aumentar
+content/02a.asunto.md:4:capacidad
+content/02a.asunto.md:4:capacidades
+content/02a.asunto.md:4:desarrollo
+content/02a.asunto.md:4:ejecución
+content/02a.asunto.md:4:el
+content/02a.asunto.md:4:estas
+content/02a.asunto.md:4:FNA
+content/02a.asunto.md:4:Fondo
+content/02a.asunto.md:4:hoja
+content/02a.asunto.md:4:inicio
+content/02a.asunto.md:4:modernizar
+content/02a.asunto.md:4:Nacional
+content/02a.asunto.md:4:procura
+content/02a.asunto.md:4:requerimientos
+content/02a.asunto.md:4:resultado
+content/02a.asunto.md:4:ruta
+content/02a.asunto.md:4:soluciones
+content/02a.asunto.md:4:soluciones
+content/02a.asunto.md:4:tecnológico
+content/02a.asunto.md:6:buscan
+content/02a.asunto.md:6:diagnosticada
+content/02a.asunto.md:6:está
+content/02a.asunto.md:6:hoja
+content/02a.asunto.md:6:implementación
+content/02a.asunto.md:6:objetivos
+content/02a.asunto.md:6:ordenados
+content/02a.asunto.md:6:por
+content/02a.asunto.md:6:por
+content/02a.asunto.md:6:prioridad
+content/02a.asunto.md:6:proyectos
+content/02a.asunto.md:6:Puntualmente
+content/02a.asunto.md:6:ruta
+content/02a.asunto.md:6:tal
+content/02a.asunto.md:6:todos
+content/02a.asunto.md:8:Flexibilidad
+content/02a.asunto.md:8:tiempo
+content/02a.asunto.md:9:aplicaciones
+content/02a.asunto.md:9:SOA
+content/02a.asunto.md:10:Independencia
+content/02a.asunto.md:10:proveedor
+content/02a.asunto.md:12:brechas
+content/02a.asunto.md:12:cual
+content/02a.asunto.md:12:está
+content/02a.asunto.md:12:hoja
+content/02a.asunto.md:12:impactar
+content/02a.asunto.md:12:oportunidades
+content/02a.asunto.md:12:orientada
+content/02a.asunto.md:12:ruta
+content/02a.asunto.md:12:siguientes
+content/02a.asunto.md:14:capacidad
+content/02a.asunto.md:14:figura
+content/02a.asunto.md:14:gobierno
+content/02a.asunto.md:14:Instaurar
+content/02a.asunto.md:14:proceso
+content/02a.asunto.md:14:recursos
+content/02a.asunto.md:14:SOA
+content/02a.asunto.md:15:construcción
+content/02a.asunto.md:15:DevOps
+content/02a.asunto.md:15:diseño
+content/02a.asunto.md:15:Mejorar
+content/02a.asunto.md:15:proceso
+content/02a.asunto.md:15:SOA
+content/02a.asunto.md:15:soluciones
+content/02a.asunto.md:16:analíticos
+content/02a.asunto.md:16:FNA
+content/02a.asunto.md:16:Mejorar
+content/02a.asunto.md:16:oferta
+content/02a.asunto.md:16:segmento
+content/02a.asunto.md:16:servicios
+content/02a.asunto.md:17:Aumentar
+content/02a.asunto.md:17:el
+content/02a.asunto.md:17:FNA
+content/02a.asunto.md:17:nivel
+content/02a.asunto.md:17:SOA
+content/02a.asunto.md:17:Tecnología
+content/02a.asunto.md:17:utilización
+content/02a.asunto.md:18:arquitectura
+content/02a.asunto.md:18:Desarrollo
+content/02a.asunto.md:18:FNA
+content/02a.asunto.md:18:guiada
+content/02a.asunto.md:18:por
+content/02a.asunto.md:18:referencia
+content/02a.asunto.md:18:Servicios
+content/02a.asunto.md:19:arquitectura
+content/02a.asunto.md:19:Gestión
+content/02a.asunto.md:19:gobierno
+content/02a.asunto.md:19:orientada
+content/02a.asunto.md:19:por
+content/02a.asunto.md:19:Tecnología
+content/02a.asunto.md:20:arquitectura
+content/02a.asunto.md:20:Articulación
+content/02a.asunto.md:20:equipo
+content/02a.asunto.md:20:FNA
+content/02a.asunto.md:20:fortalecimiento
+content/02a.asunto.md:20:junto
+content/02a.asunto.md:20:proveedores
+content/02a.asunto.md:21:eficacia
+content/02a.asunto.md:21:FNA
+content/02a.asunto.md:21:índices
+content/02a.asunto.md:21:Monitoreo
+content/02a.asunto.md:21:servicios
+content/02b.alcance.md:1:Alcance
+content/02b.alcance.md:2:aplicaciones
+content/02b.alcance.md:2:capacidades
+content/02b.alcance.md:2:capacidades
+content/02b.alcance.md:2:diagnóstico
+content/02b.alcance.md:2:diseño
+content/02b.alcance.md:2:dominio
+content/02b.alcance.md:2:el
+content/02b.alcance.md:2:el
+content/02b.alcance.md:2:el
+content/02b.alcance.md:2:fase
+content/02b.alcance.md:2:Flexibilidad
+content/02b.alcance.md:2:FNA
+content/02b.alcance.md:2:FNA
+content/02b.alcance.md:2:Fortalecimiento
+content/02b.alcance.md:2:hoja
+content/02b.alcance.md:2:impactará
+content/02b.alcance.md:2:implementación
+content/02b.alcance.md:2:implementación
+content/02b.alcance.md:2:incremento
+content/02b.alcance.md:2:mediante
+content/02b.alcance.md:2:negocio
+content/02b.alcance.md:2:objetivos
+content/02b.alcance.md:2:período
+content/02b.alcance.md:2:ruta
+content/02b.alcance.md:2:servicios
+content/02b.alcance.md:2:solamente
+content/02b.alcance.md:2:soluciones
+content/02b.alcance.md:2:todas
+content/02b.alcance.md:2:ver
+content/02b.alcance.md:4:alcance
+content/02b.alcance.md:4:aplicaciones
+content/02b.alcance.md:4:capacidades
+content/02b.alcance.md:4:dominio
+content/02b.alcance.md:4:el
+content/02b.alcance.md:4:el
+content/02b.alcance.md:4:hoja
+content/02b.alcance.md:4:impactadas
+content/02b.alcance.md:4:período
+content/02b.alcance.md:4:proyecto
+content/02b.alcance.md:4:ruta
+content/02b.alcance.md:4:servicios
+content/02b.alcance.md:5:Capacidad
+content/02b.alcance.md:5:gestión
+content/02b.alcance.md:5:tecnología
+content/02b.alcance.md:6:Entrega
+content/02b.alcance.md:6:funcionalidades
+content/02b.alcance.md:6:productos
+content/02b.alcance.md:8:alcance
+content/02b.alcance.md:8:aquí
+content/02b.alcance.md:8:capacidades
+content/02b.alcance.md:8:ejecución
+content/02b.alcance.md:8:el
+content/02b.alcance.md:8:El
+content/02b.alcance.md:8:entrega
+content/02b.alcance.md:8:funcionalidades
+content/02b.alcance.md:8:gestión
+content/02b.alcance.md:8:incluidas
+content/02b.alcance.md:8:incremento
+content/02b.alcance.md:8:indicados
+content/02b.alcance.md:8:mediante
+content/02b.alcance.md:8:período
+content/02b.alcance.md:8:productos
+content/02b.alcance.md:8:proyectos
+content/02b.alcance.md:8:realizará
+content/02b.alcance.md:8:tecnología
+content/02b.alcance.md:10:aplicaciones
+content/02b.alcance.md:10:brecha
+content/02b.alcance.md:10:cierre
+content/02b.alcance.md:10:dominio
+content/02b.alcance.md:10:FNA
+content/02b.alcance.md:10:Gobierno
+content/02b.alcance.md:10:Incremento
+content/02b.alcance.md:10:proy
+content/02b.alcance.md:10:servicios
+content/02b.alcance.md:10:SOA
+content/02b.alcance.md:10:únicamente
+content/02b.alcance.md:11:aplicaciones
+content/02b.alcance.md:11:Arquitectura
+content/02b.alcance.md:11:brecha
+content/02b.alcance.md:11:cierre
+content/02b.alcance.md:11:dominio
+content/02b.alcance.md:11:Incremento
+content/02b.alcance.md:11:proy
+content/02b.alcance.md:11:Referencia
+content/02b.alcance.md:11:servicios
+content/02b.alcance.md:11:únicamente
+content/02b.alcance.md:13:alcance
+content/02b.alcance.md:13:ejecución
+content/02b.alcance.md:13:el
+content/02b.alcance.md:13:El
+content/02b.alcance.md:13:hoja
+content/02b.alcance.md:13:ilustrado
+content/02b.alcance.md:13:imagen
+content/02b.alcance.md:13:período
+content/02b.alcance.md:13:proyecto
+content/02b.alcance.md:13:ruta
+content/02b.alcance.md:13:siguente
+content/02b.alcance.md:17:alcance
+content/02b.alcance.md:17:aplicaciones
+content/02b.alcance.md:17:capacidades
+content/02b.alcance.md:17:Capacidades
+content/02b.alcance.md:17:dentro
+content/02b.alcance.md:17:dominio
+content/02b.alcance.md:17:evolución
+content/02b.alcance.md:17:Flexibilidad
+content/02b.alcance.md:17:Fortalecimiento
+content/02b.alcance.md:17:hoja
+content/02b.alcance.md:17:Imagen
+content/02b.alcance.md:17:impactar
+content/02b.alcance.md:17:incrementadas
+content/02b.alcance.md:17:objetivos
+content/02b.alcance.md:17:período
+content/02b.alcance.md:17:proyecto
+content/02b.alcance.md:17:ruta
+content/02b.alcance.md:17:servicios
+content/02b.alcance.md:19:alcance
+content/02b.alcance.md:19:arquitectura
+content/02b.alcance.md:19:capacidades
+content/02b.alcance.md:19:consecuencia
+content/02b.alcance.md:19:consiguiente
+content/02b.alcance.md:19:el
+content/02b.alcance.md:19:este
+content/02b.alcance.md:19:estos
+content/02b.alcance.md:19:evolucionará
+content/02b.alcance.md:19:FNA
+content/02b.alcance.md:19:Fondo
+content/02b.alcance.md:19:hoja
+content/02b.alcance.md:19:incluidas
+content/02b.alcance.md:19:incremento
+content/02b.alcance.md:19:nuevas
+content/02b.alcance.md:19:período
+content/02b.alcance.md:19:Por
+content/02b.alcance.md:19:proyectos
+content/02b.alcance.md:19:ruta
+content/02b.alcance.md:19:sigue
+content/02b.alcance.md:19:SOA
+content/02b.alcance.md:19:su
+content/02b.alcance.md:19:versiones
+content/02b.alcance.md:19:vez
+content/02b.alcance.md:23:arquitectura
+content/02b.alcance.md:23:capacidades
+content/02b.alcance.md:23:evolución
+content/02b.alcance.md:23:FNA
+content/02b.alcance.md:23:Imagen
+content/02b.alcance.md:23:incrementadas
+content/02b.alcance.md:23:razón
+content/02b.alcance.md:23:referencia
+content/02c.componentes.md:1:Componentes
+content/02c.componentes.md:1:modificados
+content/02c.componentes.md:2:aplicaciones
+content/02c.componentes.md:2:arquitectura
+content/02c.componentes.md:2:aumentado
+content/02c.componentes.md:2:aumentos
+content/02c.componentes.md:2:componentes
+content/02c.componentes.md:2:deban
+content/02c.componentes.md:2:FNA
+content/02c.componentes.md:2:humano
+content/02c.componentes.md:2:implica
+content/02c.componentes.md:2:ítems
+content/02c.componentes.md:2:modificados
+content/02c.componentes.md:2:recursos
+content/02c.componentes.md:2:ser
+content/02c.componentes.md:2:SOA
+content/02c.componentes.md:2:tecnologías
+content/02c.componentes.md:2:trabajo
+content/02c.componentes.md:2:versión
+content/02c.componentes.md:2:versión
+content/02c.componentes.md:4:aplicaciones
+content/02c.componentes.md:4:aplicaciones
+content/02c.componentes.md:4:arquitectura
+content/02c.componentes.md:4:bajo
+content/02c.componentes.md:4:cambiar
+content/02c.componentes.md:4:concepto
+content/02c.componentes.md:4:condiciones
+content/02c.componentes.md:4:continuación
+content/02c.componentes.md:4:dominio
+content/02c.componentes.md:4:ejemplo
+content/02c.componentes.md:4:especialización
+content/02c.componentes.md:4:este
+content/02c.componentes.md:4:FNA
+content/02c.componentes.md:4:hoja
+content/02c.componentes.md:4:ilustrativo
+content/02c.componentes.md:4:impactados
+content/02c.componentes.md:4:implemenatción
+content/02c.componentes.md:4:incrementos
+content/02c.componentes.md:4:ítems
+content/02c.componentes.md:4:ítems
+content/02c.componentes.md:4:lista
+content/02c.componentes.md:4:llegar
+content/02c.componentes.md:4:otros
+content/02c.componentes.md:4:período
+content/02c.componentes.md:4:por
+content/02c.componentes.md:4:presentamos
+content/02c.componentes.md:4:presentes
+content/02c.componentes.md:4:propósito
+content/02c.componentes.md:4:proyecto
+content/02c.componentes.md:4:pueden
+content/02c.componentes.md:4:pueden
+content/02c.componentes.md:4:pueden
+content/02c.componentes.md:4:recursos
+content/02c.componentes.md:4:ruta
+content/02c.componentes.md:4:ser
+content/02c.componentes.md:4:ser
+content/02c.componentes.md:4:servicios
+content/02c.componentes.md:4:sujetos
+content/02c.componentes.md:4:tiempo
+content/02c.componentes.md:4:una
+content/02c.componentes.md:4:únicamente
+content/02c.componentes.md:4:únicamente
+content/02c.componentes.md:4:variante
+content/02c.componentes.md:8:Aplicaciones
+content/02c.componentes.md:8:arquitectura
+content/02c.componentes.md:8:FNA
+content/02c.componentes.md:8:Imagen
+content/02c.componentes.md:8:incrementos
+content/02c.componentes.md:8:involucrados
+content/02c.componentes.md:8:referencia
+content/02c.componentes.md:8:versión
+content/02d.equipo.md:1:Equipo
+content/02d.equipo.md:1:Proyecto
+content/02d.equipo.md:2:Organizado
+content/02d.equipo.md:2:por
+content/02d.equipo.md:2:proyecto
+content/02d.equipo.md:4:aplicaciones
+content/02d.equipo.md:4:dominio
+content/02d.equipo.md:4:FNA
+content/02d.equipo.md:4:Gobierno
+content/02d.equipo.md:4:Incremento
+content/02d.equipo.md:4:servicios
+content/02d.equipo.md:4:SOA
+content/02d.equipo.md:5:Dedicación
+content/02d.equipo.md:5:Trabajo
+content/02d.equipo.md:7:Calidad
+content/02d.equipo.md:7:Gerente
+content/02d.equipo.md:7:proyecto
+content/02d.equipo.md:7:proyecto
+content/02d.equipo.md:7:Stefanini
+content/02d.equipo.md:8:alcance
+content/02d.equipo.md:8:común
+content/02d.equipo.md:8:entre
+content/02d.equipo.md:8:este
+content/02d.equipo.md:8:Nota
+content/02d.equipo.md:8:proyectos
+content/02d.equipo.md:8:puede
+content/02d.equipo.md:8:recurso
+content/02d.equipo.md:8:ser
+content/02d.equipo.md:9:Arquitectura
+content/02d.equipo.md:9:empresarial
+content/02d.equipo.md:9:Especialista
+content/02d.equipo.md:9:gobierno
+content/02d.equipo.md:9:modelamiento
+content/02d.equipo.md:9:montaje
+content/02d.equipo.md:9:procesos
+content/02d.equipo.md:9:Referente
+content/02d.equipo.md:9:servicios
+content/02d.equipo.md:9:SOA
+content/02d.equipo.md:9:SOA
+content/02d.equipo.md:9:Stefanini
+content/02d.equipo.md:10:apoyo
+content/02d.equipo.md:10:considerar
+content/02d.equipo.md:10:especialista
+content/02d.equipo.md:10:experiencia
+content/02d.equipo.md:10:Nota
+content/02d.equipo.md:10:parcial
+content/02d.equipo.md:10:perfil
+content/02d.equipo.md:10:SOA
+content/02d.equipo.md:11:componentes
+content/02d.equipo.md:11:construcción
+content/02d.equipo.md:11:diseño
+content/02d.equipo.md:11:Especialista
+content/02d.equipo.md:11:modelamiento
+content/02d.equipo.md:11:procesos
+content/02d.equipo.md:11:Referente
+content/02d.equipo.md:11:servicios
+content/02d.equipo.md:11:servicios
+content/02d.equipo.md:11:servicios
+content/02d.equipo.md:11:Stefanini
+content/02d.equipo.md:12:ejecución
+content/02d.equipo.md:12:FNA
+content/02d.equipo.md:12:gobierno
+content/02d.equipo.md:12:modelamiento
+content/02d.equipo.md:12:Receción
+content/02d.equipo.md:12:servicios
+content/02d.equipo.md:12:SOA
+content/02d.equipo.md:13:Especialista
+content/02d.equipo.md:13:SOA
+content/02d.equipo.md:14:construcción
+content/02d.equipo.md:14:Especialista
+content/02d.equipo.md:17:aplicaciones
+content/02d.equipo.md:17:Arquitectura
+content/02d.equipo.md:17:dominio
+content/02d.equipo.md:17:Incremento
+content/02d.equipo.md:17:Referencia
+content/02d.equipo.md:17:servicios
+content/02d.equipo.md:18:Dedicación
+content/02d.equipo.md:18:Trabajo
+content/02d.equipo.md:20:Calidad
+content/02d.equipo.md:20:Gerente
+content/02d.equipo.md:20:proyecto
+content/02d.equipo.md:20:proyecto
+content/02d.equipo.md:20:Stefanini
+content/02d.equipo.md:21:alcance
+content/02d.equipo.md:21:común
+content/02d.equipo.md:21:entre
+content/02d.equipo.md:21:este
+content/02d.equipo.md:21:Nota
+content/02d.equipo.md:21:proyectos
+content/02d.equipo.md:21:puede
+content/02d.equipo.md:21:recurso
+content/02d.equipo.md:21:ser
+content/02d.equipo.md:22:Arquitectura
+content/02d.equipo.md:22:diseños
+content/02d.equipo.md:22:Especialista
+content/02d.equipo.md:22:implementación
+content/02d.equipo.md:22:modelamiento
+content/02d.equipo.md:22:Referente
+content/02d.equipo.md:22:servicios
+content/02d.equipo.md:22:SOA
+content/02d.equipo.md:22:Stefanini
+content/02d.equipo.md:22:vigilancia
+content/02d.equipo.md:23:componentes
+content/02d.equipo.md:23:construcción
+content/02d.equipo.md:23:diseños
+content/02d.equipo.md:23:Especialista
+content/02d.equipo.md:23:implementación
+content/02d.equipo.md:23:Implementación
+content/02d.equipo.md:23:modelamiento
+content/02d.equipo.md:23:servicios
+content/02d.equipo.md:23:servicios
+content/02d.equipo.md:23:Stefanini
+content/02d.equipo.md:23:vigilancia
+content/02d.equipo.md:24:diseños
+content/02d.equipo.md:24:ejecución
+content/02d.equipo.md:24:FNA
+content/02d.equipo.md:24:implementación
+content/02d.equipo.md:24:modelamiento
+content/02d.equipo.md:24:procesos
+content/02d.equipo.md:24:Receción
+content/02d.equipo.md:24:requerimientos
+content/02d.equipo.md:24:requerimientos
+content/02d.equipo.md:24:servicios
+content/02d.equipo.md:24:SOA
+content/02d.equipo.md:25:aplicaciones
+content/02d.equipo.md:25:Aplicaciones
+content/02d.equipo.md:25:arquitectura
+content/02d.equipo.md:25:arquitectura
+content/02d.equipo.md:25:Especialistas
+content/02d.equipo.md:25:FNA
+content/02d.equipo.md:25:FNA
+content/02d.equipo.md:25:incremento
+content/02d.equipo.md:25:incrementos
+content/02d.equipo.md:25:involucrados
+content/02d.equipo.md:25:pertenecientes
+content/02d.equipo.md:25:referencia
+content/02d.equipo.md:25:ver
+content/02d.equipo.md:25:versión
+content/02d.equipo.md:25:versión
+content/02d.equipo.md:26:aplicaciones
+content/02d.equipo.md:26:arquitectura
+content/02d.equipo.md:26:FNA
+content/02d.equipo.md:26:funcional
+content/02d.equipo.md:26:incremento
+content/02d.equipo.md:26:Líder
+content/02d.equipo.md:26:pertenecientes
+content/02d.equipo.md:26:versión
+content/02d.equipo.md:30:dedicación
+content/02d.equipo.md:30:dispone
+content/02d.equipo.md:30:el
+content/02d.equipo.md:30:FNA
+content/02d.equipo.md:30:internos
+content/02d.equipo.md:30:participación
+content/02d.equipo.md:30:recursos
+content/02d.equipo.md:32:meses
+content/02d.equipo.md:32:proy
+content/02e.plan.md:1:Trabajo
+content/02e.plan.md:2:abajo
+content/02e.plan.md:2:abajo
+content/02e.plan.md:2:alcance
+content/02e.plan.md:2:arquitectura
+content/02e.plan.md:2:arriba
+content/02e.plan.md:2:consignado
+content/02e.plan.md:2:corresponden
+content/02e.plan.md:2:detalle
+content/02e.plan.md:2:determina
+content/02e.plan.md:2:el
+content/02e.plan.md:2:El
+content/02e.plan.md:2:elementos
+content/02e.plan.md:2:está
+content/02e.plan.md:2:evolucionarán
+content/02e.plan.md:2:fase
+content/02e.plan.md:2:fases
+content/02e.plan.md:2:fases
+content/02e.plan.md:2:gobierno
+content/02e.plan.md:2:imagen
+content/02e.plan.md:2:imagen
+content/02e.plan.md:2:incrementos
+content/02e.plan.md:2:Levantamiento
+content/02e.plan.md:2:LVT
+content/02e.plan.md:2:Organización
+content/02e.plan.md:2:organizado
+content/02e.plan.md:2:periodo
+content/02e.plan.md:2:planteados
+content/02e.plan.md:2:presentada
+content/02e.plan.md:2:proyecto
+content/02e.plan.md:2:proyecto
+content/02e.plan.md:6:Abril
+content/02e.plan.md:6:Dic
+content/02e.plan.md:6:FNA
+content/02e.plan.md:6:Hoja
+content/02e.plan.md:6:Imagen
+content/02e.plan.md:6:Implementación
+content/02e.plan.md:6:Proyecto
+content/02e.plan.md:6:Ruta
+content/02e.plan.md:6:Ver
+content/02e.plan.md:8:adelante
+content/02e.plan.md:8:aplican
+content/02e.plan.md:8:arquitectura
+content/02e.plan.md:8:determina
+content/02e.plan.md:8:diseña
+content/02e.plan.md:8:el
+content/02e.plan.md:8:Estos
+content/02e.plan.md:8:fase
+content/02e.plan.md:8:fases
+content/02e.plan.md:8:FNA
+content/02e.plan.md:8:gestión
+content/02e.plan.md:8:gobierno
+content/02e.plan.md:8:Gobierno
+content/02e.plan.md:8:mejoramiento
+content/02e.plan.md:8:mismo
+content/02e.plan.md:8:procesos
+content/02e.plan.md:8:procesos
+content/02e.plan.md:8:proyecto
+content/02e.plan.md:8:regirán
+content/02e.plan.md:8:riesgo
+content/02e.plan.md:8:SOA
+content/02e.plan.md:8:sucesivas
+content/02e.plan.md:8:técnico
+content/02e.plan.md:8:vigilancia
+content/02e.plan.md:10:arquitectura
+content/02e.plan.md:10:componentes
+content/02e.plan.md:10:directamente
+content/02e.plan.md:10:elementos
+content/02e.plan.md:10:esto
+content/02e.plan.md:10:fase
+content/02e.plan.md:10:fases
+content/02e.plan.md:10:FNA
+content/02e.plan.md:10:herramientas
+content/02e.plan.md:10:impactan
+content/02e.plan.md:10:información
+content/02e.plan.md:10:Levantamiento
+content/02e.plan.md:10:seleccionados
+content/02e.plan.md:10:servicios
+content/02e.plan.md:10:sistemas
+content/02e.plan.md:10:SOA
+content/02e.plan.md:12:arquitectura
+content/02e.plan.md:12:desempeño
+content/02e.plan.md:12:diagnóstico
+content/02e.plan.md:12:ejecutar
+content/02e.plan.md:12:encarga
+content/02e.plan.md:12:evolución
+content/02e.plan.md:12:fase
+content/02e.plan.md:12:Finalmente
+content/02e.plan.md:12:gobierno
+content/02e.plan.md:12:incrementos
+content/02e.plan.md:12:indicaddores
+content/02e.plan.md:12:medición
+content/02e.plan.md:12:referencia
+content/02e.plan.md:12:resultados
+content/02e.plan.md:12:tanto
+content/02e.plan.md:12:ver
+content/02f.entregables.md:1:Entregables
+content/02f.entregables.md:2:Fase
+content/02f.entregables.md:2:LVT
+content/02f.entregables.md:3:arquitectura
+content/02f.entregables.md:3:Detalle
+content/02f.entregables.md:3:el
+content/02f.entregables.md:3:impactados
+content/02f.entregables.md:3:ítems
+content/02f.entregables.md:3:por
+content/02f.entregables.md:3:proyecto
+content/02f.entregables.md:4:Detalle
+content/02f.entregables.md:4:herramientas
+content/02f.entregables.md:4:participanes
+content/02f.entregables.md:4:recursos
+content/02f.entregables.md:4:responsabilidades
+content/02f.entregables.md:6:Fase
+content/02f.entregables.md:7:diseño
+content/02f.entregables.md:7:mejoramiento
+content/02f.entregables.md:7:Procesos
+content/02f.entregables.md:7:riesgos
+content/02f.entregables.md:7:técnicos
+content/02f.entregables.md:7:vigilancia
+content/02f.entregables.md:8:actualizados
+content/02f.entregables.md:8:arquitectura
+content/02f.entregables.md:8:el
+content/02f.entregables.md:8:impactados
+content/02f.entregables.md:8:ítems
+content/02f.entregables.md:8:Modelos
+content/02f.entregables.md:8:por
+content/02f.entregables.md:8:proyecto
+content/02f.entregables.md:10:Fase
+content/02f.entregables.md:11:arquitectura
+content/02f.entregables.md:11:ejecución
+content/02f.entregables.md:11:incrementados
+content/02f.entregables.md:11:ítems
+content/02f.entregables.md:12:actualizados
+content/02f.entregables.md:12:Análisis
+content/02f.entregables.md:12:arquitectura
+content/02f.entregables.md:12:impacto
+content/02f.entregables.md:12:ítems
+content/02f.entregables.md:12:modelos
+content/02f.entregables.md:14:Fase
+content/02f.entregables.md:15:arquitectura
+content/02f.entregables.md:15:ejecución
+content/02f.entregables.md:15:incrementados
+content/02f.entregables.md:15:ítems
+content/02f.entregables.md:16:actualizados
+content/02f.entregables.md:16:Análisis
+content/02f.entregables.md:16:arquitectura
+content/02f.entregables.md:16:impacto
+content/02f.entregables.md:16:ítems
+content/02f.entregables.md:16:modelos
+content/02f.entregables.md:18:Fase
+content/02f.entregables.md:19:desempeño
+content/02f.entregables.md:19:gobierno
+content/02f.entregables.md:19:implementación
+content/02f.entregables.md:19:Métricas
+content/02f.entregables.md:19:SOA
+content/02f.entregables.md:20:actualizados
+content/02f.entregables.md:20:arquitectura
+content/02f.entregables.md:20:el
+content/02f.entregables.md:20:impactados
+content/02f.entregables.md:20:ítems
+content/02f.entregables.md:20:Modelos
+content/02f.entregables.md:20:por
+content/02f.entregables.md:20:proyecto
+content/02g.costo.md:1:aproximado
+content/02g.costo.md:1:Beneficio
+content/02g.costo.md:1:Costo
+content/02g.costo.md:6:Consideraciones
+content/02.Propuesta hoja ruta 2023.md:1:brechas
+content/02.Propuesta hoja ruta 2023.md:1:cambio
+content/02.Propuesta hoja ruta 2023.md:1:Hoja
+content/02.Propuesta hoja ruta 2023.md:1:iniciativas
+content/02.Propuesta hoja ruta 2023.md:1:Portafolio
+content/02.Propuesta hoja ruta 2023.md:1:proyectos
+content/02.Propuesta hoja ruta 2023.md:1:ruta
+content/02.Propuesta hoja ruta 2023.md:1:Tema
+content/02.Propuesta hoja ruta 2023.md:3:Análisis
+content/02.Propuesta hoja ruta 2023.md:3:brecha
+content/02.Propuesta hoja ruta 2023.md:3:clave
+content/02.Propuesta hoja ruta 2023.md:3:Comparativa
+content/02.Propuesta hoja ruta 2023.md:3:Palabras
+content/02.Propuesta hoja ruta 2023.md:3:SOA
+content/02.Propuesta hoja ruta 2023.md:4:Autor
+content/02.Propuesta hoja ruta 2023.md:5:Fuente
+content/02.Propuesta hoja ruta 2023.md:7:FNA
+content/02.Propuesta hoja ruta 2023.md:7:Segmento
+content/02.Propuesta hoja ruta 2023.md:7:SOA
+content/02.Propuesta hoja ruta 2023.md:7:Vínculos
+content/02.Propuesta hoja ruta 2023.md:11:Cambio
+content/02.Propuesta hoja ruta 2023.md:11:FNA
+content/02.Propuesta hoja ruta 2023.md:11:Hoja
+content/02.Propuesta hoja ruta 2023.md:11:Proyectos
+content/02.Propuesta hoja ruta 2023.md:11:Ruta
+content/02.Propuesta hoja ruta 2023.md:15:arquitectura
+content/02.Propuesta hoja ruta 2023.md:15:brecha
+content/02.Propuesta hoja ruta 2023.md:15:cierre
+content/02.Propuesta hoja ruta 2023.md:15:dependencias
+content/02.Propuesta hoja ruta 2023.md:15:evolución
+content/02.Propuesta hoja ruta 2023.md:15:FNA
+content/02.Propuesta hoja ruta 2023.md:15:Fondo
+content/02.Propuesta hoja ruta 2023.md:15:Imagen
+content/02.Propuesta hoja ruta 2023.md:15:Prioridades
+content/02.Propuesta hoja ruta 2023.md:15:Proyectos
+content/02.Propuesta hoja ruta 2023.md:15:puntos
+content/02.Propuesta hoja ruta 2023.md:15:referencia
+content/02.Propuesta hoja ruta 2023.md:15:secuencia
+content/02.Propuesta hoja ruta 2023.md:15:SOA
+content/02.Propuesta hoja ruta 2023.md:17:elaboración
+content/02.Propuesta hoja ruta 2023.md:17:propia
+content/02.Propuesta hoja ruta 2023.md:21:Asunto
+content/02.Propuesta hoja ruta 2023.md:22:ámbito
+content/02.Propuesta hoja ruta 2023.md:22:brechas
+content/02.Propuesta hoja ruta 2023.md:22:cierre
+content/02.Propuesta hoja ruta 2023.md:22:construcción
+content/02.Propuesta hoja ruta 2023.md:22:Crédito
+content/02.Propuesta hoja ruta 2023.md:22:diagnosticados
+content/02.Propuesta hoja ruta 2023.md:22:diagnóstico
+content/02.Propuesta hoja ruta 2023.md:22:dicho
+content/02.Propuesta hoja ruta 2023.md:22:diseño
+content/02.Propuesta hoja ruta 2023.md:22:ejecución
+content/02.Propuesta hoja ruta 2023.md:22:ejecución
+content/02.Propuesta hoja ruta 2023.md:22:el
+content/02.Propuesta hoja ruta 2023.md:22:el
+content/02.Propuesta hoja ruta 2023.md:22:Estos
+content/02.Propuesta hoja ruta 2023.md:22:flexibilidad
+content/02.Propuesta hoja ruta 2023.md:22:fortalecimiento
+content/02.Propuesta hoja ruta 2023.md:22:hoja
+content/02.Propuesta hoja ruta 2023.md:22:impacten
+content/02.Propuesta hoja ruta 2023.md:22:implementación
+content/02.Propuesta hoja ruta 2023.md:22:independencia
+content/02.Propuesta hoja ruta 2023.md:22:negocio
+content/02.Propuesta hoja ruta 2023.md:22:Operación
+content/02.Propuesta hoja ruta 2023.md:22:período
+content/02.Propuesta hoja ruta 2023.md:22:plantea
+content/02.Propuesta hoja ruta 2023.md:22:problemas
+content/02.Propuesta hoja ruta 2023.md:22:proveedor
+content/02.Propuesta hoja ruta 2023.md:22:proyecto
+content/02.Propuesta hoja ruta 2023.md:22:proyectos
+content/02.Propuesta hoja ruta 2023.md:22:ruta
+content/02.Propuesta hoja ruta 2023.md:22:servicios
+content/02.Propuesta hoja ruta 2023.md:22:SOA
+content/02.Propuesta hoja ruta 2023.md:22:vicepresidencias
+content/02.Propuesta hoja ruta 2023.md:24:Ahorro
+content/02.Propuesta hoja ruta 2023.md:24:aumentar
+content/02.Propuesta hoja ruta 2023.md:24:aumentar
+content/02.Propuesta hoja ruta 2023.md:24:capacidad
+content/02.Propuesta hoja ruta 2023.md:24:capacidades
+content/02.Propuesta hoja ruta 2023.md:24:desarrollo
+content/02.Propuesta hoja ruta 2023.md:24:ejecución
+content/02.Propuesta hoja ruta 2023.md:24:el
+content/02.Propuesta hoja ruta 2023.md:24:estas
+content/02.Propuesta hoja ruta 2023.md:24:FNA
+content/02.Propuesta hoja ruta 2023.md:24:Fondo
+content/02.Propuesta hoja ruta 2023.md:24:hoja
+content/02.Propuesta hoja ruta 2023.md:24:inicio
+content/02.Propuesta hoja ruta 2023.md:24:modernizar
+content/02.Propuesta hoja ruta 2023.md:24:Nacional
+content/02.Propuesta hoja ruta 2023.md:24:procura
+content/02.Propuesta hoja ruta 2023.md:24:requerimientos
+content/02.Propuesta hoja ruta 2023.md:24:resultado
+content/02.Propuesta hoja ruta 2023.md:24:ruta
+content/02.Propuesta hoja ruta 2023.md:24:soluciones
+content/02.Propuesta hoja ruta 2023.md:24:soluciones
+content/02.Propuesta hoja ruta 2023.md:24:tecnológico
+content/02.Propuesta hoja ruta 2023.md:26:buscan
+content/02.Propuesta hoja ruta 2023.md:26:diagnosticada
+content/02.Propuesta hoja ruta 2023.md:26:está
+content/02.Propuesta hoja ruta 2023.md:26:hoja
+content/02.Propuesta hoja ruta 2023.md:26:implementación
+content/02.Propuesta hoja ruta 2023.md:26:objetivos
+content/02.Propuesta hoja ruta 2023.md:26:por
+content/02.Propuesta hoja ruta 2023.md:26:proyectos
+content/02.Propuesta hoja ruta 2023.md:26:Puntualmente
+content/02.Propuesta hoja ruta 2023.md:26:ruta
+content/02.Propuesta hoja ruta 2023.md:26:tal
+content/02.Propuesta hoja ruta 2023.md:26:todos
+content/02.Propuesta hoja ruta 2023.md:28:Flexibilidad
+content/02.Propuesta hoja ruta 2023.md:28:tiempo
+content/02.Propuesta hoja ruta 2023.md:29:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:29:SOA
+content/02.Propuesta hoja ruta 2023.md:30:Independencia
+content/02.Propuesta hoja ruta 2023.md:30:proveedor
+content/02.Propuesta hoja ruta 2023.md:32:brechas
+content/02.Propuesta hoja ruta 2023.md:32:cual
+content/02.Propuesta hoja ruta 2023.md:32:está
+content/02.Propuesta hoja ruta 2023.md:32:hoja
+content/02.Propuesta hoja ruta 2023.md:32:impactar
+content/02.Propuesta hoja ruta 2023.md:32:oportunidades
+content/02.Propuesta hoja ruta 2023.md:32:orientada
+content/02.Propuesta hoja ruta 2023.md:32:ruta
+content/02.Propuesta hoja ruta 2023.md:32:siguientes
+content/02.Propuesta hoja ruta 2023.md:33:capacidad
+content/02.Propuesta hoja ruta 2023.md:33:figura
+content/02.Propuesta hoja ruta 2023.md:33:gobierno
+content/02.Propuesta hoja ruta 2023.md:33:Instaurar
+content/02.Propuesta hoja ruta 2023.md:33:proceso
+content/02.Propuesta hoja ruta 2023.md:33:recursos
+content/02.Propuesta hoja ruta 2023.md:33:SOA
+content/02.Propuesta hoja ruta 2023.md:34:construcción
+content/02.Propuesta hoja ruta 2023.md:34:DevOps
+content/02.Propuesta hoja ruta 2023.md:34:diseño
+content/02.Propuesta hoja ruta 2023.md:34:Mejorar
+content/02.Propuesta hoja ruta 2023.md:34:proceso
+content/02.Propuesta hoja ruta 2023.md:34:SOA
+content/02.Propuesta hoja ruta 2023.md:34:soluciones
+content/02.Propuesta hoja ruta 2023.md:35:analíticos
+content/02.Propuesta hoja ruta 2023.md:35:FNA
+content/02.Propuesta hoja ruta 2023.md:35:Mejorar
+content/02.Propuesta hoja ruta 2023.md:35:oferta
+content/02.Propuesta hoja ruta 2023.md:35:segmento
+content/02.Propuesta hoja ruta 2023.md:35:servicios
+content/02.Propuesta hoja ruta 2023.md:36:Aumentar
+content/02.Propuesta hoja ruta 2023.md:36:el
+content/02.Propuesta hoja ruta 2023.md:36:FNA
+content/02.Propuesta hoja ruta 2023.md:36:nivel
+content/02.Propuesta hoja ruta 2023.md:36:SOA
+content/02.Propuesta hoja ruta 2023.md:36:Tecnología
+content/02.Propuesta hoja ruta 2023.md:36:utilización
+content/02.Propuesta hoja ruta 2023.md:37:arquitectura
+content/02.Propuesta hoja ruta 2023.md:37:Desarrollo
+content/02.Propuesta hoja ruta 2023.md:37:FNA
+content/02.Propuesta hoja ruta 2023.md:37:guiada
+content/02.Propuesta hoja ruta 2023.md:37:por
+content/02.Propuesta hoja ruta 2023.md:37:referencia
+content/02.Propuesta hoja ruta 2023.md:37:Servicios
+content/02.Propuesta hoja ruta 2023.md:38:arquitectura
+content/02.Propuesta hoja ruta 2023.md:38:Gestión
+content/02.Propuesta hoja ruta 2023.md:38:gobierno
+content/02.Propuesta hoja ruta 2023.md:38:orientada
+content/02.Propuesta hoja ruta 2023.md:38:por
+content/02.Propuesta hoja ruta 2023.md:38:Tecnología
+content/02.Propuesta hoja ruta 2023.md:39:arquitectura
+content/02.Propuesta hoja ruta 2023.md:39:Articulación
+content/02.Propuesta hoja ruta 2023.md:39:equipo
+content/02.Propuesta hoja ruta 2023.md:39:FNA
+content/02.Propuesta hoja ruta 2023.md:39:fortalecimiento
+content/02.Propuesta hoja ruta 2023.md:39:junto
+content/02.Propuesta hoja ruta 2023.md:39:proveedores
+content/02.Propuesta hoja ruta 2023.md:40:eficacia
+content/02.Propuesta hoja ruta 2023.md:40:FNA
+content/02.Propuesta hoja ruta 2023.md:40:índices
+content/02.Propuesta hoja ruta 2023.md:40:Monitoreo
+content/02.Propuesta hoja ruta 2023.md:40:servicios
+content/02.Propuesta hoja ruta 2023.md:44:Alcance
+content/02.Propuesta hoja ruta 2023.md:45:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:45:capacidades
+content/02.Propuesta hoja ruta 2023.md:45:capacidades
+content/02.Propuesta hoja ruta 2023.md:45:diagnóstico
+content/02.Propuesta hoja ruta 2023.md:45:diseño
+content/02.Propuesta hoja ruta 2023.md:45:dominio
+content/02.Propuesta hoja ruta 2023.md:45:el
+content/02.Propuesta hoja ruta 2023.md:45:el
+content/02.Propuesta hoja ruta 2023.md:45:el
+content/02.Propuesta hoja ruta 2023.md:45:fase
+content/02.Propuesta hoja ruta 2023.md:45:Flexibilidad
+content/02.Propuesta hoja ruta 2023.md:45:FNA
+content/02.Propuesta hoja ruta 2023.md:45:FNA
+content/02.Propuesta hoja ruta 2023.md:45:Fortalecimiento
+content/02.Propuesta hoja ruta 2023.md:45:hoja
+content/02.Propuesta hoja ruta 2023.md:45:impactará
+content/02.Propuesta hoja ruta 2023.md:45:implementación
+content/02.Propuesta hoja ruta 2023.md:45:implementación
+content/02.Propuesta hoja ruta 2023.md:45:incremento
+content/02.Propuesta hoja ruta 2023.md:45:mediante
+content/02.Propuesta hoja ruta 2023.md:45:negocio
+content/02.Propuesta hoja ruta 2023.md:45:objetivos
+content/02.Propuesta hoja ruta 2023.md:45:período
+content/02.Propuesta hoja ruta 2023.md:45:ruta
+content/02.Propuesta hoja ruta 2023.md:45:servicios
+content/02.Propuesta hoja ruta 2023.md:45:solamente
+content/02.Propuesta hoja ruta 2023.md:45:soluciones
+content/02.Propuesta hoja ruta 2023.md:45:todas
+content/02.Propuesta hoja ruta 2023.md:45:ver
+content/02.Propuesta hoja ruta 2023.md:47:alcance
+content/02.Propuesta hoja ruta 2023.md:47:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:47:capacidades
+content/02.Propuesta hoja ruta 2023.md:47:dominio
+content/02.Propuesta hoja ruta 2023.md:47:el
+content/02.Propuesta hoja ruta 2023.md:47:el
+content/02.Propuesta hoja ruta 2023.md:47:hoja
+content/02.Propuesta hoja ruta 2023.md:47:impactadas
+content/02.Propuesta hoja ruta 2023.md:47:período
+content/02.Propuesta hoja ruta 2023.md:47:proyecto
+content/02.Propuesta hoja ruta 2023.md:47:ruta
+content/02.Propuesta hoja ruta 2023.md:47:servicios
+content/02.Propuesta hoja ruta 2023.md:48:Capacidad
+content/02.Propuesta hoja ruta 2023.md:48:gestión
+content/02.Propuesta hoja ruta 2023.md:48:tecnología
+content/02.Propuesta hoja ruta 2023.md:49:Entrega
+content/02.Propuesta hoja ruta 2023.md:49:funcionalidades
+content/02.Propuesta hoja ruta 2023.md:49:productos
+content/02.Propuesta hoja ruta 2023.md:51:alcance
+content/02.Propuesta hoja ruta 2023.md:51:aquí
+content/02.Propuesta hoja ruta 2023.md:51:capacidades
+content/02.Propuesta hoja ruta 2023.md:51:ejecución
+content/02.Propuesta hoja ruta 2023.md:51:el
+content/02.Propuesta hoja ruta 2023.md:51:El
+content/02.Propuesta hoja ruta 2023.md:51:entrega
+content/02.Propuesta hoja ruta 2023.md:51:funcionalidades
+content/02.Propuesta hoja ruta 2023.md:51:gestión
+content/02.Propuesta hoja ruta 2023.md:51:incluidas
+content/02.Propuesta hoja ruta 2023.md:51:incremento
+content/02.Propuesta hoja ruta 2023.md:51:indicados
+content/02.Propuesta hoja ruta 2023.md:51:mediante
+content/02.Propuesta hoja ruta 2023.md:51:período
+content/02.Propuesta hoja ruta 2023.md:51:productos
+content/02.Propuesta hoja ruta 2023.md:51:proyectos
+content/02.Propuesta hoja ruta 2023.md:51:realizará
+content/02.Propuesta hoja ruta 2023.md:51:tecnología
+content/02.Propuesta hoja ruta 2023.md:53:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:53:brecha
+content/02.Propuesta hoja ruta 2023.md:53:cierre
+content/02.Propuesta hoja ruta 2023.md:53:dominio
+content/02.Propuesta hoja ruta 2023.md:53:FNA
+content/02.Propuesta hoja ruta 2023.md:53:Gobierno
+content/02.Propuesta hoja ruta 2023.md:53:Incremento
+content/02.Propuesta hoja ruta 2023.md:53:proy
+content/02.Propuesta hoja ruta 2023.md:53:servicios
+content/02.Propuesta hoja ruta 2023.md:53:SOA
+content/02.Propuesta hoja ruta 2023.md:53:únicamente
+content/02.Propuesta hoja ruta 2023.md:54:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:54:Arquitectura
+content/02.Propuesta hoja ruta 2023.md:54:brecha
+content/02.Propuesta hoja ruta 2023.md:54:cierre
+content/02.Propuesta hoja ruta 2023.md:54:dominio
+content/02.Propuesta hoja ruta 2023.md:54:Incremento
+content/02.Propuesta hoja ruta 2023.md:54:proy
+content/02.Propuesta hoja ruta 2023.md:54:Referencia
+content/02.Propuesta hoja ruta 2023.md:54:servicios
+content/02.Propuesta hoja ruta 2023.md:54:únicamente
+content/02.Propuesta hoja ruta 2023.md:56:alcance
+content/02.Propuesta hoja ruta 2023.md:56:ejecución
+content/02.Propuesta hoja ruta 2023.md:56:el
+content/02.Propuesta hoja ruta 2023.md:56:El
+content/02.Propuesta hoja ruta 2023.md:56:hoja
+content/02.Propuesta hoja ruta 2023.md:56:ilustrado
+content/02.Propuesta hoja ruta 2023.md:56:imagen
+content/02.Propuesta hoja ruta 2023.md:56:período
+content/02.Propuesta hoja ruta 2023.md:56:proyecto
+content/02.Propuesta hoja ruta 2023.md:56:ruta
+content/02.Propuesta hoja ruta 2023.md:56:siguente
+content/02.Propuesta hoja ruta 2023.md:60:alcance
+content/02.Propuesta hoja ruta 2023.md:60:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:60:capacidades
+content/02.Propuesta hoja ruta 2023.md:60:Capacidades
+content/02.Propuesta hoja ruta 2023.md:60:dentro
+content/02.Propuesta hoja ruta 2023.md:60:dominio
+content/02.Propuesta hoja ruta 2023.md:60:evolución
+content/02.Propuesta hoja ruta 2023.md:60:Flexibilidad
+content/02.Propuesta hoja ruta 2023.md:60:Fortalecimiento
+content/02.Propuesta hoja ruta 2023.md:60:hoja
+content/02.Propuesta hoja ruta 2023.md:60:Imagen
+content/02.Propuesta hoja ruta 2023.md:60:impactar
+content/02.Propuesta hoja ruta 2023.md:60:incrementadas
+content/02.Propuesta hoja ruta 2023.md:60:objetivos
+content/02.Propuesta hoja ruta 2023.md:60:período
+content/02.Propuesta hoja ruta 2023.md:60:proyecto
+content/02.Propuesta hoja ruta 2023.md:60:ruta
+content/02.Propuesta hoja ruta 2023.md:60:servicios
+content/02.Propuesta hoja ruta 2023.md:62:alcance
+content/02.Propuesta hoja ruta 2023.md:62:arquitectura
+content/02.Propuesta hoja ruta 2023.md:62:capacidades
+content/02.Propuesta hoja ruta 2023.md:62:consecuencia
+content/02.Propuesta hoja ruta 2023.md:62:consiguiente
+content/02.Propuesta hoja ruta 2023.md:62:el
+content/02.Propuesta hoja ruta 2023.md:62:este
+content/02.Propuesta hoja ruta 2023.md:62:estos
+content/02.Propuesta hoja ruta 2023.md:62:evolucionará
+content/02.Propuesta hoja ruta 2023.md:62:FNA
+content/02.Propuesta hoja ruta 2023.md:62:Fondo
+content/02.Propuesta hoja ruta 2023.md:62:hoja
+content/02.Propuesta hoja ruta 2023.md:62:incluidas
+content/02.Propuesta hoja ruta 2023.md:62:incremento
+content/02.Propuesta hoja ruta 2023.md:62:nuevas
+content/02.Propuesta hoja ruta 2023.md:62:período
+content/02.Propuesta hoja ruta 2023.md:62:Por
+content/02.Propuesta hoja ruta 2023.md:62:proyectos
+content/02.Propuesta hoja ruta 2023.md:62:ruta
+content/02.Propuesta hoja ruta 2023.md:62:sigue
+content/02.Propuesta hoja ruta 2023.md:62:SOA
+content/02.Propuesta hoja ruta 2023.md:62:su
+content/02.Propuesta hoja ruta 2023.md:62:versiones
+content/02.Propuesta hoja ruta 2023.md:62:vez
+content/02.Propuesta hoja ruta 2023.md:66:arquitectura
+content/02.Propuesta hoja ruta 2023.md:66:capacidades
+content/02.Propuesta hoja ruta 2023.md:66:evolución
+content/02.Propuesta hoja ruta 2023.md:66:FNA
+content/02.Propuesta hoja ruta 2023.md:66:Imagen
+content/02.Propuesta hoja ruta 2023.md:66:incrementadas
+content/02.Propuesta hoja ruta 2023.md:66:razón
+content/02.Propuesta hoja ruta 2023.md:66:referencia
+content/02.Propuesta hoja ruta 2023.md:70:Componentes
+content/02.Propuesta hoja ruta 2023.md:70:modificados
+content/02.Propuesta hoja ruta 2023.md:71:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:71:arquitectura
+content/02.Propuesta hoja ruta 2023.md:71:aumentado
+content/02.Propuesta hoja ruta 2023.md:71:aumentos
+content/02.Propuesta hoja ruta 2023.md:71:componentes
+content/02.Propuesta hoja ruta 2023.md:71:deban
+content/02.Propuesta hoja ruta 2023.md:71:FNA
+content/02.Propuesta hoja ruta 2023.md:71:humano
+content/02.Propuesta hoja ruta 2023.md:71:implica
+content/02.Propuesta hoja ruta 2023.md:71:ítems
+content/02.Propuesta hoja ruta 2023.md:71:modificados
+content/02.Propuesta hoja ruta 2023.md:71:recursos
+content/02.Propuesta hoja ruta 2023.md:71:ser
+content/02.Propuesta hoja ruta 2023.md:71:SOA
+content/02.Propuesta hoja ruta 2023.md:71:tecnologías
+content/02.Propuesta hoja ruta 2023.md:71:trabajo
+content/02.Propuesta hoja ruta 2023.md:71:versión
+content/02.Propuesta hoja ruta 2023.md:71:versión
+content/02.Propuesta hoja ruta 2023.md:73:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:73:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:73:arquitectura
+content/02.Propuesta hoja ruta 2023.md:73:bajo
+content/02.Propuesta hoja ruta 2023.md:73:cambiar
+content/02.Propuesta hoja ruta 2023.md:73:concepto
+content/02.Propuesta hoja ruta 2023.md:73:condiciones
+content/02.Propuesta hoja ruta 2023.md:73:continuación
+content/02.Propuesta hoja ruta 2023.md:73:dominio
+content/02.Propuesta hoja ruta 2023.md:73:ejemplo
+content/02.Propuesta hoja ruta 2023.md:73:especialización
+content/02.Propuesta hoja ruta 2023.md:73:este
+content/02.Propuesta hoja ruta 2023.md:73:FNA
+content/02.Propuesta hoja ruta 2023.md:73:hoja
+content/02.Propuesta hoja ruta 2023.md:73:ilustrativo
+content/02.Propuesta hoja ruta 2023.md:73:impactados
+content/02.Propuesta hoja ruta 2023.md:73:implemenatción
+content/02.Propuesta hoja ruta 2023.md:73:incrementos
+content/02.Propuesta hoja ruta 2023.md:73:ítems
+content/02.Propuesta hoja ruta 2023.md:73:ítems
+content/02.Propuesta hoja ruta 2023.md:73:lista
+content/02.Propuesta hoja ruta 2023.md:73:llegar
+content/02.Propuesta hoja ruta 2023.md:73:otros
+content/02.Propuesta hoja ruta 2023.md:73:período
+content/02.Propuesta hoja ruta 2023.md:73:por
+content/02.Propuesta hoja ruta 2023.md:73:presentamos
+content/02.Propuesta hoja ruta 2023.md:73:presentes
+content/02.Propuesta hoja ruta 2023.md:73:propósito
+content/02.Propuesta hoja ruta 2023.md:73:proyecto
+content/02.Propuesta hoja ruta 2023.md:73:pueden
+content/02.Propuesta hoja ruta 2023.md:73:pueden
+content/02.Propuesta hoja ruta 2023.md:73:pueden
+content/02.Propuesta hoja ruta 2023.md:73:recursos
+content/02.Propuesta hoja ruta 2023.md:73:ruta
+content/02.Propuesta hoja ruta 2023.md:73:ser
+content/02.Propuesta hoja ruta 2023.md:73:ser
+content/02.Propuesta hoja ruta 2023.md:73:servicios
+content/02.Propuesta hoja ruta 2023.md:73:sujetos
+content/02.Propuesta hoja ruta 2023.md:73:tiempo
+content/02.Propuesta hoja ruta 2023.md:73:una
+content/02.Propuesta hoja ruta 2023.md:73:únicamente
+content/02.Propuesta hoja ruta 2023.md:73:únicamente
+content/02.Propuesta hoja ruta 2023.md:73:variante
+content/02.Propuesta hoja ruta 2023.md:77:Aplicaciones
+content/02.Propuesta hoja ruta 2023.md:77:arquitectura
+content/02.Propuesta hoja ruta 2023.md:77:FNA
+content/02.Propuesta hoja ruta 2023.md:77:Imagen
+content/02.Propuesta hoja ruta 2023.md:77:incrementos
+content/02.Propuesta hoja ruta 2023.md:77:involucrados
+content/02.Propuesta hoja ruta 2023.md:77:referencia
+content/02.Propuesta hoja ruta 2023.md:77:versión
+content/02.Propuesta hoja ruta 2023.md:81:Equipo
+content/02.Propuesta hoja ruta 2023.md:81:Proyecto
+content/02.Propuesta hoja ruta 2023.md:82:Organizado
+content/02.Propuesta hoja ruta 2023.md:82:por
+content/02.Propuesta hoja ruta 2023.md:82:proyecto
+content/02.Propuesta hoja ruta 2023.md:84:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:84:dominio
+content/02.Propuesta hoja ruta 2023.md:84:FNA
+content/02.Propuesta hoja ruta 2023.md:84:Gobierno
+content/02.Propuesta hoja ruta 2023.md:84:Incremento
+content/02.Propuesta hoja ruta 2023.md:84:servicios
+content/02.Propuesta hoja ruta 2023.md:84:SOA
+content/02.Propuesta hoja ruta 2023.md:85:Dedicación
+content/02.Propuesta hoja ruta 2023.md:85:Trabajo
+content/02.Propuesta hoja ruta 2023.md:87:Calidad
+content/02.Propuesta hoja ruta 2023.md:87:Gerente
+content/02.Propuesta hoja ruta 2023.md:87:proyecto
+content/02.Propuesta hoja ruta 2023.md:87:proyecto
+content/02.Propuesta hoja ruta 2023.md:87:Stefanini
+content/02.Propuesta hoja ruta 2023.md:88:alcance
+content/02.Propuesta hoja ruta 2023.md:88:común
+content/02.Propuesta hoja ruta 2023.md:88:entre
+content/02.Propuesta hoja ruta 2023.md:88:este
+content/02.Propuesta hoja ruta 2023.md:88:Nota
+content/02.Propuesta hoja ruta 2023.md:88:proyectos
+content/02.Propuesta hoja ruta 2023.md:88:puede
+content/02.Propuesta hoja ruta 2023.md:88:recurso
+content/02.Propuesta hoja ruta 2023.md:88:ser
+content/02.Propuesta hoja ruta 2023.md:89:Arquitectura
+content/02.Propuesta hoja ruta 2023.md:89:empresarial
+content/02.Propuesta hoja ruta 2023.md:89:Especialista
+content/02.Propuesta hoja ruta 2023.md:89:gobierno
+content/02.Propuesta hoja ruta 2023.md:89:modelamiento
+content/02.Propuesta hoja ruta 2023.md:89:montaje
+content/02.Propuesta hoja ruta 2023.md:89:procesos
+content/02.Propuesta hoja ruta 2023.md:89:Referente
+content/02.Propuesta hoja ruta 2023.md:89:servicios
+content/02.Propuesta hoja ruta 2023.md:89:SOA
+content/02.Propuesta hoja ruta 2023.md:89:SOA
+content/02.Propuesta hoja ruta 2023.md:89:Stefanini
+content/02.Propuesta hoja ruta 2023.md:90:apoyo
+content/02.Propuesta hoja ruta 2023.md:90:considerar
+content/02.Propuesta hoja ruta 2023.md:90:especialista
+content/02.Propuesta hoja ruta 2023.md:90:experiencia
+content/02.Propuesta hoja ruta 2023.md:90:Nota
+content/02.Propuesta hoja ruta 2023.md:90:parcial
+content/02.Propuesta hoja ruta 2023.md:90:perfil
+content/02.Propuesta hoja ruta 2023.md:90:SOA
+content/02.Propuesta hoja ruta 2023.md:91:componentes
+content/02.Propuesta hoja ruta 2023.md:91:construcción
+content/02.Propuesta hoja ruta 2023.md:91:diseño
+content/02.Propuesta hoja ruta 2023.md:91:Especialista
+content/02.Propuesta hoja ruta 2023.md:91:modelamiento
+content/02.Propuesta hoja ruta 2023.md:91:procesos
+content/02.Propuesta hoja ruta 2023.md:91:Referente
+content/02.Propuesta hoja ruta 2023.md:91:servicios
+content/02.Propuesta hoja ruta 2023.md:91:servicios
+content/02.Propuesta hoja ruta 2023.md:91:servicios
+content/02.Propuesta hoja ruta 2023.md:91:Stefanini
+content/02.Propuesta hoja ruta 2023.md:92:ejecución
+content/02.Propuesta hoja ruta 2023.md:92:FNA
+content/02.Propuesta hoja ruta 2023.md:92:gobierno
+content/02.Propuesta hoja ruta 2023.md:92:modelamiento
+content/02.Propuesta hoja ruta 2023.md:92:Receción
+content/02.Propuesta hoja ruta 2023.md:92:servicios
+content/02.Propuesta hoja ruta 2023.md:92:SOA
+content/02.Propuesta hoja ruta 2023.md:93:Especialista
+content/02.Propuesta hoja ruta 2023.md:93:SOA
+content/02.Propuesta hoja ruta 2023.md:94:construcción
+content/02.Propuesta hoja ruta 2023.md:94:Especialista
+content/02.Propuesta hoja ruta 2023.md:97:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:97:Arquitectura
+content/02.Propuesta hoja ruta 2023.md:97:dominio
+content/02.Propuesta hoja ruta 2023.md:97:Incremento
+content/02.Propuesta hoja ruta 2023.md:97:Referencia
+content/02.Propuesta hoja ruta 2023.md:97:servicios
+content/02.Propuesta hoja ruta 2023.md:98:Dedicación
+content/02.Propuesta hoja ruta 2023.md:98:Trabajo
+content/02.Propuesta hoja ruta 2023.md:100:Calidad
+content/02.Propuesta hoja ruta 2023.md:100:Gerente
+content/02.Propuesta hoja ruta 2023.md:100:proyecto
+content/02.Propuesta hoja ruta 2023.md:100:proyecto
+content/02.Propuesta hoja ruta 2023.md:100:Stefanini
+content/02.Propuesta hoja ruta 2023.md:101:alcance
+content/02.Propuesta hoja ruta 2023.md:101:común
+content/02.Propuesta hoja ruta 2023.md:101:entre
+content/02.Propuesta hoja ruta 2023.md:101:este
+content/02.Propuesta hoja ruta 2023.md:101:Nota
+content/02.Propuesta hoja ruta 2023.md:101:proyectos
+content/02.Propuesta hoja ruta 2023.md:101:puede
+content/02.Propuesta hoja ruta 2023.md:101:recurso
+content/02.Propuesta hoja ruta 2023.md:101:ser
+content/02.Propuesta hoja ruta 2023.md:102:Arquitectura
+content/02.Propuesta hoja ruta 2023.md:102:diseños
+content/02.Propuesta hoja ruta 2023.md:102:Especialista
+content/02.Propuesta hoja ruta 2023.md:102:implementación
+content/02.Propuesta hoja ruta 2023.md:102:modelamiento
+content/02.Propuesta hoja ruta 2023.md:102:Referente
+content/02.Propuesta hoja ruta 2023.md:102:servicios
+content/02.Propuesta hoja ruta 2023.md:102:SOA
+content/02.Propuesta hoja ruta 2023.md:102:Stefanini
+content/02.Propuesta hoja ruta 2023.md:102:vigilancia
+content/02.Propuesta hoja ruta 2023.md:103:componentes
+content/02.Propuesta hoja ruta 2023.md:103:construcción
+content/02.Propuesta hoja ruta 2023.md:103:diseños
+content/02.Propuesta hoja ruta 2023.md:103:Especialista
+content/02.Propuesta hoja ruta 2023.md:103:implementación
+content/02.Propuesta hoja ruta 2023.md:103:Implementación
+content/02.Propuesta hoja ruta 2023.md:103:modelamiento
+content/02.Propuesta hoja ruta 2023.md:103:servicios
+content/02.Propuesta hoja ruta 2023.md:103:servicios
+content/02.Propuesta hoja ruta 2023.md:103:Stefanini
+content/02.Propuesta hoja ruta 2023.md:103:vigilancia
+content/02.Propuesta hoja ruta 2023.md:104:diseños
+content/02.Propuesta hoja ruta 2023.md:104:ejecución
+content/02.Propuesta hoja ruta 2023.md:104:FNA
+content/02.Propuesta hoja ruta 2023.md:104:implementación
+content/02.Propuesta hoja ruta 2023.md:104:modelamiento
+content/02.Propuesta hoja ruta 2023.md:104:procesos
+content/02.Propuesta hoja ruta 2023.md:104:Receción
+content/02.Propuesta hoja ruta 2023.md:104:requerimientos
+content/02.Propuesta hoja ruta 2023.md:104:requerimientos
+content/02.Propuesta hoja ruta 2023.md:104:servicios
+content/02.Propuesta hoja ruta 2023.md:104:SOA
+content/02.Propuesta hoja ruta 2023.md:105:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:105:Aplicaciones
+content/02.Propuesta hoja ruta 2023.md:105:arquitectura
+content/02.Propuesta hoja ruta 2023.md:105:arquitectura
+content/02.Propuesta hoja ruta 2023.md:105:Especialistas
+content/02.Propuesta hoja ruta 2023.md:105:FNA
+content/02.Propuesta hoja ruta 2023.md:105:FNA
+content/02.Propuesta hoja ruta 2023.md:105:incremento
+content/02.Propuesta hoja ruta 2023.md:105:incrementos
+content/02.Propuesta hoja ruta 2023.md:105:involucrados
+content/02.Propuesta hoja ruta 2023.md:105:pertenecientes
+content/02.Propuesta hoja ruta 2023.md:105:referencia
+content/02.Propuesta hoja ruta 2023.md:105:ver
+content/02.Propuesta hoja ruta 2023.md:105:versión
+content/02.Propuesta hoja ruta 2023.md:105:versión
+content/02.Propuesta hoja ruta 2023.md:106:aplicaciones
+content/02.Propuesta hoja ruta 2023.md:106:arquitectura
+content/02.Propuesta hoja ruta 2023.md:106:FNA
+content/02.Propuesta hoja ruta 2023.md:106:funcional
+content/02.Propuesta hoja ruta 2023.md:106:incremento
+content/02.Propuesta hoja ruta 2023.md:106:Líder
+content/02.Propuesta hoja ruta 2023.md:106:pertenecientes
+content/02.Propuesta hoja ruta 2023.md:106:versión
+content/02.Propuesta hoja ruta 2023.md:110:dedicación
+content/02.Propuesta hoja ruta 2023.md:110:dispone
+content/02.Propuesta hoja ruta 2023.md:110:el
+content/02.Propuesta hoja ruta 2023.md:110:FNA
+content/02.Propuesta hoja ruta 2023.md:110:internos
+content/02.Propuesta hoja ruta 2023.md:110:participación
+content/02.Propuesta hoja ruta 2023.md:110:recursos
+content/02.Propuesta hoja ruta 2023.md:112:meses
+content/02.Propuesta hoja ruta 2023.md:112:proy
+content/02.Propuesta hoja ruta 2023.md:116:Trabajo
+content/02.Propuesta hoja ruta 2023.md:117:abajo
+content/02.Propuesta hoja ruta 2023.md:117:abajo
+content/02.Propuesta hoja ruta 2023.md:117:alcance
+content/02.Propuesta hoja ruta 2023.md:117:arquitectura
+content/02.Propuesta hoja ruta 2023.md:117:arriba
+content/02.Propuesta hoja ruta 2023.md:117:consignado
+content/02.Propuesta hoja ruta 2023.md:117:corresponden
+content/02.Propuesta hoja ruta 2023.md:117:detalle
+content/02.Propuesta hoja ruta 2023.md:117:determina
+content/02.Propuesta hoja ruta 2023.md:117:el
+content/02.Propuesta hoja ruta 2023.md:117:El
+content/02.Propuesta hoja ruta 2023.md:117:elementos
+content/02.Propuesta hoja ruta 2023.md:117:está
+content/02.Propuesta hoja ruta 2023.md:117:evolucionarán
+content/02.Propuesta hoja ruta 2023.md:117:fase
+content/02.Propuesta hoja ruta 2023.md:117:fases
+content/02.Propuesta hoja ruta 2023.md:117:fases
+content/02.Propuesta hoja ruta 2023.md:117:gobierno
+content/02.Propuesta hoja ruta 2023.md:117:imagen
+content/02.Propuesta hoja ruta 2023.md:117:imagen
+content/02.Propuesta hoja ruta 2023.md:117:incrementos
+content/02.Propuesta hoja ruta 2023.md:117:Levantamiento
+content/02.Propuesta hoja ruta 2023.md:117:LVT
+content/02.Propuesta hoja ruta 2023.md:117:Organización
+content/02.Propuesta hoja ruta 2023.md:117:organizado
+content/02.Propuesta hoja ruta 2023.md:117:periodo
+content/02.Propuesta hoja ruta 2023.md:117:planteados
+content/02.Propuesta hoja ruta 2023.md:117:presentada
+content/02.Propuesta hoja ruta 2023.md:117:proyecto
+content/02.Propuesta hoja ruta 2023.md:117:proyecto
+content/02.Propuesta hoja ruta 2023.md:121:Abril
+content/02.Propuesta hoja ruta 2023.md:121:Dic
+content/02.Propuesta hoja ruta 2023.md:121:FNA
+content/02.Propuesta hoja ruta 2023.md:121:Hoja
+content/02.Propuesta hoja ruta 2023.md:121:Imagen
+content/02.Propuesta hoja ruta 2023.md:121:Implementación
+content/02.Propuesta hoja ruta 2023.md:121:Proyecto
+content/02.Propuesta hoja ruta 2023.md:121:Ruta
+content/02.Propuesta hoja ruta 2023.md:121:Ver
+content/02.Propuesta hoja ruta 2023.md:123:adelante
+content/02.Propuesta hoja ruta 2023.md:123:aplican
+content/02.Propuesta hoja ruta 2023.md:123:arquitectura
+content/02.Propuesta hoja ruta 2023.md:123:determina
+content/02.Propuesta hoja ruta 2023.md:123:diseña
+content/02.Propuesta hoja ruta 2023.md:123:el
+content/02.Propuesta hoja ruta 2023.md:123:Estos
+content/02.Propuesta hoja ruta 2023.md:123:fase
+content/02.Propuesta hoja ruta 2023.md:123:fases
+content/02.Propuesta hoja ruta 2023.md:123:FNA
+content/02.Propuesta hoja ruta 2023.md:123:gestión
+content/02.Propuesta hoja ruta 2023.md:123:gobierno
+content/02.Propuesta hoja ruta 2023.md:123:Gobierno
+content/02.Propuesta hoja ruta 2023.md:123:mejoramiento
+content/02.Propuesta hoja ruta 2023.md:123:mismo
+content/02.Propuesta hoja ruta 2023.md:123:procesos
+content/02.Propuesta hoja ruta 2023.md:123:procesos
+content/02.Propuesta hoja ruta 2023.md:123:proyecto
+content/02.Propuesta hoja ruta 2023.md:123:regirán
+content/02.Propuesta hoja ruta 2023.md:123:riesgo
+content/02.Propuesta hoja ruta 2023.md:123:SOA
+content/02.Propuesta hoja ruta 2023.md:123:sucesivas
+content/02.Propuesta hoja ruta 2023.md:123:técnico
+content/02.Propuesta hoja ruta 2023.md:123:vigilancia
+content/02.Propuesta hoja ruta 2023.md:125:arquitectura
+content/02.Propuesta hoja ruta 2023.md:125:componentes
+content/02.Propuesta hoja ruta 2023.md:125:directamente
+content/02.Propuesta hoja ruta 2023.md:125:elementos
+content/02.Propuesta hoja ruta 2023.md:125:esto
+content/02.Propuesta hoja ruta 2023.md:125:fase
+content/02.Propuesta hoja ruta 2023.md:125:fases
+content/02.Propuesta hoja ruta 2023.md:125:FNA
+content/02.Propuesta hoja ruta 2023.md:125:herramientas
+content/02.Propuesta hoja ruta 2023.md:125:impactan
+content/02.Propuesta hoja ruta 2023.md:125:información
+content/02.Propuesta hoja ruta 2023.md:125:Levantamiento
+content/02.Propuesta hoja ruta 2023.md:125:seleccionados
+content/02.Propuesta hoja ruta 2023.md:125:servicios
+content/02.Propuesta hoja ruta 2023.md:125:sistemas
+content/02.Propuesta hoja ruta 2023.md:125:SOA
+content/02.Propuesta hoja ruta 2023.md:127:arquitectura
+content/02.Propuesta hoja ruta 2023.md:127:desempeño
+content/02.Propuesta hoja ruta 2023.md:127:diagnóstico
+content/02.Propuesta hoja ruta 2023.md:127:ejecutar
+content/02.Propuesta hoja ruta 2023.md:127:encarga
+content/02.Propuesta hoja ruta 2023.md:127:evolución
+content/02.Propuesta hoja ruta 2023.md:127:fase
+content/02.Propuesta hoja ruta 2023.md:127:Finalmente
+content/02.Propuesta hoja ruta 2023.md:127:gobierno
+content/02.Propuesta hoja ruta 2023.md:127:incrementos
+content/02.Propuesta hoja ruta 2023.md:127:indicaddores
+content/02.Propuesta hoja ruta 2023.md:127:medición
+content/02.Propuesta hoja ruta 2023.md:127:referencia
+content/02.Propuesta hoja ruta 2023.md:127:resultados
+content/02.Propuesta hoja ruta 2023.md:127:tanto
+content/02.Propuesta hoja ruta 2023.md:127:ver
+content/02.Propuesta hoja ruta 2023.md:131:Entregables
+content/02.Propuesta hoja ruta 2023.md:132:Fase
+content/02.Propuesta hoja ruta 2023.md:132:LVT
+content/02.Propuesta hoja ruta 2023.md:133:arquitectura
+content/02.Propuesta hoja ruta 2023.md:133:Detalle
+content/02.Propuesta hoja ruta 2023.md:133:el
+content/02.Propuesta hoja ruta 2023.md:133:impactados
+content/02.Propuesta hoja ruta 2023.md:133:ítems
+content/02.Propuesta hoja ruta 2023.md:133:por
+content/02.Propuesta hoja ruta 2023.md:133:proyecto
+content/02.Propuesta hoja ruta 2023.md:134:Detalle
+content/02.Propuesta hoja ruta 2023.md:134:herramientas
+content/02.Propuesta hoja ruta 2023.md:134:participanes
+content/02.Propuesta hoja ruta 2023.md:134:recursos
+content/02.Propuesta hoja ruta 2023.md:134:responsabilidades
+content/02.Propuesta hoja ruta 2023.md:136:Fase
+content/02.Propuesta hoja ruta 2023.md:137:diseño
+content/02.Propuesta hoja ruta 2023.md:137:mejoramiento
+content/02.Propuesta hoja ruta 2023.md:137:Procesos
+content/02.Propuesta hoja ruta 2023.md:137:riesgos
+content/02.Propuesta hoja ruta 2023.md:137:técnicos
+content/02.Propuesta hoja ruta 2023.md:137:vigilancia
+content/02.Propuesta hoja ruta 2023.md:138:actualizados
+content/02.Propuesta hoja ruta 2023.md:138:arquitectura
+content/02.Propuesta hoja ruta 2023.md:138:el
+content/02.Propuesta hoja ruta 2023.md:138:impactados
+content/02.Propuesta hoja ruta 2023.md:138:ítems
+content/02.Propuesta hoja ruta 2023.md:138:Modelos
+content/02.Propuesta hoja ruta 2023.md:138:por
+content/02.Propuesta hoja ruta 2023.md:138:proyecto
+content/02.Propuesta hoja ruta 2023.md:140:Fase
+content/02.Propuesta hoja ruta 2023.md:141:arquitectura
+content/02.Propuesta hoja ruta 2023.md:141:ejecución
+content/02.Propuesta hoja ruta 2023.md:141:incrementados
+content/02.Propuesta hoja ruta 2023.md:141:ítems
+content/02.Propuesta hoja ruta 2023.md:142:actualizados
+content/02.Propuesta hoja ruta 2023.md:142:Análisis
+content/02.Propuesta hoja ruta 2023.md:142:arquitectura
+content/02.Propuesta hoja ruta 2023.md:142:impacto
+content/02.Propuesta hoja ruta 2023.md:142:ítems
+content/02.Propuesta hoja ruta 2023.md:142:modelos
+content/02.Propuesta hoja ruta 2023.md:144:Fase
+content/02.Propuesta hoja ruta 2023.md:145:arquitectura
+content/02.Propuesta hoja ruta 2023.md:145:ejecución
+content/02.Propuesta hoja ruta 2023.md:145:incrementados
+content/02.Propuesta hoja ruta 2023.md:145:ítems
+content/02.Propuesta hoja ruta 2023.md:146:actualizados
+content/02.Propuesta hoja ruta 2023.md:146:Análisis
+content/02.Propuesta hoja ruta 2023.md:146:arquitectura
+content/02.Propuesta hoja ruta 2023.md:146:impacto
+content/02.Propuesta hoja ruta 2023.md:146:ítems
+content/02.Propuesta hoja ruta 2023.md:146:modelos
+content/02.Propuesta hoja ruta 2023.md:148:Fase
+content/02.Propuesta hoja ruta 2023.md:149:desempeño
+content/02.Propuesta hoja ruta 2023.md:149:gobierno
+content/02.Propuesta hoja ruta 2023.md:149:implementación
+content/02.Propuesta hoja ruta 2023.md:149:Métricas
+content/02.Propuesta hoja ruta 2023.md:149:SOA
+content/02.Propuesta hoja ruta 2023.md:150:actualizados
+content/02.Propuesta hoja ruta 2023.md:150:arquitectura
+content/02.Propuesta hoja ruta 2023.md:150:el
+content/02.Propuesta hoja ruta 2023.md:150:impactados
+content/02.Propuesta hoja ruta 2023.md:150:ítems
+content/02.Propuesta hoja ruta 2023.md:150:Modelos
+content/02.Propuesta hoja ruta 2023.md:150:por
+content/02.Propuesta hoja ruta 2023.md:150:proyecto
+content/02.Propuesta hoja ruta 2023.md:152:aproximado
+content/02.Propuesta hoja ruta 2023.md:152:Beneficio
+content/02.Propuesta hoja ruta 2023.md:152:Costo
+content/02.Propuesta hoja ruta 2023.md:157:Consideraciones
