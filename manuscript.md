@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-28" />
   <meta name="citation_publication_date" content="2023-03-28" />
   <meta property="article:published_time" content="2023-03-28" />
-  <meta name="dc.modified" content="2023-03-28T23:04:27+00:00" />
-  <meta property="article:modified_time" content="2023-03-28T23:04:27+00:00" />
+  <meta name="dc.modified" content="2023-03-28T23:43:23+00:00" />
+  <meta property="article:modified_time" content="2023-03-28T23:43:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/3adcc3ae39fab0fd1cb1385c1ce3d1b03a11e572/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/3adcc3ae39fab0fd1cb1385c1ce3d1b03a11e572/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/3adcc3ae39fab0fd1cb1385c1ce3d1b03a11e572/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/3adcc3ae39fab0fd1cb1385c1ce3d1b03a11e572/))
+([permalink](https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/))
 was automatically generated
-from [hwong23/e-service@3adcc3a](https://github.com/hwong23/e-service/tree/3adcc3ae39fab0fd1cb1385c1ce3d1b03a11e572)
+from [hwong23/e-service@1f85639](https://github.com/hwong23/e-service/tree/1f8563969102911e792aff6a0c6f5a002099d454)
 on March 28, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 28, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3adcc3a del 28 Mar 2023                              |
+|Version|1f85639 del 28 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -162,6 +162,7 @@ Los proyectos de la hoja de ruta resultado de la ejecución de la consultoría "
 <br>
 
 La secuencia, la dependencia y los plazos estimados de los proyectos de la hoja de ruta E-Service FNA es la indicada en la siguiente imagen.
+
 ![](images/hojaruta1.png)
 
 [Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, dependencias, secuencia, puntos de control de la evolución de la arquitectura de referencia SOA 2.0 del Fondo.
@@ -198,23 +199,23 @@ Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguiente
 
 
 
-## Alcance
-Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de diseño e implementación de soluciones de negocio (ver todas las capacidades FNA, diagnóstico E-Service, fase 1), en el dominio de aplicaciones y servicios solamente. 
+## Alcance de la primera ejecución de la hoja de ruta E-Service
+Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA 
+de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2), en el dominio de aplicaciones y servicios únicamente. Esto implica la planeación, ejecución y seguimiento de los proyectos siguientes:
 
-Las capacidades impactadas en el alcance del proyecto hoja de ruta E-Service, período 2023, para el dominio de aplicaciones y servicios 
-* CAP1. Capacidad de gestión de tecnología
-* CAP2. Entrega de productos y funcionalidades.
+1. PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
+1. PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
+1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
-El incremento de las capacidades de gestión de tecnología (TI), y la de entrega de productos y funcionalidades, incluidas en el alcance del período 2023, se realizará mediante la ejecución de los proyectos aquí indicados:
-
-	1. (proy. cierre brecha) PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
-	2. (proy. cierre brecha) Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
-
-El alcance del proyecto de ejecución de la hoja de ruta, período 2023, es el ilustrado en la imagen siguente.
+El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado a continuación.
 
 ![](images/vistaevolucion.png)
 
 [Imagen 1.]() Vista de evolución de capacidades dentro del alcance del proyecto hoja de ruta E-Service, período 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
+
+<br>
+
+
 
 Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el período 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas, como sigue
 
@@ -223,6 +224,12 @@ Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el 
 [Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
 
 <br>
+
+## Ficha de proyectos
+
+1. PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
+1. PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
+1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
 
 

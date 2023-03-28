@@ -71,22 +71,22 @@ content/02a1.asunto.md:21:proyectos
 content/02a1.asunto.md:21:ruta
 content/02a1.asunto.md:21:secuencia
 content/02a1.asunto.md:21:siguiente
-content/02a1.asunto.md:24:arquitectura
-content/02a1.asunto.md:24:brecha
-content/02a1.asunto.md:24:cierre
-content/02a1.asunto.md:24:dependencias
-content/02a1.asunto.md:24:evolución
-content/02a1.asunto.md:24:FNA
-content/02a1.asunto.md:24:Fondo
-content/02a1.asunto.md:24:Imagen
-content/02a1.asunto.md:24:Prioridades
-content/02a1.asunto.md:24:Proyectos
-content/02a1.asunto.md:24:puntos
-content/02a1.asunto.md:24:referencia
-content/02a1.asunto.md:24:secuencia
-content/02a1.asunto.md:24:SOA
-content/02a1.asunto.md:26:Arquitectura
-content/02a1.asunto.md:26:Consultoría
+content/02a1.asunto.md:25:arquitectura
+content/02a1.asunto.md:25:brecha
+content/02a1.asunto.md:25:cierre
+content/02a1.asunto.md:25:dependencias
+content/02a1.asunto.md:25:evolución
+content/02a1.asunto.md:25:FNA
+content/02a1.asunto.md:25:Fondo
+content/02a1.asunto.md:25:Imagen
+content/02a1.asunto.md:25:Prioridades
+content/02a1.asunto.md:25:Proyectos
+content/02a1.asunto.md:25:puntos
+content/02a1.asunto.md:25:referencia
+content/02a1.asunto.md:25:secuencia
+content/02a1.asunto.md:25:SOA
+content/02a1.asunto.md:27:Arquitectura
+content/02a1.asunto.md:27:Consultoría
 content/02a2.justificacion.md:1:Justificación
 content/02a2.justificacion.md:2:ámbito
 content/02a2.justificacion.md:2:brechas
@@ -225,224 +225,213 @@ content/02a2.justificacion.md:21:índices
 content/02a2.justificacion.md:21:Monitoreo
 content/02a2.justificacion.md:21:servicios
 content/02b.alcance.md:1:Alcance
-content/02b.alcance.md:2:aplicaciones
+content/02b.alcance.md:1:ejecución
+content/02b.alcance.md:1:hoja
+content/02b.alcance.md:1:primera
+content/02b.alcance.md:1:ruta
 content/02b.alcance.md:2:capacidades
-content/02b.alcance.md:2:capacidades
-content/02b.alcance.md:2:diagnóstico
-content/02b.alcance.md:2:diseño
-content/02b.alcance.md:2:dominio
 content/02b.alcance.md:2:el
 content/02b.alcance.md:2:el
-content/02b.alcance.md:2:el
-content/02b.alcance.md:2:fase
 content/02b.alcance.md:2:Flexibilidad
-content/02b.alcance.md:2:FNA
 content/02b.alcance.md:2:FNA
 content/02b.alcance.md:2:Fortalecimiento
 content/02b.alcance.md:2:hoja
 content/02b.alcance.md:2:impactará
 content/02b.alcance.md:2:implementación
-content/02b.alcance.md:2:implementación
 content/02b.alcance.md:2:incremento
 content/02b.alcance.md:2:mediante
-content/02b.alcance.md:2:negocio
 content/02b.alcance.md:2:objetivos
 content/02b.alcance.md:2:período
 content/02b.alcance.md:2:ruta
-content/02b.alcance.md:2:servicios
-content/02b.alcance.md:2:solamente
-content/02b.alcance.md:2:soluciones
-content/02b.alcance.md:2:todas
-content/02b.alcance.md:2:ver
-content/02b.alcance.md:4:alcance
-content/02b.alcance.md:4:aplicaciones
-content/02b.alcance.md:4:capacidades
-content/02b.alcance.md:4:dominio
-content/02b.alcance.md:4:el
-content/02b.alcance.md:4:el
-content/02b.alcance.md:4:hoja
-content/02b.alcance.md:4:impactadas
-content/02b.alcance.md:4:período
-content/02b.alcance.md:4:proyecto
-content/02b.alcance.md:4:ruta
-content/02b.alcance.md:4:servicios
-content/02b.alcance.md:5:Capacidad
-content/02b.alcance.md:5:gestión
-content/02b.alcance.md:5:tecnología
-content/02b.alcance.md:6:Entrega
-content/02b.alcance.md:6:funcionalidades
-content/02b.alcance.md:6:productos
-content/02b.alcance.md:8:alcance
-content/02b.alcance.md:8:aquí
-content/02b.alcance.md:8:capacidades
-content/02b.alcance.md:8:ejecución
-content/02b.alcance.md:8:el
-content/02b.alcance.md:8:El
-content/02b.alcance.md:8:entrega
-content/02b.alcance.md:8:funcionalidades
-content/02b.alcance.md:8:gestión
-content/02b.alcance.md:8:incluidas
-content/02b.alcance.md:8:incremento
-content/02b.alcance.md:8:indicados
-content/02b.alcance.md:8:mediante
-content/02b.alcance.md:8:período
-content/02b.alcance.md:8:productos
-content/02b.alcance.md:8:proyectos
-content/02b.alcance.md:8:realizará
-content/02b.alcance.md:8:tecnología
-content/02b.alcance.md:10:aplicaciones
-content/02b.alcance.md:10:brecha
-content/02b.alcance.md:10:cierre
-content/02b.alcance.md:10:dominio
-content/02b.alcance.md:10:FNA
-content/02b.alcance.md:10:Gobierno
-content/02b.alcance.md:10:Incremento
-content/02b.alcance.md:10:proy
-content/02b.alcance.md:10:servicios
-content/02b.alcance.md:10:SOA
-content/02b.alcance.md:10:únicamente
-content/02b.alcance.md:11:aplicaciones
-content/02b.alcance.md:11:Arquitectura
-content/02b.alcance.md:11:brecha
-content/02b.alcance.md:11:cierre
-content/02b.alcance.md:11:dominio
-content/02b.alcance.md:11:Incremento
-content/02b.alcance.md:11:proy
-content/02b.alcance.md:11:Referencia
-content/02b.alcance.md:11:servicios
-content/02b.alcance.md:11:únicamente
+content/02b.alcance.md:3:aplicaciones
+content/02b.alcance.md:3:dominio
+content/02b.alcance.md:3:ejecución
+content/02b.alcance.md:3:el
+content/02b.alcance.md:3:Entrega
+content/02b.alcance.md:3:Esto
+content/02b.alcance.md:3:funcionalidades
+content/02b.alcance.md:3:Gestión
+content/02b.alcance.md:3:implica
+content/02b.alcance.md:3:planeación
+content/02b.alcance.md:3:productos
+content/02b.alcance.md:3:proyectos
+content/02b.alcance.md:3:seguimiento
+content/02b.alcance.md:3:servicios
+content/02b.alcance.md:3:siguientes
+content/02b.alcance.md:3:tecnología
+content/02b.alcance.md:3:únicamente
+content/02b.alcance.md:5:aplicaciones
+content/02b.alcance.md:5:dominio
+content/02b.alcance.md:5:FNA
+content/02b.alcance.md:5:Gobierno
+content/02b.alcance.md:5:Incremento
+content/02b.alcance.md:5:servicios
+content/02b.alcance.md:5:SOA
+content/02b.alcance.md:5:únicamente
+content/02b.alcance.md:6:aplicaciones
+content/02b.alcance.md:6:Arquitectura
+content/02b.alcance.md:6:dominio
+content/02b.alcance.md:6:Incremento
+content/02b.alcance.md:6:Referencia
+content/02b.alcance.md:6:servicios
+content/02b.alcance.md:6:únicamente
+content/02b.alcance.md:7:Estructuración
+content/02b.alcance.md:7:hoja
+content/02b.alcance.md:7:posteriores
+content/02b.alcance.md:7:proyectos
+content/02b.alcance.md:7:ruta
+content/02b.alcance.md:9:alcance
+content/02b.alcance.md:9:continuación
+content/02b.alcance.md:9:ejecución
+content/02b.alcance.md:9:el
+content/02b.alcance.md:9:El
+content/02b.alcance.md:9:hoja
+content/02b.alcance.md:9:ilustrado
+content/02b.alcance.md:9:primera
+content/02b.alcance.md:9:ruta
 content/02b.alcance.md:13:alcance
-content/02b.alcance.md:13:ejecución
-content/02b.alcance.md:13:el
-content/02b.alcance.md:13:El
+content/02b.alcance.md:13:aplicaciones
+content/02b.alcance.md:13:capacidades
+content/02b.alcance.md:13:Capacidades
+content/02b.alcance.md:13:dentro
+content/02b.alcance.md:13:dominio
+content/02b.alcance.md:13:evolución
+content/02b.alcance.md:13:Flexibilidad
+content/02b.alcance.md:13:Fortalecimiento
 content/02b.alcance.md:13:hoja
-content/02b.alcance.md:13:ilustrado
-content/02b.alcance.md:13:imagen
+content/02b.alcance.md:13:Imagen
+content/02b.alcance.md:13:impactar
+content/02b.alcance.md:13:incrementadas
+content/02b.alcance.md:13:objetivos
 content/02b.alcance.md:13:período
 content/02b.alcance.md:13:proyecto
 content/02b.alcance.md:13:ruta
-content/02b.alcance.md:13:siguente
-content/02b.alcance.md:17:alcance
-content/02b.alcance.md:17:aplicaciones
-content/02b.alcance.md:17:capacidades
-content/02b.alcance.md:17:Capacidades
-content/02b.alcance.md:17:dentro
-content/02b.alcance.md:17:dominio
-content/02b.alcance.md:17:evolución
-content/02b.alcance.md:17:Flexibilidad
-content/02b.alcance.md:17:Fortalecimiento
-content/02b.alcance.md:17:hoja
-content/02b.alcance.md:17:Imagen
-content/02b.alcance.md:17:impactar
-content/02b.alcance.md:17:incrementadas
-content/02b.alcance.md:17:objetivos
-content/02b.alcance.md:17:período
-content/02b.alcance.md:17:proyecto
-content/02b.alcance.md:17:ruta
-content/02b.alcance.md:17:servicios
-content/02b.alcance.md:19:alcance
-content/02b.alcance.md:19:arquitectura
-content/02b.alcance.md:19:capacidades
-content/02b.alcance.md:19:consecuencia
-content/02b.alcance.md:19:consiguiente
-content/02b.alcance.md:19:el
-content/02b.alcance.md:19:este
-content/02b.alcance.md:19:estos
-content/02b.alcance.md:19:evolucionará
-content/02b.alcance.md:19:FNA
-content/02b.alcance.md:19:Fondo
-content/02b.alcance.md:19:hoja
-content/02b.alcance.md:19:incluidas
-content/02b.alcance.md:19:incremento
-content/02b.alcance.md:19:nuevas
-content/02b.alcance.md:19:período
-content/02b.alcance.md:19:Por
-content/02b.alcance.md:19:proyectos
-content/02b.alcance.md:19:ruta
-content/02b.alcance.md:19:sigue
-content/02b.alcance.md:19:SOA
-content/02b.alcance.md:19:su
-content/02b.alcance.md:19:versiones
-content/02b.alcance.md:19:vez
-content/02b.alcance.md:23:arquitectura
-content/02b.alcance.md:23:capacidades
-content/02b.alcance.md:23:evolución
-content/02b.alcance.md:23:FNA
-content/02b.alcance.md:23:Imagen
-content/02b.alcance.md:23:incrementadas
-content/02b.alcance.md:23:razón
-content/02b.alcance.md:23:referencia
-content/02c.componentes.md:1:Componentes
-content/02c.componentes.md:1:modificados
-content/02c.componentes.md:2:aplicaciones
-content/02c.componentes.md:2:arquitectura
-content/02c.componentes.md:2:aumentado
-content/02c.componentes.md:2:aumentos
-content/02c.componentes.md:2:componentes
-content/02c.componentes.md:2:deban
-content/02c.componentes.md:2:FNA
-content/02c.componentes.md:2:humano
-content/02c.componentes.md:2:implica
-content/02c.componentes.md:2:ítems
-content/02c.componentes.md:2:modificados
-content/02c.componentes.md:2:recursos
-content/02c.componentes.md:2:ser
-content/02c.componentes.md:2:SOA
-content/02c.componentes.md:2:tecnologías
-content/02c.componentes.md:2:trabajo
-content/02c.componentes.md:2:versión
-content/02c.componentes.md:2:versión
-content/02c.componentes.md:4:aplicaciones
-content/02c.componentes.md:4:aplicaciones
-content/02c.componentes.md:4:arquitectura
-content/02c.componentes.md:4:bajo
-content/02c.componentes.md:4:cambiar
-content/02c.componentes.md:4:concepto
-content/02c.componentes.md:4:condiciones
-content/02c.componentes.md:4:continuación
-content/02c.componentes.md:4:dominio
-content/02c.componentes.md:4:ejemplo
-content/02c.componentes.md:4:especialización
-content/02c.componentes.md:4:este
-content/02c.componentes.md:4:FNA
-content/02c.componentes.md:4:hoja
-content/02c.componentes.md:4:ilustrativo
-content/02c.componentes.md:4:impactados
-content/02c.componentes.md:4:implemenatción
-content/02c.componentes.md:4:incrementos
-content/02c.componentes.md:4:ítems
-content/02c.componentes.md:4:ítems
-content/02c.componentes.md:4:lista
-content/02c.componentes.md:4:llegar
-content/02c.componentes.md:4:otros
-content/02c.componentes.md:4:período
-content/02c.componentes.md:4:por
-content/02c.componentes.md:4:presentamos
-content/02c.componentes.md:4:presentes
-content/02c.componentes.md:4:propósito
-content/02c.componentes.md:4:proyecto
-content/02c.componentes.md:4:pueden
-content/02c.componentes.md:4:pueden
-content/02c.componentes.md:4:pueden
-content/02c.componentes.md:4:recursos
-content/02c.componentes.md:4:ruta
-content/02c.componentes.md:4:ser
-content/02c.componentes.md:4:ser
-content/02c.componentes.md:4:servicios
-content/02c.componentes.md:4:sujetos
-content/02c.componentes.md:4:tiempo
-content/02c.componentes.md:4:una
-content/02c.componentes.md:4:únicamente
-content/02c.componentes.md:4:únicamente
-content/02c.componentes.md:4:variante
-content/02c.componentes.md:8:Aplicaciones
-content/02c.componentes.md:8:arquitectura
-content/02c.componentes.md:8:FNA
-content/02c.componentes.md:8:Imagen
-content/02c.componentes.md:8:incrementos
-content/02c.componentes.md:8:involucrados
-content/02c.componentes.md:8:referencia
-content/02c.componentes.md:8:versión
+content/02b.alcance.md:13:servicios
+content/02c1.ficha proyectos.md:1:alcance
+content/02c1.ficha proyectos.md:1:arquitectura
+content/02c1.ficha proyectos.md:1:capacidades
+content/02c1.ficha proyectos.md:1:consecuencia
+content/02c1.ficha proyectos.md:1:consiguiente
+content/02c1.ficha proyectos.md:1:el
+content/02c1.ficha proyectos.md:1:este
+content/02c1.ficha proyectos.md:1:estos
+content/02c1.ficha proyectos.md:1:evolucionará
+content/02c1.ficha proyectos.md:1:FNA
+content/02c1.ficha proyectos.md:1:Fondo
+content/02c1.ficha proyectos.md:1:hoja
+content/02c1.ficha proyectos.md:1:incluidas
+content/02c1.ficha proyectos.md:1:incremento
+content/02c1.ficha proyectos.md:1:nuevas
+content/02c1.ficha proyectos.md:1:período
+content/02c1.ficha proyectos.md:1:Por
+content/02c1.ficha proyectos.md:1:proyectos
+content/02c1.ficha proyectos.md:1:ruta
+content/02c1.ficha proyectos.md:1:sigue
+content/02c1.ficha proyectos.md:1:SOA
+content/02c1.ficha proyectos.md:1:su
+content/02c1.ficha proyectos.md:1:versiones
+content/02c1.ficha proyectos.md:1:vez
+content/02c1.ficha proyectos.md:5:arquitectura
+content/02c1.ficha proyectos.md:5:capacidades
+content/02c1.ficha proyectos.md:5:evolución
+content/02c1.ficha proyectos.md:5:FNA
+content/02c1.ficha proyectos.md:5:Imagen
+content/02c1.ficha proyectos.md:5:incrementadas
+content/02c1.ficha proyectos.md:5:razón
+content/02c1.ficha proyectos.md:5:referencia
+content/02c1.ficha proyectos.md:9:Ficha
+content/02c1.ficha proyectos.md:9:proyectos
+content/02c1.ficha proyectos.md:11:aplicaciones
+content/02c1.ficha proyectos.md:11:dominio
+content/02c1.ficha proyectos.md:11:FNA
+content/02c1.ficha proyectos.md:11:Gobierno
+content/02c1.ficha proyectos.md:11:Incremento
+content/02c1.ficha proyectos.md:11:servicios
+content/02c1.ficha proyectos.md:11:SOA
+content/02c1.ficha proyectos.md:11:únicamente
+content/02c1.ficha proyectos.md:12:aplicaciones
+content/02c1.ficha proyectos.md:12:Arquitectura
+content/02c1.ficha proyectos.md:12:dominio
+content/02c1.ficha proyectos.md:12:Incremento
+content/02c1.ficha proyectos.md:12:Referencia
+content/02c1.ficha proyectos.md:12:servicios
+content/02c1.ficha proyectos.md:12:únicamente
+content/02c1.ficha proyectos.md:13:Estructuración
+content/02c1.ficha proyectos.md:13:hoja
+content/02c1.ficha proyectos.md:13:posteriores
+content/02c1.ficha proyectos.md:13:proyectos
+content/02c1.ficha proyectos.md:13:ruta
+content/02c2.componentes.md:1:Componentes
+content/02c2.componentes.md:1:modificados
+content/02c2.componentes.md:2:aplicaciones
+content/02c2.componentes.md:2:arquitectura
+content/02c2.componentes.md:2:aumentado
+content/02c2.componentes.md:2:aumentos
+content/02c2.componentes.md:2:componentes
+content/02c2.componentes.md:2:deban
+content/02c2.componentes.md:2:FNA
+content/02c2.componentes.md:2:humano
+content/02c2.componentes.md:2:implica
+content/02c2.componentes.md:2:ítems
+content/02c2.componentes.md:2:modificados
+content/02c2.componentes.md:2:recursos
+content/02c2.componentes.md:2:ser
+content/02c2.componentes.md:2:SOA
+content/02c2.componentes.md:2:tecnologías
+content/02c2.componentes.md:2:trabajo
+content/02c2.componentes.md:2:versión
+content/02c2.componentes.md:2:versión
+content/02c2.componentes.md:4:aplicaciones
+content/02c2.componentes.md:4:aplicaciones
+content/02c2.componentes.md:4:arquitectura
+content/02c2.componentes.md:4:bajo
+content/02c2.componentes.md:4:cambiar
+content/02c2.componentes.md:4:concepto
+content/02c2.componentes.md:4:condiciones
+content/02c2.componentes.md:4:continuación
+content/02c2.componentes.md:4:dominio
+content/02c2.componentes.md:4:ejemplo
+content/02c2.componentes.md:4:especialización
+content/02c2.componentes.md:4:este
+content/02c2.componentes.md:4:FNA
+content/02c2.componentes.md:4:hoja
+content/02c2.componentes.md:4:ilustrativo
+content/02c2.componentes.md:4:impactados
+content/02c2.componentes.md:4:implemenatción
+content/02c2.componentes.md:4:incrementos
+content/02c2.componentes.md:4:ítems
+content/02c2.componentes.md:4:ítems
+content/02c2.componentes.md:4:lista
+content/02c2.componentes.md:4:llegar
+content/02c2.componentes.md:4:otros
+content/02c2.componentes.md:4:período
+content/02c2.componentes.md:4:por
+content/02c2.componentes.md:4:presentamos
+content/02c2.componentes.md:4:presentes
+content/02c2.componentes.md:4:propósito
+content/02c2.componentes.md:4:proyecto
+content/02c2.componentes.md:4:pueden
+content/02c2.componentes.md:4:pueden
+content/02c2.componentes.md:4:pueden
+content/02c2.componentes.md:4:recursos
+content/02c2.componentes.md:4:ruta
+content/02c2.componentes.md:4:ser
+content/02c2.componentes.md:4:ser
+content/02c2.componentes.md:4:servicios
+content/02c2.componentes.md:4:sujetos
+content/02c2.componentes.md:4:tiempo
+content/02c2.componentes.md:4:una
+content/02c2.componentes.md:4:únicamente
+content/02c2.componentes.md:4:únicamente
+content/02c2.componentes.md:4:variante
+content/02c2.componentes.md:8:Aplicaciones
+content/02c2.componentes.md:8:arquitectura
+content/02c2.componentes.md:8:FNA
+content/02c2.componentes.md:8:Imagen
+content/02c2.componentes.md:8:incrementos
+content/02c2.componentes.md:8:involucrados
+content/02c2.componentes.md:8:referencia
+content/02c2.componentes.md:8:versión
 content/02d.equipo.md:1:Equipo
 content/02d.equipo.md:1:Proyecto
 content/02d.equipo.md:2:Organizado
