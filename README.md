@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/FNAhwo/e-service/tree/gh-pages) branch hosts the contents of this directory at <https://FNAhwo.github.io/e-service/>.
-The permalink for this webpage version is <https://FNAhwo.github.io/e-service/v/f3e0520060162f71f0950ea88d44de526d241ad1/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://FNAhwo.github.io/e-service/v/freeze/>.
+The [`gh-pages`](https://github.com/hwong23/e-service/tree/gh-pages) branch hosts the contents of this directory at <https://hwong23.github.io/e-service/>.
+The permalink for this webpage version is <https://hwong23.github.io/e-service/v/8a3213ab4a2e3109fd12e4a54289e958da8c5588/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://hwong23.github.io/e-service/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f3e0520060162f71f0950ea88d44de526d241ad1`](https://github.com/FNAhwo/e-service/commit/f3e0520060162f71f0950ea88d44de526d241ad1).
+[`8a3213ab4a2e3109fd12e4a54289e958da8c5588`](https://github.com/hwong23/e-service/commit/8a3213ab4a2e3109fd12e4a54289e958da8c5588).
