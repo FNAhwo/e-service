@@ -2,12 +2,10 @@ name: devdocs-mbot
 on:
   push:
     branches:
-      - main
-      - master
+      - prop-hruta-2023-1
   pull_request:
     branches:
-      - main
-      - master
+      - prop-hruta-2023-1
   # NOTE: scheduled workflows are supported as of 2022-09-27 (example commented below)
   # https://github.com/community/community/discussions/12269#discussioncomment-3747667
   # scheduled:
