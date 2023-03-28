@@ -1,14 +1,16 @@
 ---
-title: Manuscript Title
+title: Diagnóstico SOA Actual FNA
 keywords:
-- markdown
-- publishing
-- manubot
+- SOA
+- madurez
+- gobierno
 lang: en-US
 date-meta: '2023-03-28'
 author-meta:
-- John Doe
-- Jane Roe
+- Harry Wong, ing.
+- Eddie Hernandez, ing.
+- Federico Suárez, ing.
+- Darío Correal, ing.
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +18,38 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
   <meta name="dc.date" content="2023-03-28" />
   <meta name="citation_publication_date" content="2023-03-28" />
   <meta property="article:published_time" content="2023-03-28" />
-  <meta name="dc.modified" content="2023-03-28T21:11:50+00:00" />
-  <meta property="article:modified_time" content="2023-03-28T21:11:50+00:00" />
+  <meta name="dc.modified" content="2023-03-28T21:13:04+00:00" />
+  <meta property="article:modified_time" content="2023-03-28T21:13:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Harry Wong, ing." />
+  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
+  <meta name="citation_author" content="Eddie Hernandez, ing." />
+  <meta name="citation_author_institution" content="Datos, Stefanini" />
+  <meta name="citation_author" content="Federico Suárez, ing." />
+  <meta name="citation_author_institution" content="Infraestructura, Stefanini" />
+  <meta name="citation_author" content="Darío Correal, ing." />
+  <meta name="citation_author_institution" content="Arquitecto TI, Stefanini" />
   <link rel="canonical" href="https://hwong23.github.io/e-service/" />
   <meta property="og:url" content="https://hwong23.github.io/e-service/" />
   <meta property="twitter:url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/8a3213ab4a2e3109fd12e4a54289e958da8c5588/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/8a3213ab4a2e3109fd12e4a54289e958da8c5588/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/8a3213ab4a2e3109fd12e4a54289e958da8c5588/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/8a3213ab4a2e3109fd12e4a54289e958da8c5588/))
+([permalink](https://hwong23.github.io/e-service/v/aa78f200ac733b568c0662c5095384090d18bdfa/))
 was automatically generated
-from [hwong23/e-service@8a3213a](https://github.com/hwong23/e-service/tree/8a3213ab4a2e3109fd12e4a54289e958da8c5588)
+from [hwong23/e-service@aa78f20](https://github.com/hwong23/e-service/tree/aa78f200ac733b568c0662c5095384090d18bdfa)
 on March 28, 2023.
 </em></small>
 
@@ -81,39 +83,45 @@ on March 28, 2023.
 
 
 
-+ **John Doe**
++ **Harry Wong, ing.**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [e_hwong](https://github.com/e_hwong)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Arquitecto SOA, Stefanini
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Eddie Hernandez, ing.**
+  <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [e_ehernandez](https://github.com/e_ehernandez)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Datos, Stefanini
+  </small>
+
++ **Federico Suárez, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [e_fsuarez](https://github.com/e_fsuarez)
+    <br>
+  <small>
+     Infraestructura, Stefanini
+  </small>
+
++ **Darío Correal, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [e_dcorreal](https://github.com/e_dcorreal)
+    <br>
+  <small>
+     Arquitecto TI, Stefanini
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/hwong23/e-service/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
