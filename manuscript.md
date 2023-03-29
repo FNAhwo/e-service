@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-03-28'
+date-meta: '2023-03-29'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-03-28" />
-  <meta name="citation_publication_date" content="2023-03-28" />
-  <meta property="article:published_time" content="2023-03-28" />
-  <meta name="dc.modified" content="2023-03-28T23:43:23+00:00" />
-  <meta property="article:modified_time" content="2023-03-28T23:43:23+00:00" />
+  <meta name="dc.date" content="2023-03-29" />
+  <meta name="citation_publication_date" content="2023-03-29" />
+  <meta property="article:published_time" content="2023-03-29" />
+  <meta name="dc.modified" content="2023-03-29T13:31:39+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T13:31:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,10 +71,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/1f8563969102911e792aff6a0c6f5a002099d454/))
+([permalink](https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/))
 was automatically generated
-from [hwong23/e-service@1f85639](https://github.com/hwong23/e-service/tree/1f8563969102911e792aff6a0c6f5a002099d454)
-on March 28, 2023.
+from [hwong23/e-service@157f77f](https://github.com/hwong23/e-service/tree/157f77fe2b557dc05eaf1bcfc920a567285e3dd8)
+on March 29, 2023.
 </em></small>
 
 
@@ -133,7 +133,7 @@ on March 28, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|1f85639 del 28 Mar 2023                              |
+|Version|157f77f del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -217,7 +217,48 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 
 
 
-Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el período 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas, como sigue
+## Descripción y Objetivos de los proyectos del alcance
+
+
+### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
+#### Objetivo
+Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de soluciones SOA.
+
+<br>
+
+#### Oportunidades / Retos
+- Fortalecer el comité de gobierno SOA del FNA
+- Generar lineamientos y políticas de gobierno SOA
+- Promover la institucionalización de la arquitectura de referencia y del proceso de desarrollo de las soluciones SOA
+
+#### Actores
+- Comité de gobierno del FNA
+- Oficina de arquitectura FNA
+- Comité asesor 
+
+#### Impacto / Beneficio
+- Lineamientos claros, libres de ambigüedad que permitan guiar la evolución de la arquitectura SOA 2.0 en la organización
+- Fuente única de planeación estratégica y control de la operación SOA
+- Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​
+
+#### Alcance
+- Diseño de los procesos y responsabilidades del comité de gobierno
+- Institucionalización del comité dentro del FNA
+- Definición de roles y responsabilidades y selección e instalación del comité
+
+#### Tecnología
+- MEGA: depósito centralizado de arquitectura del FNA
+- Depósito documental
+- Herramientas de gestión de arquitectura
+- Herramientas de gestión de proyectos de tecnología
+
+<br>
+
+### PRY02. Arquitectura Referencia: dominio de aplicaciones y servicios únicamente
+
+En consecuencia de los ítems de arquitectura seleccionados en una fase inicial de Levantamiento, una arranque este proyecto, ...
+
+los proyectos PRY01 y PRY02 de la hoja de ruta de este alcance y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas.
 
 ![](images/vistaevolarquitectura.png)
 
@@ -227,10 +268,44 @@ Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el 
 
 ## Ficha de proyectos
 
-1. PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
-1. PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
 1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
+
+
+### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
+#### Objetivo
+Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos. 
+
+<br>
+
+#### Oportunidades / Retos
+- Acelerar el desarrollo de las arquitecturas de solución​
+- Unificar el vocabulario con las áreas de negocio y TI​
+- Proveer soporte a los lineamientos y políticas de gobierno​ SOA/TI del Fondo
+
+#### Actores
+- Áreas de negocio críticas​
+- Oficina de arquitectura FNA​
+- Consultores y equipo de apoyo​
+	
+#### Impacto / Beneficio
+- Reducción en tiempos y costos asociados a las soluciones SOA​
+- Mejora en la alineación entre negocio y TI​
+- Mitigación de rotación del equipo de arquitectura​
+- Visión global de soluciones de TI vs. requisitos del negocio​
+	
+#### Alcance
+- Diseño a profundidad de vistas funcional, despliegue, información, integración y tecnología​
+- Modelado en lenguaje y herramienta de diseño del FNA​
+- Crear y administrar las transiciones hacia la arquitectura versión 2.0
+- Utilización del depósito de arquitectura institucional​
+- Crear inventario de artefactos modelo-serie de aceleración de implementación
+	
+#### Tecnología
+- Depósito´de Arquitectura
+- Herramientas de modelado
+
+<br>
 
 
 ## Componentes modificados
