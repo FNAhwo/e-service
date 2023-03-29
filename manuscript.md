@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-29" />
   <meta name="citation_publication_date" content="2023-03-29" />
   <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T13:31:39+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T13:31:39+00:00" />
+  <meta name="dc.modified" content="2023-03-29T13:53:02+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T13:53:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/157f77fe2b557dc05eaf1bcfc920a567285e3dd8/))
+([permalink](https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/))
 was automatically generated
-from [hwong23/e-service@157f77f](https://github.com/hwong23/e-service/tree/157f77fe2b557dc05eaf1bcfc920a567285e3dd8)
+from [hwong23/e-service@4dea3cc](https://github.com/hwong23/e-service/tree/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d)
 on March 29, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|157f77f del 29 Mar 2023                              |
+|Version|4dea3cc del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -218,35 +218,42 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 
 
 ## Descripción y Objetivos de los proyectos del alcance
+En consecuencia de los ítems de arquitectura seleccionados en una fase inicial de Levantamiento, una arranque este proyecto, 
+
+los proyectos PRY01 y PRY02 de la hoja de ruta de este alcance y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas.
+
+![](images/vistaevolarquitectura.png)
+
+[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
 
 
 ### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
 #### Objetivo
-Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de soluciones SOA.
+Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
 
 <br>
 
-#### Oportunidades / Retos
+#### Actividades
 - Fortalecer el comité de gobierno SOA del FNA
 - Generar lineamientos y políticas de gobierno SOA
 - Promover la institucionalización de la arquitectura de referencia y del proceso de desarrollo de las soluciones SOA
 
-#### Actores
-- Comité de gobierno del FNA
-- Oficina de arquitectura FNA
-- Comité asesor 
+#### Entregables
+- Diseño de los procesos y responsabilidades del comité de gobierno
+- Institucionalización del comité dentro del FNA
+- Definición de roles y responsabilidades y selección e instalación del comité
 
 #### Impacto / Beneficio
 - Lineamientos claros, libres de ambigüedad que permitan guiar la evolución de la arquitectura SOA 2.0 en la organización
 - Fuente única de planeación estratégica y control de la operación SOA
 - Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​
 
-#### Alcance
-- Diseño de los procesos y responsabilidades del comité de gobierno
-- Institucionalización del comité dentro del FNA
-- Definición de roles y responsabilidades y selección e instalación del comité
+#### Actores
+- Comité de gobierno del FNA
+- Oficina de arquitectura FNA
+- Comité asesor 
 
-#### Tecnología
+#### Consideraciones
 - MEGA: depósito centralizado de arquitectura del FNA
 - Depósito documental
 - Herramientas de gestión de arquitectura
@@ -274,7 +281,7 @@ los proyectos PRY01 y PRY02 de la hoja de ruta de este alcance y del consiguient
 
 ### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
 #### Objetivo
-Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos. 
+Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y requerimientos de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
 
 <br>
 
@@ -309,7 +316,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 
 
 ## Componentes modificados
-Los aumentos de versión de la arquitectura SOA del FNA implica que ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
+Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
 Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
 
@@ -332,7 +339,7 @@ Organizado por proyecto.
 |Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|1200|
 |Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
 |Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|1200|
-|Personal del FNA|Receción y ejecución de gobierno SOA, modelamiento software y servicios|*|*|
+|Personal del FNA|Recepción y ejecución de gobierno SOA, modelamiento software y servicios|*|*|
 |        ○ Especialista SOA|
 |        ○ Especialista(s) construcción software|
 
@@ -344,7 +351,7 @@ Organizado por proyecto.
 |Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
 |Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
 |Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
-|Personal del FNA|Receción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
+|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
 |        ○ Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)|
 |        ○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA|
 
@@ -369,7 +376,7 @@ La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramient
 
 Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
 
-Finalmente, la fase 4 se encarga de ejecutar los indicaddores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
+Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
 
 <br>
 
@@ -379,7 +386,7 @@ Finalmente, la fase 4 se encarga de ejecutar los indicaddores de medición de de
 Fase LVT
 
 * Detalle de los ítems de arquitectura impactados por el proyecto 
-* Detalle de los recursos, herramientas, roles, responsabilidades y participanes
+* Detalle de los recursos, herramientas, roles, responsabilidades y participantes
 
 Fase 1
 
