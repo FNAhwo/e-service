@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-29" />
   <meta name="citation_publication_date" content="2023-03-29" />
   <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T20:06:53+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T20:06:53+00:00" />
+  <meta name="dc.modified" content="2023-03-29T20:09:39+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T20:09:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/8527f2f34ef8bdd1c8ed692d450df823f160f37a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/8527f2f34ef8bdd1c8ed692d450df823f160f37a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/8527f2f34ef8bdd1c8ed692d450df823f160f37a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/))
+([permalink](https://hwong23.github.io/e-service/v/8527f2f34ef8bdd1c8ed692d450df823f160f37a/))
 was automatically generated
-from [hwong23/e-service@5b04c82](https://github.com/hwong23/e-service/tree/5b04c828dd6790cfa29ffd49956c3d4faad4282b)
+from [hwong23/e-service@8527f2f](https://github.com/hwong23/e-service/tree/8527f2f34ef8bdd1c8ed692d450df823f160f37a)
 on March 29, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5b04c82 del 29 Mar 2023                              |
+|Version|8527f2f del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -258,6 +258,9 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 - PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
 - PR07. Métricas de efectividad del gobierno
 
+### Plazo de Ejecución
+5 meses, iniciado a partir del mes de abril (ver plan de ejecución PRY01).
+
 #### Impacto / Beneficio
 - Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
 - Fuente única de planeación y control de las soluciones de software del FNA
@@ -300,7 +303,9 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 ## Plan de Trabajo
-Organización del proyecto: el proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
+Plazo de Ejecución: 5 meses, iniciado a partir del mes de abril del 2023.
+
+Organización de trabajo: el proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
 ![](images/pry1gobierno.jpg)
 
@@ -337,6 +342,9 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación
 - PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
 - PR17. Ítems de arquitectura incrementados en ejecución
+
+### Plazo de Ejecución
+5 meses, iniciado a partir del mes de abril (ver plan de ejecución PRY01).
 
 #### Impacto / Beneficio
 - Reducción en tiempos y costos asociados a las soluciones SOA​
@@ -378,7 +386,9 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 
 
 ## Plan de Trabajo
-Organización del proyecto: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
+Plazo de Ejecución: 5 meses, iniciado a partir del mes de abril del 2023.
+
+Organización de trabajo: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
 
 ![](images/pry2arqref2.0.jpg)
 
