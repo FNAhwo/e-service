@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-29" />
   <meta name="citation_publication_date" content="2023-03-29" />
   <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T17:55:29+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T17:55:29+00:00" />
+  <meta name="dc.modified" content="2023-03-29T20:06:53+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T20:06:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/))
+([permalink](https://hwong23.github.io/e-service/v/5b04c828dd6790cfa29ffd49956c3d4faad4282b/))
 was automatically generated
-from [hwong23/e-service@4ae8f0c](https://github.com/hwong23/e-service/tree/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14)
+from [hwong23/e-service@5b04c82](https://github.com/hwong23/e-service/tree/5b04c828dd6790cfa29ffd49956c3d4faad4282b)
 on March 29, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|4ae8f0c del 29 Mar 2023                              |
+|Version|5b04c82 del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -220,7 +220,7 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 
 
 
-## Descripción de los proyectos del alcance
+## Proyectos del Alcance
 Los proyectos PRY01 y PRY02 de la hoja de ruta consignados en este alcance tienen por objeto incrementar las capacidades del FNA CAP1 y CAP2, y por consiguiente, evolucionar la arquitectura SOA del FNA dos versiones adelante.
 
 ![](images/vistaevolarquitectura.png)
@@ -250,12 +250,13 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 - Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
 
 #### Entregables
-- Detalle de los ítems de arquitectura impactados por el proyecto 
-- Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-- Diseño de los procesos y responsabilidades del comité de gobierno
-- Definición de roles y responsabilidades y selección e instalación del comité
-- Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
-- Modelos actualizados de los ítems de arquitectura impactados por el proyecto
+- PR01. Detalle de los ítems de arquitectura impactados por el proyecto 
+- PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
+- PR03. Diseño de los procesos y responsabilidades del comité de gobierno
+- PR04. Definición de roles y responsabilidades y selección e instalación del comité
+- PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
+- PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
+- PR07. Métricas de efectividad del gobierno
 
 #### Impacto / Beneficio
 - Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
@@ -299,15 +300,15 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 ## Plan de Trabajo
-Organización del proyecto. El proyecto está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en el alcance consignado arriba, periodo 2023, que se corresponden con las fases 2 y 3 de la imagen abajo.
+Organización del proyecto: el proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
-![](images/vistaimplementacion.png)
+![](images/pry1gobierno.jpg)
 
 [Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
-La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
+La fase 1, Definición del Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
 
-Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
+Las fases 2 y 3, implantan el gobierno anteriormente definido, e impactan directamente a los modelos y las decisiones de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
 
 Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
 
@@ -328,14 +329,14 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - Documentación técnica en el depósito de arquitectura institucional​
 
 #### Entregables
-- Detalle de los ítems de arquitectura impactados por el proyecto 
-- Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-- Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
-- Modelado en lenguaje y herramienta de diseño del FNA​
-- Administración de las transiciones hacia la arquitectura versión 2.0
-- Inventario de artefactos genéricos y concretos de aceleración de implementación
-- Análisis de impacto y modelos actualizados de los ítems de arquitectura 
-- Ítems de arquitectura incrementados en ejecución
+- PR10. Detalle de los ítems de arquitectura impactados por el proyecto 
+- PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
+- PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
+- PR13. Modelado en lenguaje y herramienta de diseño del FNA​
+- PR14. Administración de las transiciones hacia la arquitectura versión 2.0
+- PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación
+- PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
+- PR17. Ítems de arquitectura incrementados en ejecución
 
 #### Impacto / Beneficio
 - Reducción en tiempos y costos asociados a las soluciones SOA​
@@ -377,17 +378,17 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 
 
 ## Plan de Trabajo
-Organización del proyecto. El proyecto está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en el alcance consignado arriba, periodo 2023, que se corresponden con las fases 2 y 3 de la imagen abajo.
+Organización del proyecto: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
 
-![](images/vistaimplementacion.png)
+![](images/pry2arqref2.0.jpg)
 
 [Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
-La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
+La fase 1 y 2, Diseño e Incremento respectiamente, tienen en realidad dos acciones: el planteamiento de la solución de la arquitectura (detalles tecnológicos), y el de la puesta en marcha de cambios mediante una implementación real de este diseño, al que llamamos arquitectura de referencia 2.0 FNA.
 
-Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
+Las fases 3, Optimización, busca crear y gestionar el inventario de elementos genéricos de aceleración de desarollo, como funcionalidades, y artefactos de software que cumplan los estándares de la arquitetura de referencia 2.0 definida anteriormente.
 
-Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
+Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño de los incrementos de evolución de la arquitectura de referencia 2.0.
 
 <br>
 

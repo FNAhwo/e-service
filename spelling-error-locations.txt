@@ -378,7 +378,6 @@ content/02c1a1. equipo.md:17:meses
 content/02c1a1. equipo.md:17:proy
 content/02c1a2. plan.md:1:Trabajo
 content/02c1a2. plan.md:2:abajo
-content/02c1a2. plan.md:2:abajo
 content/02c1a2. plan.md:2:alcance
 content/02c1a2. plan.md:2:arquitectura
 content/02c1a2. plan.md:2:arriba
@@ -387,7 +386,6 @@ content/02c1a2. plan.md:2:corresponden
 content/02c1a2. plan.md:2:detalle
 content/02c1a2. plan.md:2:determina
 content/02c1a2. plan.md:2:el
-content/02c1a2. plan.md:2:El
 content/02c1a2. plan.md:2:elementos
 content/02c1a2. plan.md:2:está
 content/02c1a2. plan.md:2:evolucionarán
@@ -396,17 +394,17 @@ content/02c1a2. plan.md:2:fases
 content/02c1a2. plan.md:2:fases
 content/02c1a2. plan.md:2:gobierno
 content/02c1a2. plan.md:2:imagen
-content/02c1a2. plan.md:2:imagen
 content/02c1a2. plan.md:2:incrementos
 content/02c1a2. plan.md:2:Levantamiento
 content/02c1a2. plan.md:2:LVT
 content/02c1a2. plan.md:2:Organización
 content/02c1a2. plan.md:2:organizado
-content/02c1a2. plan.md:2:periodo
 content/02c1a2. plan.md:2:planteados
 content/02c1a2. plan.md:2:presentada
 content/02c1a2. plan.md:2:proyecto
 content/02c1a2. plan.md:2:proyecto
+content/02c1a2. plan.md:2:proyetos
+content/02c1a2. plan.md:2:siguiente
 content/02c1a2. plan.md:6:Abril
 content/02c1a2. plan.md:6:Dic
 content/02c1a2. plan.md:6:FNA
@@ -419,6 +417,7 @@ content/02c1a2. plan.md:6:Ver
 content/02c1a2. plan.md:8:adelante
 content/02c1a2. plan.md:8:aplican
 content/02c1a2. plan.md:8:arquitectura
+content/02c1a2. plan.md:8:Definición
 content/02c1a2. plan.md:8:determina
 content/02c1a2. plan.md:8:diseña
 content/02c1a2. plan.md:8:el
@@ -440,18 +439,24 @@ content/02c1a2. plan.md:8:SOA
 content/02c1a2. plan.md:8:sucesivas
 content/02c1a2. plan.md:8:técnico
 content/02c1a2. plan.md:8:vigilancia
+content/02c1a2. plan.md:10:anteriormente
 content/02c1a2. plan.md:10:arquitectura
 content/02c1a2. plan.md:10:componentes
+content/02c1a2. plan.md:10:decisiones
+content/02c1a2. plan.md:10:definido
 content/02c1a2. plan.md:10:directamente
-content/02c1a2. plan.md:10:elementos
+content/02c1a2. plan.md:10:el
 content/02c1a2. plan.md:10:esto
 content/02c1a2. plan.md:10:fase
 content/02c1a2. plan.md:10:fases
 content/02c1a2. plan.md:10:FNA
+content/02c1a2. plan.md:10:gobierno
 content/02c1a2. plan.md:10:herramientas
 content/02c1a2. plan.md:10:impactan
+content/02c1a2. plan.md:10:implantan
 content/02c1a2. plan.md:10:información
 content/02c1a2. plan.md:10:Levantamiento
+content/02c1a2. plan.md:10:modelos
 content/02c1a2. plan.md:10:seleccionados
 content/02c1a2. plan.md:10:servicios
 content/02c1a2. plan.md:10:sistemas
@@ -578,53 +583,56 @@ content/02c1a.pry gobierno.md:18:ítems
 content/02c1a.pry gobierno.md:18:Modelos
 content/02c1a.pry gobierno.md:18:por
 content/02c1a.pry gobierno.md:18:proyecto
-content/02c1a.pry gobierno.md:20:Beneficio
-content/02c1a.pry gobierno.md:20:Impacto
-content/02c1a.pry gobierno.md:21:ambigüedad
-content/02c1a.pry gobierno.md:21:arquitectura
-content/02c1a.pry gobierno.md:21:claros
-content/02c1a.pry gobierno.md:21:evolución
-content/02c1a.pry gobierno.md:21:guiar
-content/02c1a.pry gobierno.md:21:libres
-content/02c1a.pry gobierno.md:21:Lineamientos
-content/02c1a.pry gobierno.md:21:medir
-content/02c1a.pry gobierno.md:21:organización
-content/02c1a.pry gobierno.md:21:permitan
-content/02c1a.pry gobierno.md:21:SOA
-content/02c1a.pry gobierno.md:22:FNA
-content/02c1a.pry gobierno.md:22:Fuente
-content/02c1a.pry gobierno.md:22:planeación
-content/02c1a.pry gobierno.md:22:soluciones
-content/02c1a.pry gobierno.md:22:única
-content/02c1a.pry gobierno.md:23:cumplimiento
-content/02c1a.pry gobierno.md:23:niveles
-content/02c1a.pry gobierno.md:23:servicio
-content/02c1a.pry gobierno.md:23:SOA
+content/02c1a.pry gobierno.md:19:efectividad
+content/02c1a.pry gobierno.md:19:gobierno
+content/02c1a.pry gobierno.md:19:Métricas
+content/02c1a.pry gobierno.md:21:Beneficio
+content/02c1a.pry gobierno.md:21:Impacto
+content/02c1a.pry gobierno.md:22:ambigüedad
+content/02c1a.pry gobierno.md:22:arquitectura
+content/02c1a.pry gobierno.md:22:claros
+content/02c1a.pry gobierno.md:22:evolución
+content/02c1a.pry gobierno.md:22:guiar
+content/02c1a.pry gobierno.md:22:libres
+content/02c1a.pry gobierno.md:22:Lineamientos
+content/02c1a.pry gobierno.md:22:medir
+content/02c1a.pry gobierno.md:22:organización
+content/02c1a.pry gobierno.md:22:permitan
+content/02c1a.pry gobierno.md:22:SOA
+content/02c1a.pry gobierno.md:23:FNA
+content/02c1a.pry gobierno.md:23:Fuente
+content/02c1a.pry gobierno.md:23:planeación
 content/02c1a.pry gobierno.md:23:soluciones
-content/02c1a.pry gobierno.md:23:Vigilancia
-content/02c1a.pry gobierno.md:25:Actores
-content/02c1a.pry gobierno.md:26:Comité
-content/02c1a.pry gobierno.md:26:FNA
-content/02c1a.pry gobierno.md:26:gobierno
-content/02c1a.pry gobierno.md:27:arquitectura
+content/02c1a.pry gobierno.md:23:única
+content/02c1a.pry gobierno.md:24:cumplimiento
+content/02c1a.pry gobierno.md:24:niveles
+content/02c1a.pry gobierno.md:24:servicio
+content/02c1a.pry gobierno.md:24:SOA
+content/02c1a.pry gobierno.md:24:soluciones
+content/02c1a.pry gobierno.md:24:Vigilancia
+content/02c1a.pry gobierno.md:26:Actores
+content/02c1a.pry gobierno.md:27:Comité
 content/02c1a.pry gobierno.md:27:FNA
-content/02c1a.pry gobierno.md:27:Oficina
-content/02c1a.pry gobierno.md:28:asesor
-content/02c1a.pry gobierno.md:28:Comité
-content/02c1a.pry gobierno.md:30:Consideraciones
-content/02c1a.pry gobierno.md:31:arquitectura
-content/02c1a.pry gobierno.md:31:centralizado
-content/02c1a.pry gobierno.md:31:depósito
-content/02c1a.pry gobierno.md:31:FNA
-content/02c1a.pry gobierno.md:32:Depósito
-content/02c1a.pry gobierno.md:32:documental
-content/02c1a.pry gobierno.md:33:arquitectura
-content/02c1a.pry gobierno.md:33:gestión
-content/02c1a.pry gobierno.md:33:Herramientas
+content/02c1a.pry gobierno.md:27:gobierno
+content/02c1a.pry gobierno.md:28:arquitectura
+content/02c1a.pry gobierno.md:28:FNA
+content/02c1a.pry gobierno.md:28:Oficina
+content/02c1a.pry gobierno.md:29:asesor
+content/02c1a.pry gobierno.md:29:Comité
+content/02c1a.pry gobierno.md:31:Consideraciones
+content/02c1a.pry gobierno.md:32:arquitectura
+content/02c1a.pry gobierno.md:32:centralizado
+content/02c1a.pry gobierno.md:32:depósito
+content/02c1a.pry gobierno.md:32:FNA
+content/02c1a.pry gobierno.md:33:Depósito
+content/02c1a.pry gobierno.md:33:documental
+content/02c1a.pry gobierno.md:34:arquitectura
 content/02c1a.pry gobierno.md:34:gestión
 content/02c1a.pry gobierno.md:34:Herramientas
-content/02c1a.pry gobierno.md:34:proyectos
-content/02c1a.pry gobierno.md:34:tecnología
+content/02c1a.pry gobierno.md:35:gestión
+content/02c1a.pry gobierno.md:35:Herramientas
+content/02c1a.pry gobierno.md:35:proyectos
+content/02c1a.pry gobierno.md:35:tecnología
 content/02c1b1.equipo.md:1:Equipo
 content/02c1b1.equipo.md:1:Proyecto
 content/02c1b1.equipo.md:2:Dedicación
@@ -708,36 +716,35 @@ content/02c1b1.equipo.md:14:recursos
 content/02c1b1.equipo.md:16:meses
 content/02c1b1.equipo.md:16:proy
 content/02c1b2.plan.md:1:Trabajo
-content/02c1b2.plan.md:2:abajo
-content/02c1b2.plan.md:2:abajo
-content/02c1b2.plan.md:2:alcance
+content/02c1b2.plan.md:2:además
+content/02c1b2.plan.md:2:amplía
 content/02c1b2.plan.md:2:arquitectura
-content/02c1b2.plan.md:2:arriba
-content/02c1b2.plan.md:2:consignado
-content/02c1b2.plan.md:2:corresponden
+content/02c1b2.plan.md:2:arquitectura
+content/02c1b2.plan.md:2:correspondientes
+content/02c1b2.plan.md:2:Definición
 content/02c1b2.plan.md:2:detalle
+content/02c1b2.plan.md:2:detalles
 content/02c1b2.plan.md:2:determina
 content/02c1b2.plan.md:2:el
-content/02c1b2.plan.md:2:El
 content/02c1b2.plan.md:2:elementos
-content/02c1b2.plan.md:2:está
-content/02c1b2.plan.md:2:evolucionarán
+content/02c1b2.plan.md:2:elementos
+content/02c1b2.plan.md:2:este
+content/02c1b2.plan.md:2:evolucionados
 content/02c1b2.plan.md:2:fase
 content/02c1b2.plan.md:2:fases
-content/02c1b2.plan.md:2:fases
-content/02c1b2.plan.md:2:gobierno
-content/02c1b2.plan.md:2:imagen
-content/02c1b2.plan.md:2:imagen
+content/02c1b2.plan.md:2:impactar
 content/02c1b2.plan.md:2:incrementos
-content/02c1b2.plan.md:2:Levantamiento
-content/02c1b2.plan.md:2:LVT
+content/02c1b2.plan.md:2:inicia
+content/02c1b2.plan.md:2:mismo
 content/02c1b2.plan.md:2:Organización
-content/02c1b2.plan.md:2:organizado
-content/02c1b2.plan.md:2:periodo
-content/02c1b2.plan.md:2:planteados
-content/02c1b2.plan.md:2:presentada
+content/02c1b2.plan.md:2:otros
 content/02c1b2.plan.md:2:proyecto
 content/02c1b2.plan.md:2:proyecto
+content/02c1b2.plan.md:2:referencia
+content/02c1b2.plan.md:2:siendo
+content/02c1b2.plan.md:2:siguientes
+content/02c1b2.plan.md:2:tecnologías
+content/02c1b2.plan.md:2:terminarán
 content/02c1b2.plan.md:6:Abril
 content/02c1b2.plan.md:6:Dic
 content/02c1b2.plan.md:6:FNA
@@ -747,62 +754,62 @@ content/02c1b2.plan.md:6:Implementación
 content/02c1b2.plan.md:6:Proyecto
 content/02c1b2.plan.md:6:Ruta
 content/02c1b2.plan.md:6:Ver
-content/02c1b2.plan.md:8:adelante
-content/02c1b2.plan.md:8:aplican
+content/02c1b2.plan.md:8:acciones
 content/02c1b2.plan.md:8:arquitectura
-content/02c1b2.plan.md:8:determina
-content/02c1b2.plan.md:8:diseña
+content/02c1b2.plan.md:8:arquitectura
+content/02c1b2.plan.md:8:cambios
+content/02c1b2.plan.md:8:detalles
+content/02c1b2.plan.md:8:diseño
+content/02c1b2.plan.md:8:Diseño
 content/02c1b2.plan.md:8:el
-content/02c1b2.plan.md:8:Estos
+content/02c1b2.plan.md:8:el
+content/02c1b2.plan.md:8:este
 content/02c1b2.plan.md:8:fase
-content/02c1b2.plan.md:8:fases
 content/02c1b2.plan.md:8:FNA
-content/02c1b2.plan.md:8:gestión
-content/02c1b2.plan.md:8:gobierno
-content/02c1b2.plan.md:8:Gobierno
-content/02c1b2.plan.md:8:mejoramiento
-content/02c1b2.plan.md:8:mismo
-content/02c1b2.plan.md:8:procesos
-content/02c1b2.plan.md:8:procesos
-content/02c1b2.plan.md:8:proyecto
-content/02c1b2.plan.md:8:regirán
-content/02c1b2.plan.md:8:riesgo
-content/02c1b2.plan.md:8:SOA
-content/02c1b2.plan.md:8:sucesivas
-content/02c1b2.plan.md:8:técnico
-content/02c1b2.plan.md:8:vigilancia
-content/02c1b2.plan.md:10:arquitectura
-content/02c1b2.plan.md:10:componentes
-content/02c1b2.plan.md:10:directamente
+content/02c1b2.plan.md:8:implementación
+content/02c1b2.plan.md:8:Incremento
+content/02c1b2.plan.md:8:llamamos
+content/02c1b2.plan.md:8:marcha
+content/02c1b2.plan.md:8:mediante
+content/02c1b2.plan.md:8:planteamiento
+content/02c1b2.plan.md:8:puesta
+content/02c1b2.plan.md:8:realidad
+content/02c1b2.plan.md:8:referencia
+content/02c1b2.plan.md:8:respectiamente
+content/02c1b2.plan.md:8:solución
+content/02c1b2.plan.md:8:tecnológicos
+content/02c1b2.plan.md:8:tienen
+content/02c1b2.plan.md:8:una
+content/02c1b2.plan.md:10:aceleración
+content/02c1b2.plan.md:10:anteriormente
+content/02c1b2.plan.md:10:arquitetura
+content/02c1b2.plan.md:10:artefactos
+content/02c1b2.plan.md:10:busca
+content/02c1b2.plan.md:10:crear
+content/02c1b2.plan.md:10:cumplan
+content/02c1b2.plan.md:10:definida
+content/02c1b2.plan.md:10:desarollo
+content/02c1b2.plan.md:10:el
 content/02c1b2.plan.md:10:elementos
-content/02c1b2.plan.md:10:esto
-content/02c1b2.plan.md:10:fase
+content/02c1b2.plan.md:10:estándares
 content/02c1b2.plan.md:10:fases
-content/02c1b2.plan.md:10:FNA
-content/02c1b2.plan.md:10:herramientas
-content/02c1b2.plan.md:10:impactan
-content/02c1b2.plan.md:10:información
-content/02c1b2.plan.md:10:Levantamiento
-content/02c1b2.plan.md:10:seleccionados
-content/02c1b2.plan.md:10:servicios
-content/02c1b2.plan.md:10:sistemas
-content/02c1b2.plan.md:10:SOA
+content/02c1b2.plan.md:10:funcionalidades
+content/02c1b2.plan.md:10:genéricos
+content/02c1b2.plan.md:10:gestionar
+content/02c1b2.plan.md:10:inventario
+content/02c1b2.plan.md:10:Optimización
+content/02c1b2.plan.md:10:referencia
 content/02c1b2.plan.md:12:arquitectura
 content/02c1b2.plan.md:12:desempeño
-content/02c1b2.plan.md:12:diagnóstico
 content/02c1b2.plan.md:12:ejecutar
 content/02c1b2.plan.md:12:encarga
 content/02c1b2.plan.md:12:evolución
 content/02c1b2.plan.md:12:fase
 content/02c1b2.plan.md:12:Finalmente
-content/02c1b2.plan.md:12:gobierno
 content/02c1b2.plan.md:12:incrementos
 content/02c1b2.plan.md:12:indicadores
 content/02c1b2.plan.md:12:medición
 content/02c1b2.plan.md:12:referencia
-content/02c1b2.plan.md:12:resultados
-content/02c1b2.plan.md:12:tanto
-content/02c1b2.plan.md:12:ver
 content/02c1b.pry arqreferencia.md:1:aplicaciones
 content/02c1b.pry arqreferencia.md:1:Arquitectura
 content/02c1b.pry arqreferencia.md:1:dominio
@@ -957,9 +964,8 @@ content/02c1b.pry arqreferencia.md:35:Arquitectura
 content/02c1b.pry arqreferencia.md:35:Depósito
 content/02c1b.pry arqreferencia.md:36:Herramientas
 content/02c1b.pry arqreferencia.md:36:modelado
-content/02c1.ficha proyectos.md:1:alcance
-content/02c1.ficha proyectos.md:1:Descripción
-content/02c1.ficha proyectos.md:1:proyectos
+content/02c1.ficha proyectos.md:1:Alcance
+content/02c1.ficha proyectos.md:1:Proyectos
 content/02c1.ficha proyectos.md:2:adelante
 content/02c1.ficha proyectos.md:2:alcance
 content/02c1.ficha proyectos.md:2:arquitectura
