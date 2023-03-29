@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-29" />
   <meta name="citation_publication_date" content="2023-03-29" />
   <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T13:53:02+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T13:53:02+00:00" />
+  <meta name="dc.modified" content="2023-03-29T17:06:41+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T17:06:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d/))
+([permalink](https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/))
 was automatically generated
-from [hwong23/e-service@4dea3cc](https://github.com/hwong23/e-service/tree/4dea3cc2738ef55bfb8637b96a348a1e60ecc37d)
+from [hwong23/e-service@4d81e3e](https://github.com/hwong23/e-service/tree/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61)
 on March 29, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|4dea3cc del 29 Mar 2023                              |
+|Version|4d81e3e del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -183,7 +183,9 @@ Puntualmente, la implementación (todos los proyectos) de la hoja de ruta, tal c
 * Flexibilidad y tiempo de mercado (OBJ3)
 * Fortaleza SOA de las aplicaciones (OBJ2)
 * Independencia de proveedor (OBJ1)
-	
+
+<br>
+
 Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguientes brechas y oportunidades:
 
 * OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
@@ -207,6 +209,7 @@ de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (C
 1. PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
 1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
+
 El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado a continuación.
 
 ![](images/vistaevolucion.png)
@@ -217,14 +220,22 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 
 
 
-## Descripción y Objetivos de los proyectos del alcance
-En consecuencia de los ítems de arquitectura seleccionados en una fase inicial de Levantamiento, una arranque este proyecto, 
-
-los proyectos PRY01 y PRY02 de la hoja de ruta de este alcance y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas.
+## Descripción de los proyectos del alcance
+Los proyectos PRY01 y PRY02 de la hoja de ruta consignados en este alcance tienen por objeto incrementar las capacidades del FNA CAP1 y CAP2, y por consiguiente, evolucionar la arquitectura SOA del FNA dos versiones adelante.
 
 ![](images/vistaevolarquitectura.png)
 
-[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
+[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón de las capacidades incrementadas mediante los proyectos de este alcance.
+
+<br>
+
+### Arquitectura de referncia 2.0. Incremento 1
+Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
+
+### Arquitectura de referncia 2.0. Incremento 2
+Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de la aplicación de cambios en ítems adicionales de la arquitectura actual.
+
+<br>
 
 
 ### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
@@ -236,16 +247,17 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 #### Actividades
 - Fortalecer el comité de gobierno SOA del FNA
 - Generar lineamientos y políticas de gobierno SOA
-- Promover la institucionalización de la arquitectura de referencia y del proceso de desarrollo de las soluciones SOA
+- Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
 
 #### Entregables
 - Diseño de los procesos y responsabilidades del comité de gobierno
-- Institucionalización del comité dentro del FNA
 - Definición de roles y responsabilidades y selección e instalación del comité
+- Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
+- Modelos actualizados de los ítems de arquitectura impactados por el proyecto
 
 #### Impacto / Beneficio
-- Lineamientos claros, libres de ambigüedad que permitan guiar la evolución de la arquitectura SOA 2.0 en la organización
-- Fuente única de planeación estratégica y control de la operación SOA
+- Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
+- Fuente única de planeación y control de las soluciones de software del FNA
 - Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​
 
 #### Actores
@@ -285,15 +297,17 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 
 <br>
 
-#### Oportunidades / Retos
+#### Actividades
 - Acelerar el desarrollo de las arquitecturas de solución​
-- Unificar el vocabulario con las áreas de negocio y TI​
-- Proveer soporte a los lineamientos y políticas de gobierno​ SOA/TI del Fondo
+- Relacionar las implementaciones con las áreas de negocio y TI​
+- Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo
+- Documentación técnica en el depósito de arquitectura institucional​
 
-#### Actores
-- Áreas de negocio críticas​
-- Oficina de arquitectura FNA​
-- Consultores y equipo de apoyo​
+#### Entregables
+- Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
+- Modelado en lenguaje y herramienta de diseño del FNA​
+- Administración de las transiciones hacia la arquitectura versión 2.0
+- Inventario de artefactos genéricos y concretos de aceleración de implementación
 	
 #### Impacto / Beneficio
 - Reducción en tiempos y costos asociados a las soluciones SOA​
@@ -301,14 +315,12 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - Mitigación de rotación del equipo de arquitectura​
 - Visión global de soluciones de TI vs. requisitos del negocio​
 	
-#### Alcance
-- Diseño a profundidad de vistas funcional, despliegue, información, integración y tecnología​
-- Modelado en lenguaje y herramienta de diseño del FNA​
-- Crear y administrar las transiciones hacia la arquitectura versión 2.0
-- Utilización del depósito de arquitectura institucional​
-- Crear inventario de artefactos modelo-serie de aceleración de implementación
-	
-#### Tecnología
+#### Actores
+- Áreas de negocio críticas​
+- Oficina de arquitectura FNA​
+- Consultores y equipo de apoyo​
+
+#### Consideraciones
 - Depósito´de Arquitectura
 - Herramientas de modelado
 
