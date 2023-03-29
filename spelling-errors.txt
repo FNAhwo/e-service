@@ -12,7 +12,7 @@ adicionales
 Administración
 adopción
 Ahorro
-Alcance
+alcance
 alineación
 ambigüedad
 ámbito
@@ -20,7 +20,7 @@ amplía
 Análisis
 analíticos
 anteriormente
-aplicación
+Aplicación
 aplicaciones
 aplican
 apoyo
@@ -39,7 +39,7 @@ asistir
 asociados
 atender
 aumentado
-Aumentar
+aumentar
 aumentos
 Autor
 autoservicio
@@ -62,7 +62,7 @@ claros
 clave
 Comité
 Comparativa
-componentes
+Componentes
 común
 concepto
 concretos
@@ -74,7 +74,7 @@ consignados
 consiguiente
 construcción
 Consultores
-Consultoría
+consultoría
 continuación
 Continuidad
 Correal
@@ -95,8 +95,8 @@ dcorreal
 deban
 debe
 decisiones
-Dedicación
-definición
+dedicación
+Definición
 definiciones
 definida
 definido
@@ -105,7 +105,7 @@ Demostrar
 dentro
 dependencia
 dependencias
-Depósito
+depósito
 desarollo
 Desarrollo
 desempeño
@@ -131,6 +131,7 @@ dispone
 Documentación
 documental
 dominio
+eebb
 efectividad
 eficacia
 ehernandez
@@ -145,6 +146,7 @@ entre
 Entrega
 Entregables
 equipo
+Equivalente
 escalable
 Especialista
 Especialistas
@@ -153,7 +155,7 @@ está
 estándar
 estándares
 estas
-este
+Este
 estilo
 estimados
 esto
@@ -165,16 +167,16 @@ evolucionados
 evolucionar
 evolucionarán
 experiencia
-fase
+Fase
 fases
 favorecer
-figura
+Figura
 Finalmente
 Flexibilidad
 FNA
 Fondo
 Fortalecer
-fortalecimiento
+Fortalecimiento
 fsuarez
 Fuente
 funcional
@@ -189,9 +191,9 @@ guiada
 guiar
 hacia
 herramienta
-Herramientas
+herramientas
 híbrida
-Hoja
+hoja
 humano
 hwong
 ilustrado
@@ -202,7 +204,7 @@ impactan
 impactar
 impactará
 impacten
-impacto
+Impacto
 implantan
 implemenatción
 implementación
@@ -213,7 +215,7 @@ incrementados
 incrementar
 Incremento
 incrementos
-Independencia
+independencia
 indicada
 indicadores
 índices
@@ -241,7 +243,7 @@ Levantamiento
 libres
 Líder
 línea
-lineamientos
+Lineamientos
 lista
 llamamos
 llegar
@@ -249,7 +251,7 @@ LVT
 marcha
 mediante
 medición
-Medir
+medir
 mejora
 mejorada
 mejoramiento
@@ -261,7 +263,7 @@ mismo
 Mitigación
 Modelado
 modelamiento
-modelos
+Modelos
 modernizar
 modificados
 Monitoreo
@@ -271,7 +273,7 @@ negocio
 nivel
 niveles
 Nota
-Nube
+nube
 nueva
 Objetivo
 objetivos
@@ -284,7 +286,7 @@ operaciones
 oportunidades
 Optimización
 ordenados
-organización
+Organización
 organizado
 orientada
 orientado
@@ -324,7 +326,6 @@ productos
 propósito
 proveedor
 proveedores
-proy
 proyecto
 proyectos
 proyetos
@@ -357,7 +358,7 @@ riesgos
 rotación
 Ruta
 secuencia
-Segmento
+segmento
 seguimiento
 selección
 seleccionados
@@ -403,7 +404,7 @@ versión
 versiones
 vicepresidencia
 vicepresidencias
-vigilancia
+Vigilancia
 vigilar
 Vínculos
 Visión
