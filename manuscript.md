@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-29" />
   <meta name="citation_publication_date" content="2023-03-29" />
   <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T17:06:41+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T17:06:41+00:00" />
+  <meta name="dc.modified" content="2023-03-29T17:55:29+00:00" />
+  <meta property="article:modified_time" content="2023-03-29T17:55:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61/))
+([permalink](https://hwong23.github.io/e-service/v/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14/))
 was automatically generated
-from [hwong23/e-service@4d81e3e](https://github.com/hwong23/e-service/tree/4d81e3ec537fc129ffdbbc73b1f3d849e46cbb61)
+from [hwong23/e-service@4ae8f0c](https://github.com/hwong23/e-service/tree/4ae8f0ceee26b305e4a4a6f8612a20c538e66f14)
 on March 29, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|4d81e3e del 29 Mar 2023                              |
+|Version|4ae8f0c del 29 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -250,6 +250,8 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 - Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
 
 #### Entregables
+- Detalle de los ítems de arquitectura impactados por el proyecto 
+- Detalle de los recursos, herramientas, roles, responsabilidades y participantes
 - Diseño de los procesos y responsabilidades del comité de gobierno
 - Definición de roles y responsabilidades y selección e instalación del comité
 - Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
@@ -273,77 +275,8 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 <br>
 
-### PRY02. Arquitectura Referencia: dominio de aplicaciones y servicios únicamente
 
-En consecuencia de los ítems de arquitectura seleccionados en una fase inicial de Levantamiento, una arranque este proyecto, ...
-
-los proyectos PRY01 y PRY02 de la hoja de ruta de este alcance y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionará a su vez en dos versiones nuevas.
-
-![](images/vistaevolarquitectura.png)
-
-[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
-
-<br>
-
-## Ficha de proyectos
-
-1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
-
-
-
-### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
-#### Objetivo
-Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y requerimientos de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
-
-<br>
-
-#### Actividades
-- Acelerar el desarrollo de las arquitecturas de solución​
-- Relacionar las implementaciones con las áreas de negocio y TI​
-- Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo
-- Documentación técnica en el depósito de arquitectura institucional​
-
-#### Entregables
-- Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
-- Modelado en lenguaje y herramienta de diseño del FNA​
-- Administración de las transiciones hacia la arquitectura versión 2.0
-- Inventario de artefactos genéricos y concretos de aceleración de implementación
-	
-#### Impacto / Beneficio
-- Reducción en tiempos y costos asociados a las soluciones SOA​
-- Mejora en la alineación entre negocio y TI​
-- Mitigación de rotación del equipo de arquitectura​
-- Visión global de soluciones de TI vs. requisitos del negocio​
-	
-#### Actores
-- Áreas de negocio críticas​
-- Oficina de arquitectura FNA​
-- Consultores y equipo de apoyo​
-
-#### Consideraciones
-- Depósito´de Arquitectura
-- Herramientas de modelado
-
-<br>
-
-
-## Componentes modificados
-Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
-
-Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
-
-![](images/vistaitemsarq.png)
-
-[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
-
-<br>
-
-
-
-## Equipo Base del Proyecto
-Organizado por proyecto.
-
-### PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios
+### Equipo Base del Proyecto
 | |Trabajo|Dedicación|Horas|
 |:----|:----|:----|:----|
 |Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200 **|
@@ -354,18 +287,6 @@ Organizado por proyecto.
 |Personal del FNA|Recepción y ejecución de gobierno SOA, modelamiento software y servicios|*|*|
 |        ○ Especialista SOA|
 |        ○ Especialista(s) construcción software|
-
-	
-### PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios
-| |Trabajo|Dedicación|Horas|
-|:----|:----|:----|:----|
-|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200|
-|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
-|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
-|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
-|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
-|        ○ Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)|
-|        ○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA|
 
 <br>
 
@@ -389,6 +310,97 @@ La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramient
 Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
 
 Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
+
+<br>
+
+
+
+### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
+#### Objetivo
+Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y requerimientos de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
+
+<br>
+
+#### Actividades
+- Acelerar el desarrollo de las arquitecturas de solución​
+- Relacionar las implementaciones con las áreas de negocio y TI​
+- Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo
+- Documentación técnica en el depósito de arquitectura institucional​
+
+#### Entregables
+- Detalle de los ítems de arquitectura impactados por el proyecto 
+- Detalle de los recursos, herramientas, roles, responsabilidades y participantes
+- Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
+- Modelado en lenguaje y herramienta de diseño del FNA​
+- Administración de las transiciones hacia la arquitectura versión 2.0
+- Inventario de artefactos genéricos y concretos de aceleración de implementación
+- Análisis de impacto y modelos actualizados de los ítems de arquitectura 
+- Ítems de arquitectura incrementados en ejecución
+
+#### Impacto / Beneficio
+- Reducción en tiempos y costos asociados a las soluciones SOA​
+- Mejora en la alineación entre negocio y TI​
+- Mitigación de rotación del equipo de arquitectura​
+- Visión global de soluciones de TI vs. requisitos del negocio​
+	
+#### Actores
+- Áreas de negocio críticas​
+- Oficina de arquitectura FNA​
+- Consultores y equipo de apoyo​
+
+#### Consideraciones
+- Depósito´de Arquitectura
+- Herramientas de modelado
+
+
+<br>
+
+
+### Equipo Base del Proyecto
+| |Trabajo|Dedicación|Horas|
+|:----|:----|:----|:----|
+|Director / Gerente proyecto (Stefanini)|Calidad del proyecto|100% o 50%|1200|
+|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|1200|
+|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|*|
+|        ○ Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)|
+|        ○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA|
+
+<br>
+
+(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
+
+(**) 160 hrs/mes * 8 meses = 1,280 hrs proy
+
+<br>
+
+
+## Plan de Trabajo
+Organización del proyecto. El proyecto está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en el alcance consignado arriba, periodo 2023, que se corresponden con las fases 2 y 3 de la imagen abajo.
+
+![](images/vistaimplementacion.png)
+
+[Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
+
+La fase 1, Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
+
+Las fases 2 y 3 impactan directamente a elementos de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
+
+Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
+
+<br>
+
+
+
+## Componentes modificados
+Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
+
+Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
+
+![](images/vistaitemsarq.png)
+
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
 
 <br>
 
