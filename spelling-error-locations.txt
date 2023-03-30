@@ -993,6 +993,220 @@ content/02c1b.pry arqreferencia.md:38:Arquitectura
 content/02c1b.pry arqreferencia.md:38:Depósito
 content/02c1b.pry arqreferencia.md:39:Herramientas
 content/02c1b.pry arqreferencia.md:39:modelado
+content/02c1c1.equipo.md:1:Equipo
+content/02c1c1.equipo.md:1:Proyecto
+content/02c1c1.equipo.md:2:Dedicación
+content/02c1c1.equipo.md:2:Trabajo
+content/02c1c1.equipo.md:4:Coordinador
+content/02c1c1.equipo.md:4:Estructuración
+content/02c1c1.equipo.md:4:hoja
+content/02c1c1.equipo.md:4:proyectos
+content/02c1c1.equipo.md:4:proyectos
+content/02c1c1.equipo.md:4:ruta
+content/02c1c1.equipo.md:4:Stefanini
+content/02c1c1.equipo.md:5:auxiliar
+content/02c1c1.equipo.md:5:Coordinador
+content/02c1c1.equipo.md:5:proyectos
+content/02c1c1.equipo.md:5:Stefanini
+content/02c1c1.equipo.md:6:diseños
+content/02c1c1.equipo.md:6:ejecución
+content/02c1c1.equipo.md:6:FNA
+content/02c1c1.equipo.md:6:implementación
+content/02c1c1.equipo.md:6:modelamiento
+content/02c1c1.equipo.md:6:procesos
+content/02c1c1.equipo.md:6:Recepción
+content/02c1c1.equipo.md:6:requerimientos
+content/02c1c1.equipo.md:6:requerimientos
+content/02c1c1.equipo.md:6:servicios
+content/02c1c1.equipo.md:6:SOA
+content/02c1c1.equipo.md:7:aplicaciones
+content/02c1c1.equipo.md:7:Aplicaciones
+content/02c1c1.equipo.md:7:arquitectura
+content/02c1c1.equipo.md:7:arquitectura
+content/02c1c1.equipo.md:7:Especialistas
+content/02c1c1.equipo.md:7:FNA
+content/02c1c1.equipo.md:7:FNA
+content/02c1c1.equipo.md:7:incremento
+content/02c1c1.equipo.md:7:incrementos
+content/02c1c1.equipo.md:7:involucrados
+content/02c1c1.equipo.md:7:pertenecientes
+content/02c1c1.equipo.md:7:referencia
+content/02c1c1.equipo.md:7:ver
+content/02c1c1.equipo.md:7:versión
+content/02c1c1.equipo.md:7:versión
+content/02c1c1.equipo.md:8:aplicaciones
+content/02c1c1.equipo.md:8:arquitectura
+content/02c1c1.equipo.md:8:FNA
+content/02c1c1.equipo.md:8:funcional
+content/02c1c1.equipo.md:8:incremento
+content/02c1c1.equipo.md:8:Líder
+content/02c1c1.equipo.md:8:pertenecientes
+content/02c1c1.equipo.md:8:versión
+content/02c1c1.equipo.md:12:dedicación
+content/02c1c1.equipo.md:12:dispone
+content/02c1c1.equipo.md:12:el
+content/02c1c1.equipo.md:12:FNA
+content/02c1c1.equipo.md:12:internos
+content/02c1c1.equipo.md:12:participación
+content/02c1c1.equipo.md:12:recursos
+content/02c1c2.plan.md:1:Trabajo
+content/02c1c2.plan.md:2:abril
+content/02c1c2.plan.md:2:Ejecución
+content/02c1c2.plan.md:2:Equivalente
+content/02c1c2.plan.md:2:iniciado
+content/02c1c2.plan.md:2:meses
+content/02c1c2.plan.md:2:partir
+content/02c1c2.plan.md:2:Plazo
+content/02c1c2.plan.md:4:meses
+content/02c1c2.plan.md:4:proyecto
+content/02c1c2.plan.md:8:áreas
+content/02c1c2.plan.md:8:áreas
+content/02c1c2.plan.md:8:arquitectura
+content/02c1c2.plan.md:8:cada
+content/02c1c2.plan.md:8:coordinación
+content/02c1c2.plan.md:8:detalles
+content/02c1c2.plan.md:8:determinan
+content/02c1c2.plan.md:8:el
+content/02c1c2.plan.md:8:elementos
+content/02c1c2.plan.md:8:fase
+content/02c1c2.plan.md:8:FNA
+content/02c1c2.plan.md:8:hoja
+content/02c1c2.plan.md:8:impactar
+content/02c1c2.plan.md:8:implementar
+content/02c1c2.plan.md:8:inicia
+content/02c1c2.plan.md:8:involucradas
+content/02c1c2.plan.md:8:Levantamiento
+content/02c1c2.plan.md:8:LVT
+content/02c1c2.plan.md:8:negocio
+content/02c1c2.plan.md:8:Organización
+content/02c1c2.plan.md:8:por
+content/02c1c2.plan.md:8:proyecto
+content/02c1c2.plan.md:8:proyecto
+content/02c1c2.plan.md:8:proyectos
+content/02c1c2.plan.md:8:ruta
+content/02c1c2.plan.md:8:tecnología
+content/02c1c2.plan.md:8:trabajo
+content/02c1c2.plan.md:12:Abril
+content/02c1c2.plan.md:12:Dic
+content/02c1c2.plan.md:12:FNA
+content/02c1c2.plan.md:12:Hoja
+content/02c1c2.plan.md:12:Imagen
+content/02c1c2.plan.md:12:Implementación
+content/02c1c2.plan.md:12:Proyecto
+content/02c1c2.plan.md:12:Ruta
+content/02c1c2.plan.md:12:Ver
+content/02c1c.pry estructuracion.md:1:aplicaciones
+content/02c1c.pry estructuracion.md:1:dominio
+content/02c1c.pry estructuracion.md:1:FNA
+content/02c1c.pry estructuracion.md:1:Gobierno
+content/02c1c.pry estructuracion.md:1:servicios
+content/02c1c.pry estructuracion.md:1:SOA
+content/02c1c.pry estructuracion.md:2:Objetivo
+content/02c1c.pry estructuracion.md:3:brecha
+content/02c1c.pry estructuracion.md:3:cierre
+content/02c1c.pry estructuracion.md:3:detallar
+content/02c1c.pry estructuracion.md:3:Estructurar
+content/02c1c.pry estructuracion.md:3:hoja
+content/02c1c.pry estructuracion.md:3:proyectos
+content/02c1c.pry estructuracion.md:3:ruta
+content/02c1c.pry estructuracion.md:6:Actividades
+content/02c1c.pry estructuracion.md:7:Definición
+content/02c1c.pry estructuracion.md:7:hoja
+content/02c1c.pry estructuracion.md:7:implementar
+content/02c1c.pry estructuracion.md:7:por
+content/02c1c.pry estructuracion.md:7:proyectos
+content/02c1c.pry estructuracion.md:7:ruta
+content/02c1c.pry estructuracion.md:7:solución
+content/02c1c.pry estructuracion.md:8:actividades
+content/02c1c.pry estructuracion.md:8:hitos
+content/02c1c.pry estructuracion.md:8:hoja
+content/02c1c.pry estructuracion.md:8:Planificación
+content/02c1c.pry estructuracion.md:8:proyectos
+content/02c1c.pry estructuracion.md:8:ruta
+content/02c1c.pry estructuracion.md:9:Alistamiento
+content/02c1c.pry estructuracion.md:9:ejecución
+content/02c1c.pry estructuracion.md:9:equipo
+content/02c1c.pry estructuracion.md:9:hoja
+content/02c1c.pry estructuracion.md:9:implementar
+content/02c1c.pry estructuracion.md:9:por
+content/02c1c.pry estructuracion.md:9:proyectos
+content/02c1c.pry estructuracion.md:9:recursos
+content/02c1c.pry estructuracion.md:9:ruta
+content/02c1c.pry estructuracion.md:9:trabajo
+content/02c1c.pry estructuracion.md:10:Aprobación
+content/02c1c.pry estructuracion.md:10:hoja
+content/02c1c.pry estructuracion.md:10:inicio
+content/02c1c.pry estructuracion.md:10:proyectos
+content/02c1c.pry estructuracion.md:10:ruta
+content/02c1c.pry estructuracion.md:12:Entregables
+content/02c1c.pry estructuracion.md:13:Documentación
+content/02c1c.pry estructuracion.md:13:estructuración
+content/02c1c.pry estructuracion.md:13:gestión
+content/02c1c.pry estructuracion.md:13:hoja
+content/02c1c.pry estructuracion.md:13:implementar
+content/02c1c.pry estructuracion.md:13:por
+content/02c1c.pry estructuracion.md:13:proyectos
+content/02c1c.pry estructuracion.md:13:ruta
+content/02c1c.pry estructuracion.md:14:Aprobación
+content/02c1c.pry estructuracion.md:14:hoja
+content/02c1c.pry estructuracion.md:14:inicio
+content/02c1c.pry estructuracion.md:14:proyectos
+content/02c1c.pry estructuracion.md:14:ruta
+content/02c1c.pry estructuracion.md:15:hoja
+content/02c1c.pry estructuracion.md:15:proyectos
+content/02c1c.pry estructuracion.md:15:ruta
+content/02c1c.pry estructuracion.md:15:trabajo
+content/02c1c.pry estructuracion.md:16:hoja
+content/02c1c.pry estructuracion.md:16:Listados
+content/02c1c.pry estructuracion.md:16:por
+content/02c1c.pry estructuracion.md:16:proyectos
+content/02c1c.pry estructuracion.md:16:recursos
+content/02c1c.pry estructuracion.md:16:requeriras
+content/02c1c.pry estructuracion.md:16:ruta
+content/02c1c.pry estructuracion.md:18:Ejecución
+content/02c1c.pry estructuracion.md:18:Plazo
+content/02c1c.pry estructuracion.md:19:ejecución
+content/02c1c.pry estructuracion.md:19:iniciado
+content/02c1c.pry estructuracion.md:19:meses
+content/02c1c.pry estructuracion.md:19:partir
+content/02c1c.pry estructuracion.md:19:ver
+content/02c1c.pry estructuracion.md:21:Beneficio
+content/02c1c.pry estructuracion.md:21:Impacto
+content/02c1c.pry estructuracion.md:22:aprobación
+content/02c1c.pry estructuracion.md:22:arquitectura
+content/02c1c.pry estructuracion.md:22:brecha
+content/02c1c.pry estructuracion.md:22:cierre
+content/02c1c.pry estructuracion.md:22:debilidades
+content/02c1c.pry estructuracion.md:22:ejecución
+content/02c1c.pry estructuracion.md:22:FNA
+content/02c1c.pry estructuracion.md:22:logren
+content/02c1c.pry estructuracion.md:22:Preparativos
+content/02c1c.pry estructuracion.md:22:proyectos
+content/02c1c.pry estructuracion.md:24:Actores
+content/02c1c.pry estructuracion.md:25:Comité
+content/02c1c.pry estructuracion.md:25:FNA
+content/02c1c.pry estructuracion.md:25:gobierno
+content/02c1c.pry estructuracion.md:26:arquitectura
+content/02c1c.pry estructuracion.md:26:FNA
+content/02c1c.pry estructuracion.md:26:Oficina
+content/02c1c.pry estructuracion.md:27:asociado
+content/02c1c.pry estructuracion.md:27:Crédito
+content/02c1c.pry estructuracion.md:27:Datos
+content/02c1c.pry estructuracion.md:27:FNA
+content/02c1c.pry estructuracion.md:27:infraestructura
+content/02c1c.pry estructuracion.md:27:por
+content/02c1c.pry estructuracion.md:27:proyecto
+content/02c1c.pry estructuracion.md:29:Consideraciones
+content/02c1c.pry estructuracion.md:30:arquitectura
+content/02c1c.pry estructuracion.md:30:centralizado
+content/02c1c.pry estructuracion.md:30:depósito
+content/02c1c.pry estructuracion.md:30:FNA
+content/02c1c.pry estructuracion.md:31:Depósito
+content/02c1c.pry estructuracion.md:31:documental
+content/02c1c.pry estructuracion.md:32:gestión
+content/02c1c.pry estructuracion.md:32:Herramientas
+content/02c1c.pry estructuracion.md:32:proyectos
+content/02c1c.pry estructuracion.md:32:tecnología
 content/02c1.ficha proyecto.md:1:Alcance
 content/02c1.ficha proyecto.md:1:Proyectos
 content/02c1.ficha proyecto.md:2:además

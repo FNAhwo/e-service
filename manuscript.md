@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-30" />
   <meta name="citation_publication_date" content="2023-03-30" />
   <meta property="article:published_time" content="2023-03-30" />
-  <meta name="dc.modified" content="2023-03-30T19:58:38+00:00" />
-  <meta property="article:modified_time" content="2023-03-30T19:58:38+00:00" />
+  <meta name="dc.modified" content="2023-03-30T20:42:10+00:00" />
+  <meta property="article:modified_time" content="2023-03-30T20:42:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/))
+([permalink](https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/))
 was automatically generated
-from [hwong23/e-service@12d31df](https://github.com/hwong23/e-service/tree/12d31df3ef0df70a805fe982994d5ec62a329261)
+from [hwong23/e-service@921b5fa](https://github.com/hwong23/e-service/tree/921b5fa4c3186dc56b0e7e196816989a5222c3c5)
 on March 30, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 30, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|12d31df del 30 Mar 2023                              |
+|Version|921b5fa del 30 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -312,7 +312,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 ## Plan de Trabajo
 Plazo de Ejecución: 5 meses, iniciado a partir del mes de abril del 2023.
 
-> 180 hrs/mes * 8 meses = 910 hrs / hombre proyecto.
+> 180 hrs/mes * 5 meses = 910 hrs / hombre proyecto.
 
 <br>
 
@@ -397,7 +397,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 ## Plan de Trabajo
 Plazo de Ejecución: 5 meses, iniciado a partir del mes de abril del 2023. Equivalente en horas a 
 
-> 180 hrs/mes * 8 meses = 910 hrs / hombre proyecto.
+> 180 hrs/mes * 5 meses = 910 hrs / hombre proyecto.
 
 <br>
 
@@ -412,6 +412,75 @@ La fase 1 y 2, Diseño e Incremento respectiamente, tienen en realidad dos accio
 Las fases 3, Optimización, busca crear y gestionar el inventario de elementos genéricos de aceleración de desarollo, como funcionalidades, y artefactos de software que cumplan los estándares de la arquitetura de referencia 2.0 definida anteriormente.
 
 Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño de los incrementos de evolución de la arquitectura de referencia 2.0.
+
+<br>
+
+
+
+### PRY03. Gobierno SOA FNA: dominio de aplicaciones y servicios
+#### Objetivo
+Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Service.
+<br>
+
+#### Actividades
+- Definición de solución de los proyectos de la hoja de ruta E-Service por implementar
+- Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service
+- Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo
+- Aprobación de inicio de de los proyectos de la hoja de ruta
+
+#### Entregables
+- PR01. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
+- PR02. Aprobación de inicio de los proyectos de la hoja de ruta E-Service
+- PR03. Plan de trabajo de los proyectos de la hoja de ruta E-Service 
+- PR04. Listados de recursos, roles y personas requeriras por los los proyectos de la hoja de ruta E-Service
+
+### Plazo de Ejecución
+4 meses, iniciado a partir del mes de mayo del 2023 (ver plan de ejecución PRY03).
+
+#### Impacto / Beneficio
+- Preparativos que logren la aprobación de la ejecución de los proyectos de cierre de brecha de las debilidades de arquitectura FNA.​
+
+#### Actores
+- Comité de gobierno del FNA
+- Oficina de arquitectura FNA
+- Personal FNA asociado por proyecto (infraestructura, Crédito, Datos, etc.)
+
+#### Consideraciones
+- MEGA: depósito centralizado de arquitectura del FNA
+- Depósito documental
+- Herramientas de gestión de proyectos de tecnología
+
+<br>
+
+
+### Equipo Base del Proyecto
+|                                         | Trabajo              | Dedicación |
+|:----------------------------------------|:---------------------|:-----------|
+|Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
+|Coordinador de proyectos auxiliar (Stefanini)||100%|
+|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
+|- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
+|- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
+
+<br>
+
+(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
+
+<br>
+
+
+## Plan de Trabajo
+Plazo de Ejecución: 4 meses, iniciado a partir del mes de abril del 2023. Equivalente en horas a 
+
+> 180 hrs/mes * 4 meses = 720 hrs / hombre proyecto.
+
+<br>
+
+Organización de trabajo: el proyecto 3 (PRY03) inicia con la fase de Levantamiento (LVT) de los proyectos por implementar de la hoja de ruta E-Service, en coordinación con las áreas de negocio y tecnología del FNA involucradas en cada proyecto. Se determinan los detalles de los elementos de la arquitectura a impactar.
+
+![](images/pry3estructuracion.jpg)
+
+[Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
 <br>
 
