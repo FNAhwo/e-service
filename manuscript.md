@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-03-29'
+date-meta: '2023-03-30'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-03-29" />
-  <meta name="citation_publication_date" content="2023-03-29" />
-  <meta property="article:published_time" content="2023-03-29" />
-  <meta name="dc.modified" content="2023-03-29T20:22:52+00:00" />
-  <meta property="article:modified_time" content="2023-03-29T20:22:52+00:00" />
+  <meta name="dc.date" content="2023-03-30" />
+  <meta name="citation_publication_date" content="2023-03-30" />
+  <meta property="article:published_time" content="2023-03-30" />
+  <meta name="dc.modified" content="2023-03-30T19:58:38+00:00" />
+  <meta property="article:modified_time" content="2023-03-30T19:58:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/61eebb56888bee06b060e59aa5b92304528d884d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/61eebb56888bee06b060e59aa5b92304528d884d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/61eebb56888bee06b060e59aa5b92304528d884d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,10 +71,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/61eebb56888bee06b060e59aa5b92304528d884d/))
+([permalink](https://hwong23.github.io/e-service/v/12d31df3ef0df70a805fe982994d5ec62a329261/))
 was automatically generated
-from [hwong23/e-service@61eebb5](https://github.com/hwong23/e-service/tree/61eebb56888bee06b060e59aa5b92304528d884d)
-on March 29, 2023.
+from [hwong23/e-service@12d31df](https://github.com/hwong23/e-service/tree/12d31df3ef0df70a805fe982994d5ec62a329261)
+on March 30, 2023.
 </em></small>
 
 
@@ -133,7 +133,7 @@ on March 29, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|61eebb5 del 29 Mar 2023                              |
+|Version|12d31df del 30 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -221,13 +221,22 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 
 
 ## Proyectos del Alcance
-Los proyectos PRY01 y PRY02 de la hoja de ruta consignados en este alcance tienen por objeto incrementar las capacidades del FNA CAP1 y CAP2, y por consiguiente, evolucionar la arquitectura SOA del FNA dos versiones adelante.
+Los proyectos PRY01, PRY02 y PRY03 de la hoja de ruta consignados en este alcance tienen por objeto cerrar las brechas de fortaleza SOA y riesgos técnicos determinados en el diagnóstico de la consultoría "Arquitectura E-Service". Estos proyectos buscan además incrementar las capacidades del FNA, CAP1 y CAP2, mencionadas en el alcance y estructurar el detalle técnico y tecnoleogico de los proyectos futuros planteadas en dicha hoja de ruta.
 
-![](images/vistaevolarquitectura.png)
+Las brechas en cuestión, relacionadas abajo en la imagen, son las indicadas en la justificación del presente alcance:
+
+* Flexibilidad y tiempo de mercado (OBJ3)
+* Fortaleza SOA de las aplicaciones (OBJ2)
+* Independencia de proveedor (OBJ1)
+
+
+![](images/vistaevolarquitectura.jpg)
 
 [Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón de las capacidades incrementadas mediante los proyectos de este alcance.
 
 <br>
+
+Este alcance plantea la evolución de la arquitectura de referencia 2.0 FNA en los siguientes términos.
 
 ### Arquitectura de referncia 2.0. Incremento 1
 Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
