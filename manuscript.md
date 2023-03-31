@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-03-30'
+date-meta: '2023-03-31'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-03-30" />
-  <meta name="citation_publication_date" content="2023-03-30" />
-  <meta property="article:published_time" content="2023-03-30" />
-  <meta name="dc.modified" content="2023-03-30T20:42:10+00:00" />
-  <meta property="article:modified_time" content="2023-03-30T20:42:10+00:00" />
+  <meta name="dc.date" content="2023-03-31" />
+  <meta name="citation_publication_date" content="2023-03-31" />
+  <meta property="article:published_time" content="2023-03-31" />
+  <meta name="dc.modified" content="2023-03-31T16:40:16+00:00" />
+  <meta property="article:modified_time" content="2023-03-31T16:40:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,10 +71,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/921b5fa4c3186dc56b0e7e196816989a5222c3c5/))
+([permalink](https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/))
 was automatically generated
-from [hwong23/e-service@921b5fa](https://github.com/hwong23/e-service/tree/921b5fa4c3186dc56b0e7e196816989a5222c3c5)
-on March 30, 2023.
+from [hwong23/e-service@5f1e180](https://github.com/hwong23/e-service/tree/5f1e180845b2a07584070afe64abbf3c5da75b50)
+on March 31, 2023.
 </em></small>
 
 
@@ -133,7 +133,7 @@ on March 30, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|921b5fa del 30 Mar 2023                              |
+|Version|5f1e180 del 31 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -205,10 +205,11 @@ Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguiente
 Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA 
 de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2), en el dominio de aplicaciones y servicios únicamente. Esto implica la planeación, ejecución y seguimiento de los proyectos siguientes:
 
-1. PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
-1. PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
-1. PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
+* PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
+* PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
+* PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
+<br>
 
 El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado a continuación.
 
@@ -229,6 +230,17 @@ Las brechas en cuestión, relacionadas abajo en la imagen, son las indicadas en 
 * Fortaleza SOA de las aplicaciones (OBJ2)
 * Independencia de proveedor (OBJ1)
 
+La evolución de la arquitectura del FNA impactada mediante este alcance está organizada en dos incrementos.
+
+#### Arquitectura de referencia 2.0. Incremento 1
+Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
+
+#### Arquitectura de referencia 2.0. Incremento 2
+Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de la aplicación de cambios en ítems adicionales de la arquitectura actual.
+
+<br>
+
+La siguiente imagen ilustra el alcance propuesto en términos de las capacidades del FNA impactadas, los proyectos de ejecución, las evoluciones de la arquitectura y las brechas involucradas. 
 
 ![](images/vistaevolarquitectura.jpg)
 
@@ -236,22 +248,12 @@ Las brechas en cuestión, relacionadas abajo en la imagen, son las indicadas en 
 
 <br>
 
-Este alcance plantea la evolución de la arquitectura de referencia 2.0 FNA en los siguientes términos.
-
-### Arquitectura de referncia 2.0. Incremento 1
-Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
-
-### Arquitectura de referncia 2.0. Incremento 2
-Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de la aplicación de cambios en ítems adicionales de la arquitectura actual.
-
-<br>
+A continuación presentamos la descripción de los proyectos de este alcance en forma de fichas de proyecto. 
 
 
 ### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
 #### Objetivo
 Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
-
-<br>
 
 #### Actividades
 - Fortalecer el comité de gobierno SOA del FNA
@@ -268,7 +270,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 - PR07. Métricas de efectividad del gobierno
 
 ### Plazo de Ejecución
-5 meses, iniciado a partir del mes de abril (ver plan de ejecución PRY01).
+5 meses, iniciado a partir del mes de abril del 2023 (ver Plan de Ejecución PRY01, más adelante).
 
 #### Impacto / Beneficio
 - Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
@@ -309,19 +311,22 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 
-## Plan de Trabajo
-Plazo de Ejecución: 5 meses, iniciado a partir del mes de abril del 2023.
+### Plan de Trabajo
+#### Plazo de Ejecución
+El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 5 meses.
 
-> 180 hrs/mes * 5 meses = 910 hrs / hombre proyecto.
+    180 hrs/mes * 5 meses = 910 hrs / hombre proyecto
 
-<br>
 
-Organización de trabajo: el proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
+#### Organización de trabajo
+El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
 ![](images/pry1gobierno.jpg)
 
 [Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
+
+#### Fases del proyecto
 La fase 1, Definición del Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
 
 Las fases 2 y 3, implantan el gobierno anteriormente definido, e impactan directamente a los modelos y las decisiones de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
@@ -331,12 +336,9 @@ Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de des
 <br>
 
 
-
 ### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
 #### Objetivo
 Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y requerimientos de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
-
-<br>
 
 #### Actividades
 - Acelerar el desarrollo de las arquitecturas de solución​
@@ -355,7 +357,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - PR17. Ítems de arquitectura incrementados en ejecución
 
 ### Plazo de Ejecución
-5 meses, iniciado a partir del mes de abril (ver plan de ejecución PRY01).
+5 meses, iniciado a partir del mes de abril dl 2023 (ver Plan de Ejecución PRY01 más adelante).
 
 #### Impacto / Beneficio
 - Reducción en tiempos y costos asociados a las soluciones SOA​
@@ -420,7 +422,6 @@ Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de des
 ### PRY03. Gobierno SOA FNA: dominio de aplicaciones y servicios
 #### Objetivo
 Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Service.
-<br>
 
 #### Actividades
 - Definición de solución de los proyectos de la hoja de ruta E-Service por implementar
@@ -435,7 +436,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 - PR04. Listados de recursos, roles y personas requeriras por los los proyectos de la hoja de ruta E-Service
 
 ### Plazo de Ejecución
-4 meses, iniciado a partir del mes de mayo del 2023 (ver plan de ejecución PRY03).
+4 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY03 más adelante).
 
 #### Impacto / Beneficio
 - Preparativos que logren la aprobación de la ejecución de los proyectos de cierre de brecha de las debilidades de arquitectura FNA.​
