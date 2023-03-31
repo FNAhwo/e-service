@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-31" />
   <meta name="citation_publication_date" content="2023-03-31" />
   <meta property="article:published_time" content="2023-03-31" />
-  <meta name="dc.modified" content="2023-03-31T19:14:43+00:00" />
-  <meta property="article:modified_time" content="2023-03-31T19:14:43+00:00" />
+  <meta name="dc.modified" content="2023-03-31T19:18:32+00:00" />
+  <meta property="article:modified_time" content="2023-03-31T19:18:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/1d97399ebe1764110c6abbbf1f3b0366a260fabe/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/1d97399ebe1764110c6abbbf1f3b0366a260fabe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/1d97399ebe1764110c6abbbf1f3b0366a260fabe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/a3fbdcf811197d7ac4880cc0f5fa34037cbf0f43/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/a3fbdcf811197d7ac4880cc0f5fa34037cbf0f43/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/a3fbdcf811197d7ac4880cc0f5fa34037cbf0f43/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/1d97399ebe1764110c6abbbf1f3b0366a260fabe/))
+([permalink](https://hwong23.github.io/e-service/v/a3fbdcf811197d7ac4880cc0f5fa34037cbf0f43/))
 was automatically generated
-from [hwong23/e-service@1d97399](https://github.com/hwong23/e-service/tree/1d97399ebe1764110c6abbbf1f3b0366a260fabe)
+from [hwong23/e-service@a3fbdcf](https://github.com/hwong23/e-service/tree/a3fbdcf811197d7ac4880cc0f5fa34037cbf0f43)
 on March 31, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|1d97399 del 31 Mar 2023                              |
+|Version|a3fbdcf del 31 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -279,7 +279,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 
-### Plan de Trabajo
+#### Plan de Trabajo
 Organización de trabajo. El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
 ![](images/pry1gobierno.jpg)
@@ -321,7 +321,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
 - PR17. Ítems de arquitectura incrementados en ejecución
 
-### Plazo de Ejecución
+#### Plazo de Ejecución
 5 meses, iniciado a partir del mes de abril dl 2023 (ver Plan de Ejecución PRY01 más adelante).
 
 #### Impacto / Beneficio
@@ -361,7 +361,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 <br>
 
 
-### Plan de Trabajo
+#### Plan de Trabajo
 Organización de trabajo: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
 
 ![](images/pry2arqref2.0.jpg)
@@ -403,7 +403,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 - PR25.  Ficha de proyectos hoja de ruta E-Service. Incremento 1
 - PR26.  Ficha de proyectos hoja de ruta E-Service. Incremento 2
 
-### Plazo de Ejecución
+#### Plazo de Ejecución
 4 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY03 más adelante).
 
 #### Impacto / Beneficio
@@ -459,7 +459,7 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 
 
 
-## Componentes modificados
+## Componentes de la Arquitectura FNA Impactados
 Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
 Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
@@ -508,7 +508,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                              |               |
 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                              |               |
 
-
+<br>
 
 
 ## Costo Beneficio (aproximado)
