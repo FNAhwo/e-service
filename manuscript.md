@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-31" />
   <meta name="citation_publication_date" content="2023-03-31" />
   <meta property="article:published_time" content="2023-03-31" />
-  <meta name="dc.modified" content="2023-03-31T18:00:33+00:00" />
-  <meta property="article:modified_time" content="2023-03-31T18:00:33+00:00" />
+  <meta name="dc.modified" content="2023-03-31T18:30:02+00:00" />
+  <meta property="article:modified_time" content="2023-03-31T18:30:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9afddb64f5ce346e2a5757e2e92ce66c85f1e545/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9afddb64f5ce346e2a5757e2e92ce66c85f1e545/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9afddb64f5ce346e2a5757e2e92ce66c85f1e545/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4b4bdffc4c47684c33289ccd637023677bcd44a3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4b4bdffc4c47684c33289ccd637023677bcd44a3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4b4bdffc4c47684c33289ccd637023677bcd44a3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/9afddb64f5ce346e2a5757e2e92ce66c85f1e545/))
+([permalink](https://hwong23.github.io/e-service/v/4b4bdffc4c47684c33289ccd637023677bcd44a3/))
 was automatically generated
-from [hwong23/e-service@9afddb6](https://github.com/hwong23/e-service/tree/9afddb64f5ce346e2a5757e2e92ce66c85f1e545)
+from [hwong23/e-service@4b4bdff](https://github.com/hwong23/e-service/tree/4b4bdffc4c47684c33289ccd637023677bcd44a3)
 on March 31, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 31, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|9afddb6 del 31 Mar 2023                              |
+|Version|4b4bdff del 31 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -269,7 +269,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 - PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
 - PR07. Métricas de efectividad del gobierno
 
-### Plazo de Ejecución
+#### Plazo de Ejecución
 5 meses, iniciado a partir del mes de abril del 2023 (ver Plan de Ejecución PRY01, más adelante).
 
 #### Impacto / Beneficio
@@ -291,7 +291,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 <br>
 
 
-### Equipo Base del Proyecto
+#### Equipo Base del Proyecto
 |                                         | Trabajo              | Dedicación |
 |:----------------------------------------|:---------------------|:-----------|
 | Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
@@ -368,14 +368,14 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - Consultores y equipo de apoyo​
 
 #### Consideraciones
-- Depósito´de Arquitectura
+- Depósito de Arquitectura
 - Herramientas de modelado
 
 
 <br>
 
 
-### Equipo Base del Proyecto
+#### Equipo Base del Proyecto
 |                                         | Trabajo              | Dedicación |
 |:----------------------------------------|:---------------------|:-----------|
 | Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
@@ -393,7 +393,7 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 <br>
 
 
-## Plan de Trabajo
+### Plan de Trabajo
 Organización de trabajo: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
 
 ![](images/pry2arqref2.0.jpg)
@@ -454,7 +454,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 <br>
 
 
-### Equipo Base del Proyecto
+#### Equipo Base del Proyecto
 |                                         | Trabajo              | Dedicación |
 |:----------------------------------------|:---------------------|:-----------|
 |Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
@@ -470,7 +470,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 <br>
 
 
-## Plan de Trabajo
+#### Plan de Trabajo
 Organización de trabajo: el proyecto 3 (PRY03) inicia con la fase de Levantamiento (LVT) de los proyectos por implementar de la hoja de ruta E-Service, en coordinación con las áreas de negocio y tecnología del FNA involucradas en cada proyecto. Se determinan los detalles de los elementos de la arquitectura a impactar.
 
 ![](images/pry3estructuracion.jpg)
