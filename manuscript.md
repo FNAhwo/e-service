@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-31" />
   <meta name="citation_publication_date" content="2023-03-31" />
   <meta property="article:published_time" content="2023-03-31" />
-  <meta name="dc.modified" content="2023-03-31T16:40:16+00:00" />
-  <meta property="article:modified_time" content="2023-03-31T16:40:16+00:00" />
+  <meta name="dc.modified" content="2023-03-31T16:54:06+00:00" />
+  <meta property="article:modified_time" content="2023-03-31T16:54:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/1870fa960d0071e928f19cf30507cb3d2f7cd738/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/1870fa960d0071e928f19cf30507cb3d2f7cd738/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/1870fa960d0071e928f19cf30507cb3d2f7cd738/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/e-service/v/5f1e180845b2a07584070afe64abbf3c5da75b50/))
+([permalink](https://hwong23.github.io/e-service/v/1870fa960d0071e928f19cf30507cb3d2f7cd738/))
 was automatically generated
-from [hwong23/e-service@5f1e180](https://github.com/hwong23/e-service/tree/5f1e180845b2a07584070afe64abbf3c5da75b50)
+from [hwong23/e-service@1870fa9](https://github.com/hwong23/e-service/tree/1870fa960d0071e928f19cf30507cb3d2f7cd738)
 on March 31, 2023.
 </em></small>
 
@@ -133,7 +133,7 @@ on March 31, 2023.
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5f1e180 del 31 Mar 2023                              |
+|Version|1870fa9 del 31 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
