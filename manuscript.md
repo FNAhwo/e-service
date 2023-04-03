@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-03" />
   <meta name="citation_publication_date" content="2023-04-03" />
   <meta property="article:published_time" content="2023-04-03" />
-  <meta name="dc.modified" content="2023-04-03T19:21:30+00:00" />
-  <meta property="article:modified_time" content="2023-04-03T19:21:30+00:00" />
+  <meta name="dc.modified" content="2023-04-03T19:31:09+00:00" />
+  <meta property="article:modified_time" content="2023-04-03T19:31:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/daa5650922636bf295022aad51745c87efa4fe96/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/daa5650922636bf295022aad51745c87efa4fe96/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/daa5650922636bf295022aad51745c87efa4fe96/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9189c0e6a5583a545b9c6d91d2bfe1f474ee9509/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9189c0e6a5583a545b9c6d91d2bfe1f474ee9509/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9189c0e6a5583a545b9c6d91d2bfe1f474ee9509/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,11 +62,11 @@ manubot-clear-requests-cache: false
 
 
 <small><em>
-This manuscript
-([permalink](https://hwong23.github.io/e-service/v/daa5650922636bf295022aad51745c87efa4fe96/))
-was automatically generated
-from [hwong23/e-service@daa5650](https://github.com/hwong23/e-service/tree/daa5650922636bf295022aad51745c87efa4fe96)
-on April 3, 2023.
+Esta propuesta
+([URL](https://hwong23.github.io/e-service/v/9189c0e6a5583a545b9c6d91d2bfe1f474ee9509/))
+está basada en el resultado de la consultoría "Arquitectura E-Service"
+, [hwong23/e-service@9189c0e](https://github.com/hwong23/e-service/tree/9189c0e6a5583a545b9c6d91d2bfe1f474ee9509)
+del April 3, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|daa5650 del 03 Apr 2023                              |
+|Versión|9189c0e del 03 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,9 +369,9 @@ Organización de trabajo: el proyecto 2 (PRY02) inicia con la fase de Definició
 [Imagen.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
 #### Fases del proyecto
-La fase 1 y 2, Diseño e Incremento respectiamente, tienen en realidad dos acciones: el planteamiento de la solución de la arquitectura (detalles tecnológicos), y el de la puesta en marcha de cambios mediante una implementación real de este diseño, al que llamamos arquitectura de referencia 2.0 FNA.
+La fase 1 y 2, Diseño e Incremento respectivamente, tienen en realidad dos acciones: el planteamiento de la solución de la arquitectura (detalles tecnológicos), y el de la puesta en marcha de cambios mediante una implementación real de este diseño, al que llamamos arquitectura de referencia 2.0 FNA.
 
-Las fases 3, Optimización, busca crear y gestionar el inventario de elementos genéricos de aceleración de desarollo, como funcionalidades, y artefactos de software que cumplan los estándares de la arquitetura de referencia 2.0 definida anteriormente.
+Las fases 3, Optimización, busca crear y gestionar el inventario de elementos genéricos de aceleración de desarrollo, como funcionalidades, y artefactos de software que cumplan los estándares de la arquitectura de referencia 2.0 definida anteriormente.
 
 Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño de los incrementos de evolución de la arquitectura de referencia 2.0.
 
@@ -398,7 +398,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 - PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
 - PR21. Aprobación de inicio de los proyectos de la hoja de ruta E-Service
 - PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service 
-- PR23. Listados de recursos, roles y personas requeriras por los los proyectos de la hoja de ruta E-Service
+- PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service
 - PR24. Arquitectura de solución de los proyectos de cierre de brecha
 - PR25.  Ficha de proyectos hoja de ruta E-Service. Incremento 1
 - PR26.  Ficha de proyectos hoja de ruta E-Service. Incremento 2
@@ -446,7 +446,7 @@ Organización de trabajo: el proyecto 3 (PRY03) inicia con la fase de Levantamie
 [Imagen.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023.
 
 #### Fases del proyecto
-Las fases 1 detalla las soluciones de los proyectos de cierre de brechas que confirman la hoja de ruta E-Service por implementar. Trata de los componentes, partes de la arquitetura de referencia 2.0, herramientas, métodos, diseños y tecnologías requeridas para la implementación y ejecución de dichos proyectos de cierre de brecha.
+Las fases 1 detalla las soluciones de los proyectos de cierre de brechas que confirman la hoja de ruta E-Service por implementar. Trata de los componentes, partes de la arquitectura de referencia 2.0, herramientas, métodos, diseños y tecnologías requeridas para la implementación y ejecución de dichos proyectos de cierre de brecha.
 
 Las fases 2 y 3, de estructuración, agregan la información de la organización, ejecución y seguimiento de los proyectos de solución definidos en la fase anterior.
 
@@ -462,7 +462,7 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 ## Componentes de la Arquitectura FNA Impactados
 Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
-Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
+Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implementación de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
 
 ![](images/vistaitemsarq.png)
 
@@ -503,7 +503,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar        |               |
 | PR21. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                   |               |
 | PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                        |               |
-| PR23. Listados de recursos, roles y personas requeriras por los los proyectos de la hoja de ruta E-Service |               |
+| PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service |               |
 | PR24. Arquitectura de solución de los proyectos de cierre de brecha                                        |               |
 | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                              |               |
 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                              |               |
