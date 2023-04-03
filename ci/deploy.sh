@@ -58,10 +58,17 @@ git fetch origin gh-pages:gh-pages output:output || \
   echo >&2 "[INFO] could not fetch gh-pages or output from origin."
 
 # Configure versioned webpage and timestamp
+# manubot webpage \
+#   --timestamp \
+#   --no-ots-cache \
+#   --checkout=gh-pages \
+#   --version="$COMMIT"
+
+# Configure versioned webpage and timestamp
 manubot webpage \
   --timestamp \
   --no-ots-cache \
-  --checkout=gh-pages \
+  --checkout=output \
   --version="$COMMIT"
 
 # Commit message
