@@ -59,11 +59,11 @@ git fetch origin gh-pages:gh-pages output:output || \
 
 
 # Configure versioned webpage and timestamp
-# manubot webpage \
-#   --timestamp \
-#   --no-ots-cache \
-#   --checkout=gh-pages \
-#   --version="$COMMIT"
+ manubot webpage \
+   --timestamp \
+   --no-ots-cache \
+   --checkout=gh-pages \
+   --version="$COMMIT"
 
 
 # Commit message
