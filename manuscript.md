@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-04" />
   <meta name="citation_publication_date" content="2023-04-04" />
   <meta property="article:published_time" content="2023-04-04" />
-  <meta name="dc.modified" content="2023-04-04T18:29:02+00:00" />
-  <meta property="article:modified_time" content="2023-04-04T18:29:02+00:00" />
+  <meta name="dc.modified" content="2023-04-04T19:10:19+00:00" />
+  <meta property="article:modified_time" content="2023-04-04T19:10:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/0ad371f836540459ab2676e0d7649c70fd60638a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/0ad371f836540459ab2676e0d7649c70fd60638a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/0ad371f836540459ab2676e0d7649c70fd60638a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/))
+([URL](https://hwong23.github.io/e-service/v/0ad371f836540459ab2676e0d7649c70fd60638a/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@ae5dd77](https://github.com/hwong23/e-service/tree/ae5dd77fa4b037888af721d1374a2d76db757793)
+[hwong23/e-service@0ad371f](https://github.com/hwong23/e-service/tree/0ad371f836540459ab2676e0d7649c70fd60638a)
 del April 4, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|ae5dd77 del 04 Apr 2023                              |
+|Versión|0ad371f del 04 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -260,16 +260,16 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 #### Equipo Base del Proyecto
-|                                         | Trabajo              | Dedicación |
-|:----------------------------------------|:---------------------|:-----------|
-| Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
-|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
-|Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|
-|Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
-|Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|
-|Personal del FNA|Recepción y ejecución de gobierno SOA, modelamiento software y servicios|*|
-| - Especialista SOA||
-| - Especialista(s) construcción software||
+|  |                                         | Trabajo              | Dedicación |
+|--|:----------------------------------------|:---------------------|:-----------|
+| 1|Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
+|  |Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+| 2|Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|
+|  |Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
+| 3|Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|
+|  |Personal del FNA|Recepción y ejecución de gobierno SOA, modelamiento software y servicios|*|
+|  | - Especialista SOA||
+|  | - Especialista(s) construcción software||
 
 <br>
 
@@ -344,15 +344,15 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 
 
 #### Equipo Base del Proyecto
-|                                         | Trabajo              | Dedicación |
-|:----------------------------------------|:---------------------|:-----------|
-| Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
-|Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
-|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
-|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
-|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
-|- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
-|- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
+|  |                                         | Trabajo              | Dedicación |
+|--|:----------------------------------------|:---------------------|:-----------|
+| 1| Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
+|  |Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
+| 2|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
+| 3|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
+|  |Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
+|  |- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
+|  |- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
 
 <br>
 
@@ -423,13 +423,13 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 
 
 #### Equipo Base del Proyecto
-|                                         | Trabajo              | Dedicación |
-|:----------------------------------------|:---------------------|:-----------|
-|Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
-|Coordinador de proyectos auxiliar (Stefanini)||100%|
-|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
-|- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
-|- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
+|  |                                         | Trabajo              | Dedicación |
+|--|:----------------------------------------|:---------------------|:-----------|
+| 1|Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
+| 2|Coordinador de proyectos auxiliar (Stefanini)||100%|
+| 3|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
+|  |- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
+|  |- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
 
 <br>
 
