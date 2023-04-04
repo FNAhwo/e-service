@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-03'
+date-meta: '2023-04-04'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-03" />
-  <meta name="citation_publication_date" content="2023-04-03" />
-  <meta property="article:published_time" content="2023-04-03" />
-  <meta name="dc.modified" content="2023-04-03T21:22:35+00:00" />
-  <meta property="article:modified_time" content="2023-04-03T21:22:35+00:00" />
+  <meta name="dc.date" content="2023-04-04" />
+  <meta name="citation_publication_date" content="2023-04-04" />
+  <meta property="article:published_time" content="2023-04-04" />
+  <meta name="dc.modified" content="2023-04-04T18:29:02+00:00" />
+  <meta property="article:modified_time" content="2023-04-04T18:29:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/b584d04870b45b1a208893c5d6dc8fdc3813fb53/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/b584d04870b45b1a208893c5d6dc8fdc3813fb53/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/b584d04870b45b1a208893c5d6dc8fdc3813fb53/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/b584d04870b45b1a208893c5d6dc8fdc3813fb53/))
+([URL](https://hwong23.github.io/e-service/v/ae5dd77fa4b037888af721d1374a2d76db757793/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@b584d04](https://github.com/hwong23/e-service/tree/b584d04870b45b1a208893c5d6dc8fdc3813fb53)
-del April 3, 2023.
+[hwong23/e-service@ae5dd77](https://github.com/hwong23/e-service/tree/ae5dd77fa4b037888af721d1374a2d76db757793)
+del April 4, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|b584d04 del 03 Apr 2023                              |
+|Versión|ae5dd77 del 04 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -145,7 +145,7 @@ _Fuente: Consultoría Arquitectura E-Service._
 La ejecución de la hoja de ruta E-Service (diagnóstico SOA) plantea la implementación de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcción y diseño de servicios, y a la independencia de proveedor, en el ámbito de las vicepresidencias de Crédito y de Operación, en el período de ejecución 2023.
 
 Como resultado del inicio de la ejecución de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnológico de estas soluciones.
-<br>
+
 Puntualmente, la implementación (todos los proyectos) de la hoja de ruta, tal como está diagnosticada por E-Service, buscan los objetivos de (ordenados por prioridad):
 
 * Flexibilidad y tiempo de mercado (OBJ3)
