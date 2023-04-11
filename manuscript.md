@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-11" />
   <meta name="citation_publication_date" content="2023-04-11" />
   <meta property="article:published_time" content="2023-04-11" />
-  <meta name="dc.modified" content="2023-04-11T17:00:05+00:00" />
-  <meta property="article:modified_time" content="2023-04-11T17:00:05+00:00" />
+  <meta name="dc.modified" content="2023-04-11T17:24:00+00:00" />
+  <meta property="article:modified_time" content="2023-04-11T17:24:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/e01caa961ae5c054af3acd0aed4ac0196dc5ddc1/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/e01caa961ae5c054af3acd0aed4ac0196dc5ddc1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/e01caa961ae5c054af3acd0aed4ac0196dc5ddc1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/e01caa961ae5c054af3acd0aed4ac0196dc5ddc1/))
+([URL](https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@e01caa9](https://github.com/hwong23/e-service/tree/e01caa961ae5c054af3acd0aed4ac0196dc5ddc1)
+[hwong23/e-service@983a036](https://github.com/hwong23/e-service/tree/983a036f98c3ed1e61be60918bf538634dad9ce9)
 del April 11, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|e01caa9 del 11 Apr 2023                              |
+|Versión|983a036 del 11 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -173,8 +173,8 @@ Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguiente
 Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA 
 de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2), _en el dominio de aplicaciones y servicios únicamente_ (restricción de alcance). Esto implica la planeación, ejecución y seguimiento de los proyectos siguientes:
 
-* PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios únicamente
-* PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios únicamente
+* PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios únicamente
+* PRY02. Arquitectura Referencia: dominio de aplicaciones y servicios únicamente
 * PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 
 <br>
@@ -207,7 +207,7 @@ La evolución de la arquitectura del FNA impactada mediante este alcance está o
 Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
 
 ### Arquitectura de referencia 2.0. Incremento 2
-Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de la aplicación de cambios en ítems adicionales de la arquitectura actual.
+Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de los cambios en ítems adicionales al incremente 1 de la arquitectura actual.
 
 La imagen 2 presentada anteriormente ilustra el alcance propuesto en términos de las capacidades del FNA impactadas, los proyectos de ejecución, las evoluciones de la arquitectura y las brechas involucradas. 
 
@@ -277,7 +277,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 #### Plan de Trabajo
-Organización de trabajo. El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyetos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
+Organización de trabajo. El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyectos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
 ![](images/pry1gobierno.jpg)
 
@@ -389,7 +389,7 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 - Definición de solución de los proyectos de la hoja de ruta E-Service por implementar
 - Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service
 - Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo
-- Aprobación de inicio de de los proyectos de la hoja de ruta
+- Aprobación de inicio de los proyectos de la hoja de ruta
 
 #### Entregables
 - PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
@@ -424,7 +424,8 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 |--|:----------------------------------------|:---------------------|:-----------|
 | 1|Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
 | 2|Coordinador de proyectos auxiliar (Stefanini)||100%|
-| 3|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
+| 3|Arquitecto de solución (Stefanini)|Describir, diseñar, especificar y gestionar la visión técnica de la soluciones a las problmemáticas de cierre de brecha (proyectos) señaladas en la hoja de ruta E-Service. |100%|
+| 4|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
 |  |- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
 |  |- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
 
@@ -519,13 +520,16 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 <br>
 
 
-## Costo Beneficio (aproximado)
+## Propuesta Económica (costo / beneficio) (aproximado)
 …
 
 <br>
 
+
 ## Consideraciones
-…
+1. Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.
+1. Mega es la herramienta de gestión del reositorio continuo de arquitectura de referencia del FNA.
+1. Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.
 
 
 ## EDT
