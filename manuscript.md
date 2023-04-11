@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-11" />
   <meta name="citation_publication_date" content="2023-04-11" />
   <meta property="article:published_time" content="2023-04-11" />
-  <meta name="dc.modified" content="2023-04-11T17:24:00+00:00" />
-  <meta property="article:modified_time" content="2023-04-11T17:24:00+00:00" />
+  <meta name="dc.modified" content="2023-04-11T18:48:30+00:00" />
+  <meta property="article:modified_time" content="2023-04-11T18:48:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/983a036f98c3ed1e61be60918bf538634dad9ce9/))
+([URL](https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@983a036](https://github.com/hwong23/e-service/tree/983a036f98c3ed1e61be60918bf538634dad9ce9)
+[hwong23/e-service@d69e98c](https://github.com/hwong23/e-service/tree/d69e98c170b2c9aabef5f4440dbbb59eaff1896b)
 del April 11, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|983a036 del 11 Apr 2023                              |
+|Versión|d69e98c del 11 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -186,6 +186,35 @@ El alcance de la primera ejecución de la hoja de ruta E-Service es el ilustrado
 [Imagen 1.]() Vista de evolución de capacidades dentro del alcance del proyecto hoja de ruta E-Service, período 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
 
 <br>
+
+
+## Plan General de la Propuesta
+La siguiente imagen presenta a manera de referencia el plan general en el tiempo de los tres proyectos contenidos en el alcance de esta propuesta. Nota: los plazos en la imagen son referenciales. Los plazos reales de cada proyecto, por separado, serán determinados y aceptados en las fases de levantamiento de cada uno.
+
+![](images/plangeneral.png)
+
+[Imagen 2.]() Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+
+<br>
+
+La planeación general no contiene fases ni entregables. En su lugar, cada proyecto (PRY01... 03) dentro de la planeación general es independiente y contiene fases, fechas, actividades y productos de trabajo por separado. La planeación de cada proyecto es como sigue.
+
+![](images/plangeneral1.png)
+
+[Imagen.]() Vista de tiempo de ejecución del proyecto 01 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+
+![](images/plangeneral2.png)
+
+[Imagen.]() Vista de tiempo de ejecución del proyecto 02 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+
+![](images/plangeneral3.png)
+
+[Imagen.]() Vista de tiempo de ejecución del proyecto 03 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+
+<br>
+
+
+## EDT
 
 
 ## Proyectos del Alcance
@@ -277,7 +306,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 #### Plan de Trabajo
-Organización de trabajo. El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyectos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
+Organización de trabajo: El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyectos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
 
 ![](images/pry1gobierno.jpg)
 
@@ -457,17 +486,6 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 
 
 
-## Plan General de la Propuesta
-La siguiente imagen presenta a manera de referencia el plan general en el tiempo de los tres proyectos contenidos en el alcance de esta propuesta. Nota: los plazos en la imagen son referenciales. Los plazos reales de cada proyecto, por separado, serán determinados y aceptados en las fases de levantamiento de cada uno.
-
-![](images/plangeneral.png)
-
-[Imagen 2.]() Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
-
-<br>
-
-
-
 ## Componentes de la Arquitectura FNA Impactados
 Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
@@ -530,9 +548,6 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 1. Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.
 1. Mega es la herramienta de gestión del reositorio continuo de arquitectura de referencia del FNA.
 1. Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.
-
-
-## EDT
 
 
 ## Referencias {.page_break_before}
