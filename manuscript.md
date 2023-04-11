@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-04'
+date-meta: '2023-04-11'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-04" />
-  <meta name="citation_publication_date" content="2023-04-04" />
-  <meta property="article:published_time" content="2023-04-04" />
-  <meta name="dc.modified" content="2023-04-04T20:12:36+00:00" />
-  <meta property="article:modified_time" content="2023-04-04T20:12:36+00:00" />
+  <meta name="dc.date" content="2023-04-11" />
+  <meta name="citation_publication_date" content="2023-04-11" />
+  <meta property="article:published_time" content="2023-04-11" />
+  <meta name="dc.modified" content="2023-04-11T16:29:32+00:00" />
+  <meta property="article:modified_time" content="2023-04-11T16:29:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/14423d510f75238b6285017cfe496b82ffd20d82/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/14423d510f75238b6285017cfe496b82ffd20d82/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/14423d510f75238b6285017cfe496b82ffd20d82/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/e0f071ff05078b81f91b4b8b6bc5be5365855997/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/e0f071ff05078b81f91b4b8b6bc5be5365855997/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/e0f071ff05078b81f91b4b8b6bc5be5365855997/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/14423d510f75238b6285017cfe496b82ffd20d82/))
+([URL](https://hwong23.github.io/e-service/v/e0f071ff05078b81f91b4b8b6bc5be5365855997/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@14423d5](https://github.com/hwong23/e-service/tree/14423d510f75238b6285017cfe496b82ffd20d82)
-del April 4, 2023.
+[hwong23/e-service@e0f071f](https://github.com/hwong23/e-service/tree/e0f071ff05078b81f91b4b8b6bc5be5365855997)
+del April 11, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|14423d5 del 04 Apr 2023                              |
+|Versión|e0f071f del 11 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -193,7 +193,7 @@ Los proyectos PRY01, PRY02 y PRY03 de la hoja de ruta consignados en arriba en e
 
 Estos proyectos buscan también incrementar las capacidades del FNA, Gestión de tecnología y de Entrega de productos y funcionalidades (CAP1 y CAP2, respectivamente), mencionadas en el alcance y estructurar el detalle técnico y tecnológico de los proyectos futuros planteadas en dicha hoja de ruta.
 
-Las capacidades, Las brechas y los proyectos de este alcance se encuentran relacionadas en la imagen siguiente. En la imagen se ve además el impacto (evolución) que este alcance causa en la arquitectura de referencia del FNA.
+Las capacidades, las brechas y los proyectos de este alcance se encuentran relacionadas en la imagen siguiente. En la imagen se ve además el impacto (evolución) que este alcance causa en la arquitectura de referencia del FNA.
 
 ![](images/vistaevolarquitectura.jpg)
 
@@ -203,10 +203,10 @@ Las capacidades, Las brechas y los proyectos de este alcance se encuentran relac
 
 La evolución de la arquitectura del FNA impactada mediante este alcance está organizada en dos incrementos.
 
-#### Arquitectura de referencia 2.0. Incremento 1
+### Arquitectura de referencia 2.0. Incremento 1
 Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
 
-#### Arquitectura de referencia 2.0. Incremento 2
+### Arquitectura de referencia 2.0. Incremento 2
 Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de la aplicación de cambios en ítems adicionales de la arquitectura actual.
 
 La imagen 2 presentada anteriormente ilustra el alcance propuesto en términos de las capacidades del FNA impactadas, los proyectos de ejecución, las evoluciones de la arquitectura y las brechas involucradas. 
@@ -469,6 +469,17 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 
 
+## Plan General de la Propuesta
+La siguiente imagen presenta a manera de referencia el plan general en el tiempo de los tres proyectos contenidos en el alcance de esta propuesta. Nota: los plazos en la imagen son referenciales. Los plazos reales de cada proyecto, por separado, serán determinados y aceptados en las fases de levantamiento de cada uno.
+
+![](images/plangeneral.png)
+
+[Imagen 2.]() Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+
+<br>
+
+
+
 ## Lista de Entregables de la Propuesta
 | PRY01                                                                                   | Documentación |
 |-----------------------------------------------------------------------------------------|---------------|
@@ -506,17 +517,6 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                              |               |
 
 <br>
-
-
-### Plan General de la Propuesta
-La siguiente imagen presenta a manera de referencia el plan general en el tiempo de los tres proyectos contenidos en el alcance de esta propuesta. Nota: los plazos en la imagen son referenciales. Los plazos reales de cada proyexto, por separado, serán determinados y aceptados en las fases de levantamiento de cada uno.
-
-![](images/plangeneral.png)
-
-[Imagen 2.]() Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
-
-<br>
-
 
 
 ## Costo Beneficio (aproximado)
