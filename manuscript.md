@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-11'
+date-meta: '2023-04-12'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-11" />
-  <meta name="citation_publication_date" content="2023-04-11" />
-  <meta property="article:published_time" content="2023-04-11" />
-  <meta name="dc.modified" content="2023-04-11T18:48:30+00:00" />
-  <meta property="article:modified_time" content="2023-04-11T18:48:30+00:00" />
+  <meta name="dc.date" content="2023-04-12" />
+  <meta name="citation_publication_date" content="2023-04-12" />
+  <meta property="article:published_time" content="2023-04-12" />
+  <meta name="dc.modified" content="2023-04-12T15:33:58+00:00" />
+  <meta property="article:modified_time" content="2023-04-12T15:33:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/d69e98c170b2c9aabef5f4440dbbb59eaff1896b/))
+([URL](https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@d69e98c](https://github.com/hwong23/e-service/tree/d69e98c170b2c9aabef5f4440dbbb59eaff1896b)
-del April 11, 2023.
+[hwong23/e-service@af941b5](https://github.com/hwong23/e-service/tree/af941b56682a661e887a0ac1fc381c2c50a646f5)
+del April 12, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|d69e98c del 11 Apr 2023                              |
+|Versión|af941b5 del 12 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -201,15 +201,15 @@ La planeación general no contiene fases ni entregables. En su lugar, cada proye
 
 ![](images/plangeneral1.png)
 
-[Imagen.]() Vista de tiempo de ejecución del proyecto 01 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+[Imagen.]() Vista de tiempo de ejecución del proyecto 01 de cierre de brecha, _PRY01. Gobierno SOA FNA_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
 
 ![](images/plangeneral2.png)
 
-[Imagen.]() Vista de tiempo de ejecución del proyecto 02 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+[Imagen.]() Vista de tiempo de ejecución del proyecto 02 de cierre de brecha, _PRY02. Arquitectura Referencia_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
 
 ![](images/plangeneral3.png)
 
-[Imagen.]() Vista de tiempo de ejecución del proyecto 03 de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+[Imagen.]() Vista de tiempo de ejecución del proyecto 03 de cierre de brecha, _PRY03. Estructuración de proyectos_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
 
 <br>
 
