@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-12'
+date-meta: '2023-04-17'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-12" />
-  <meta name="citation_publication_date" content="2023-04-12" />
-  <meta property="article:published_time" content="2023-04-12" />
-  <meta name="dc.modified" content="2023-04-12T15:33:58+00:00" />
-  <meta property="article:modified_time" content="2023-04-12T15:33:58+00:00" />
+  <meta name="dc.date" content="2023-04-17" />
+  <meta name="citation_publication_date" content="2023-04-17" />
+  <meta property="article:published_time" content="2023-04-17" />
+  <meta name="dc.modified" content="2023-04-17T20:11:18+00:00" />
+  <meta property="article:modified_time" content="2023-04-17T20:11:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/af941b56682a661e887a0ac1fc381c2c50a646f5/))
+([URL](https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@af941b5](https://github.com/hwong23/e-service/tree/af941b56682a661e887a0ac1fc381c2c50a646f5)
-del April 12, 2023.
+[hwong23/e-service@0fb97f5](https://github.com/hwong23/e-service/tree/0fb97f528a476b9a2fb764feffe207d47dd6b725)
+del April 17, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|af941b5 del 12 Apr 2023                              |
+|Versión|0fb97f5 del 17 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -410,7 +410,7 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 
 
 
-### PRY03. Gobierno SOA FNA: dominio de aplicaciones y servicios
+### PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
 #### Objetivo
 Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Service.
 
