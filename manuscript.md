@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-17'
+date-meta: '2023-04-20'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-17" />
-  <meta name="citation_publication_date" content="2023-04-17" />
-  <meta property="article:published_time" content="2023-04-17" />
-  <meta name="dc.modified" content="2023-04-17T20:11:18+00:00" />
-  <meta property="article:modified_time" content="2023-04-17T20:11:18+00:00" />
+  <meta name="dc.date" content="2023-04-20" />
+  <meta name="citation_publication_date" content="2023-04-20" />
+  <meta property="article:published_time" content="2023-04-20" />
+  <meta name="dc.modified" content="2023-04-20T16:49:05+00:00" />
+  <meta property="article:modified_time" content="2023-04-20T16:49:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/0fb97f528a476b9a2fb764feffe207d47dd6b725/))
+([URL](https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@0fb97f5](https://github.com/hwong23/e-service/tree/0fb97f528a476b9a2fb764feffe207d47dd6b725)
-del April 17, 2023.
+[hwong23/e-service@5f35344](https://github.com/hwong23/e-service/tree/5f35344fc6196d838c309667fb14ab6a7df98e34)
+del April 20, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|0fb97f5 del 17 Apr 2023                              |
+|Versión|5f35344 del 20 Apr 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -212,9 +212,6 @@ La planeación general no contiene fases ni entregables. En su lugar, cada proye
 [Imagen.]() Vista de tiempo de ejecución del proyecto 03 de cierre de brecha, _PRY03. Estructuración de proyectos_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
 
 <br>
-
-
-## EDT
 
 
 ## Proyectos del Alcance
@@ -489,7 +486,7 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 ## Componentes de la Arquitectura FNA Impactados
 Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
-Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implementación de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
+Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implementación de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems no presentes en este ejemplo pueden ser impactados).
 
 ![](images/vistaitemsarq.png)
 
@@ -546,8 +543,11 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 ## Consideraciones
 1. Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.
-1. Mega es la herramienta de gestión del reositorio continuo de arquitectura de referencia del FNA.
+1. Mega es la herramienta de gestión del repositorio continuo de arquitectura de referencia del FNA.
 1. Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.
+
+
+## EDT
 
 
 ## Referencias {.page_break_before}
