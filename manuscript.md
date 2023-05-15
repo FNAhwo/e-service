@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-15" />
   <meta name="citation_publication_date" content="2023-05-15" />
   <meta property="article:published_time" content="2023-05-15" />
-  <meta name="dc.modified" content="2023-05-15T04:41:47+00:00" />
-  <meta property="article:modified_time" content="2023-05-15T04:41:47+00:00" />
+  <meta name="dc.modified" content="2023-05-15T04:52:03+00:00" />
+  <meta property="article:modified_time" content="2023-05-15T04:52:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9f7b50dc59905f22b0a34f6e9cfb85b096810707/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9f7b50dc59905f22b0a34f6e9cfb85b096810707/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9f7b50dc59905f22b0a34f6e9cfb85b096810707/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/))
+([URL](https://hwong23.github.io/e-service/v/9f7b50dc59905f22b0a34f6e9cfb85b096810707/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@aa662d6](https://github.com/hwong23/e-service/tree/aa662d64de10ff914bd3dcf213dd0109a2dfdc77)
+[hwong23/e-service@9f7b50d](https://github.com/hwong23/e-service/tree/9f7b50dc59905f22b0a34f6e9cfb85b096810707)
 del May 15, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|aa662d6 del 15 May 2023                              |
+|Versión|9f7b50d del 15 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -438,9 +438,9 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
     - PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service
     - PR24. Arquitectura de solución de los proyectos de cierre de brecha
 - Fase 2. Estructuración proyectos. Incremento 1
-    - PR25.  Ficha de proyectos hoja de ruta E-Service. Incremento 1
+    - PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1
 - Fase 3. Estructuración proyectos. Incremento 2
-    - PR26.  Ficha de proyectos hoja de ruta E-Service. Incremento 2
+    - PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2
 
 #### Plazo de Ejecución
 4 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY03 más adelante).
@@ -512,41 +512,42 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 
 
-## Lista de Entregables de la Propuesta
-| PRY01                                                                                   | Documentación |
-|-----------------------------------------------------------------------------------------|---------------|
-| PR01. Detalle de los ítems de arquitectura impactados por el proyecto                   |               |
-| PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes   |               |
-| PR03. Diseño de los procesos y responsabilidades del comité de gobierno                 |               |
-| PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos               |               |
-| PR04. Definición de roles y responsabilidades y selección e instalación del comité      |               |
-| PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto      |               |
-| PR07. Métricas de efectividad del gobierno                                              |               |
+## Lista de Fases y Entregables de la Propuesta
+|        | PRY01                                                                                 | Documentación |
+|--------|---------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                 |               |
+|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                     |               |
+| Fase 1 | PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes |               |
+|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno               |               |
+| Fase 2 | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos             |               |
+|        | PR04. Definición de roles y responsabilidades y selección e instalación del comité    |               |
+| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto    |               |
+| Fase 4 | PR07. Métricas de efectividad del gobierno                                            |               |
 
 <br>
 
-| PRY02                                                                                         | Documentación |
-|-----------------------------------------------------------------------------------------------|---------------|
-| PR10. Detalle de los ítems de arquitectura impactados por el proyecto                         |               |
-| PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes         |               |
-| PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​  |               |
-| PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                    |               |
-| PR14. Administración de las transiciones hacia la arquitectura versión 2.0                    |               |
-| PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación         |               |
-| PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura                 |               |
-| PR17. Ítems de arquitectura incrementados en ejecución                                        |               |
+|        | PRY02                                                                                         | Documentación |
+|--------|-----------------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                         |               |
+|        | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes         |               |
+| Fase 1 | PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología ​ |               |
+|        | PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                    |               |
+| Fase 2 | PR14. Administración de las transiciones hacia la arquitectura versión 2.0                    |               |
+|        | PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación         |               |
+| Fase 3 | PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura                 |               |
+| Fase 4 | PR17. Ítems de arquitectura incrementados en ejecución                                        |               |
 
 <br>
 
-| PRY03                                                                                                      | Documentación |
-|------------------------------------------------------------------------------------------------------------|---------------|
-| PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar        |               |
-| PR21. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                   |               |
-| PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                        |               |
-| PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service |               |
-| PR24. Arquitectura de solución de los proyectos de cierre de brecha                                        |               |
-| PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                              |               |
-| PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                              |               |
+|        | PRY03                                                                                                  | Documentación |
+|--------|--------------------------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar    |               |
+|        | PR21. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                               |               |
+| Fase 1 | PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                    |               |
+|        | PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service |               |
+| Fase 2 | PR24. Arquitectura de solución de los proyectos de cierre de brecha                                    |               |
+|        | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                          |               |
+| Fase 3 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                          |               |
 
 <br>
 
