@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-04-20'
+date-meta: '2023-05-15'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-04-20" />
-  <meta name="citation_publication_date" content="2023-04-20" />
-  <meta property="article:published_time" content="2023-04-20" />
-  <meta name="dc.modified" content="2023-04-20T16:49:05+00:00" />
-  <meta property="article:modified_time" content="2023-04-20T16:49:05+00:00" />
+  <meta name="dc.date" content="2023-05-15" />
+  <meta name="citation_publication_date" content="2023-05-15" />
+  <meta property="article:published_time" content="2023-05-15" />
+  <meta name="dc.modified" content="2023-05-15T04:41:47+00:00" />
+  <meta property="article:modified_time" content="2023-05-15T04:41:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/5f35344fc6196d838c309667fb14ab6a7df98e34/))
+([URL](https://hwong23.github.io/e-service/v/aa662d64de10ff914bd3dcf213dd0109a2dfdc77/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@5f35344](https://github.com/hwong23/e-service/tree/5f35344fc6196d838c309667fb14ab6a7df98e34)
-del April 20, 2023.
+[hwong23/e-service@aa662d6](https://github.com/hwong23/e-service/tree/aa662d64de10ff914bd3dcf213dd0109a2dfdc77)
+del May 15, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|5f35344 del 20 Apr 2023                              |
+|Versión|aa662d6 del 15 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -247,18 +247,24 @@ A continuación presentamos la descripción de los proyectos de este alcance en 
 Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
 
 #### Actividades
-- Fortalecer el comité de gobierno SOA del FNA
 - Generar lineamientos y políticas de gobierno SOA
+- Aplicar y fortalecer gobierno SOA en el FNA
 - Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
 
-#### Entregables
-- PR01. Detalle de los ítems de arquitectura impactados por el proyecto 
-- PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-- PR03. Diseño de los procesos y responsabilidades del comité de gobierno
-- PR04. Definición de roles y responsabilidades y selección e instalación del comité
-- PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
-- PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
-- PR07. Métricas de efectividad del gobierno
+#### Fases y Entregables
+- Fase 0. Definición
+    - PR01. Detalle de los ítems de arquitectura impactados por el proyecto
+    - PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA
+- Fase 1. Definición gobierno
+    - PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
+    - PR03. Diseño de los procesos y responsabilidades del comité de gobierno
+- Fase 2. Ejecución gobierno. Incremento 1
+    - PR04. Definición de roles y responsabilidades y selección e instalación del comité
+    - PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
+- Fase 3. Ejecución gobierno. Incremento 2
+    - PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
+- Fase 4. Integración gobierno
+    - PR07. Métricas de efectividad del gobierno
 
 #### Plazo de Ejecución
 5 meses, iniciado a partir del mes de abril del 2023 (ver Plan de Ejecución PRY01, más adelante).
@@ -334,15 +340,21 @@ Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el
 - Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo
 - Documentación técnica en el depósito de arquitectura institucional​
 
-#### Entregables
-- PR10. Detalle de los ítems de arquitectura impactados por el proyecto 
-- PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-- PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
-- PR13. Modelado en lenguaje y herramienta de diseño del FNA​
-- PR14. Administración de las transiciones hacia la arquitectura versión 2.0
-- PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación
-- PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
-- PR17. Ítems de arquitectura incrementados en ejecución
+#### Fases y Entregables
+- Fase 0. Definición
+    - PR10. Detalle de los ítems de arquitectura impactados por el proyecto
+    - PR10.1. Aprobación de inicio y personal FNA asignado a la arquitectura de referencia
+- Fase 1. Diseño incremento 1 arq. referencia
+    - PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
+    - PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
+- Fase 2. Incremento 1 arq. referencia
+    - PR13. Modelado en lenguaje y herramienta de diseño del FNA​
+    - PR14. Administración de las transiciones hacia la arquitectura versión 2.0
+- Fase 3. Optimización arq. referencia
+    - PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación
+- Fase 4. Integración SOA
+    - PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
+    - PR17. Ítems de arquitectura incrementados en ejecución
 
 #### Plazo de Ejecución
 5 meses, iniciado a partir del mes de abril dl 2023 (ver Plan de Ejecución PRY01 más adelante).
@@ -417,14 +429,18 @@ Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Se
 - Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo
 - Aprobación de inicio de los proyectos de la hoja de ruta
 
-#### Entregables
-- PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
-- PR21. Aprobación de inicio de los proyectos de la hoja de ruta E-Service
-- PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service 
-- PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service
-- PR24. Arquitectura de solución de los proyectos de cierre de brecha
-- PR25.  Ficha de proyectos hoja de ruta E-Service. Incremento 1
-- PR26.  Ficha de proyectos hoja de ruta E-Service. Incremento 2
+#### Fases y Entregables
+- Fase 0. Levantamiento
+    - PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
+    - PR20.1. Aprobación de inicio y personal asignado al proyecto de hoja de ruta E-Service
+- Fase 1. Definición de soluciones brechas
+    - PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service 
+    - PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service
+    - PR24. Arquitectura de solución de los proyectos de cierre de brecha
+- Fase 2. Estructuración proyectos. Incremento 1
+    - PR25.  Ficha de proyectos hoja de ruta E-Service. Incremento 1
+- Fase 3. Estructuración proyectos. Incremento 2
+    - PR26.  Ficha de proyectos hoja de ruta E-Service. Incremento 2
 
 #### Plazo de Ejecución
 4 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY03 más adelante).
