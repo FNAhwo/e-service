@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-15'
+date-meta: '2023-05-17'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-15" />
-  <meta name="citation_publication_date" content="2023-05-15" />
-  <meta property="article:published_time" content="2023-05-15" />
-  <meta name="dc.modified" content="2023-05-15T05:26:54+00:00" />
-  <meta property="article:modified_time" content="2023-05-15T05:26:54+00:00" />
+  <meta name="dc.date" content="2023-05-17" />
+  <meta name="citation_publication_date" content="2023-05-17" />
+  <meta property="article:published_time" content="2023-05-17" />
+  <meta name="dc.modified" content="2023-05-17T14:39:38+00:00" />
+  <meta property="article:modified_time" content="2023-05-17T14:39:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/48a9cb5a406a07a6ecd68118c67abe88a25502fe/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/48a9cb5a406a07a6ecd68118c67abe88a25502fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/48a9cb5a406a07a6ecd68118c67abe88a25502fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/48a9cb5a406a07a6ecd68118c67abe88a25502fe/))
+([URL](https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@48a9cb5](https://github.com/hwong23/e-service/tree/48a9cb5a406a07a6ecd68118c67abe88a25502fe)
-del May 15, 2023.
+[hwong23/e-service@f75c288](https://github.com/hwong23/e-service/tree/f75c288d9713789ad06cada4ef528a77a7664075)
+del May 17, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|48a9cb5 del 15 May 2023                              |
+|Versión|f75c288 del 17 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -289,16 +289,16 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 
 
 #### Equipo Base del Proyecto
-|  |                                         | Trabajo              | Dedicación |
-|--|:----------------------------------------|:---------------------|:-----------|
-| 1|Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
-|  |Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
-| 2|Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)|Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios|100%|
-|  |Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA|
-| 3|Especialista construcción software, servicios y componentes (Stefanini)|Referente para diseño de servicios y software, modelamiento procesos, software y servicios|100%|
-|  |Personal del FNA|Recepción y ejecución de gobierno SOA, modelamiento software y servicios|*|
-|  | - Especialista SOA||
-|  | - Especialista(s) construcción software||
+|   |                                                                                            | Trabajo                                                                                    | Dedicación |
+|---|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------|
+| 1 | Director / Gerente proyecto (Stefanini)                                                    | Calidad del proyecto                                                                       | 100% o 50% |
+|   | Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance         |                                                                                            |            |
+| 2 | Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)                            | Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios        | 100%       |
+|   | Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA |                                                                                            |            |
+| 3 | Especialista construcción software, servicios y componentes (Stefanini)                    | Referente para diseño de servicios y software, modelamiento procesos, software y servicios | 100%       |
+|   | Personal del FNA                                                                           | Recepción y ejecución de gobierno SOA, modelamiento software y servicios                   | *          |
+|   | - Especialista SOA                                                                         |                                                                                            |            |
+|   | - Especialista(s) construcción software                                                    |                                                                                            |            |
 
 <br>
 
