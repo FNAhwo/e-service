@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-17" />
   <meta name="citation_publication_date" content="2023-05-17" />
   <meta property="article:published_time" content="2023-05-17" />
-  <meta name="dc.modified" content="2023-05-17T14:39:38+00:00" />
-  <meta property="article:modified_time" content="2023-05-17T14:39:38+00:00" />
+  <meta name="dc.modified" content="2023-05-17T16:30:48+00:00" />
+  <meta property="article:modified_time" content="2023-05-17T16:30:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/f75c288d9713789ad06cada4ef528a77a7664075/))
+([URL](https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@f75c288](https://github.com/hwong23/e-service/tree/f75c288d9713789ad06cada4ef528a77a7664075)
+[hwong23/e-service@27c9d5e](https://github.com/hwong23/e-service/tree/27c9d5ee12200e781832df4f83d29334879e8e64)
 del May 17, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|f75c288 del 17 May 2023                              |
+|Versión|27c9d5e del 17 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -513,7 +513,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 
 ## Lista de Fases y Entregables de la Propuesta
-|        | PRY01                                                                                  | Documentación |
+|        | PRY01. Gobierno SOA FNA                                                                | Documentación |
 |--------|----------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
 |        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
@@ -529,7 +529,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 <br>
 
-|        | PRY02                                                                                          | Documentación |
+|        | PRY02. Arquitectura Referencia 2.0                                                             | Documentación |
 |--------|------------------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                          |               |
 | Fase 1 | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes          |               |
@@ -546,7 +546,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 <br>
 
-|        | PRY03                                                                                                       | Documentación |
+|        | PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service                                 | Documentación |
 |--------|-------------------------------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar         |               |
 |        | PR20.1. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                  |               |
