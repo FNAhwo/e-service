@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/hwong23/e-service/tree/gh-pages) branch hosts the contents of this directory at <https://hwong23.github.io/e-service/>.
-The permalink for this webpage version is <https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/>.
+The permalink for this webpage version is <https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://hwong23.github.io/e-service/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`27c9d5ee12200e781832df4f83d29334879e8e64`](https://github.com/hwong23/e-service/commit/27c9d5ee12200e781832df4f83d29334879e8e64).
+[`4b7055e3d1ef033584df7d5c08a048081770f4d5`](https://github.com/hwong23/e-service/commit/4b7055e3d1ef033584df7d5c08a048081770f4d5).
