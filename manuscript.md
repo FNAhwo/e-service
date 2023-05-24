@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-24" />
   <meta name="citation_publication_date" content="2023-05-24" />
   <meta property="article:published_time" content="2023-05-24" />
-  <meta name="dc.modified" content="2023-05-24T05:53:54+00:00" />
-  <meta property="article:modified_time" content="2023-05-24T05:53:54+00:00" />
+  <meta name="dc.modified" content="2023-05-24T05:56:57+00:00" />
+  <meta property="article:modified_time" content="2023-05-24T05:56:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/7f13e2a43b7633a2f29076138353e844036d3c37/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/7f13e2a43b7633a2f29076138353e844036d3c37/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/7f13e2a43b7633a2f29076138353e844036d3c37/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/))
+([URL](https://hwong23.github.io/e-service/v/7f13e2a43b7633a2f29076138353e844036d3c37/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@4b7055e](https://github.com/hwong23/e-service/tree/4b7055e3d1ef033584df7d5c08a048081770f4d5)
+[hwong23/e-service@7f13e2a](https://github.com/hwong23/e-service/tree/7f13e2a43b7633a2f29076138353e844036d3c37)
 del May 24, 2023.
 </em></small>
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|4b7055e del 24 May 2023                              |
+|Versión|7f13e2a del 24 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -245,6 +245,8 @@ A continuación presentamos la descripción de los proyectos de este alcance en 
 ### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
 #### Objetivo
 Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
+
+<br>
 
 #### Alcance
 - Crear e institucionalizar el comité de gobierno SOA del FNA
