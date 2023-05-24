@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-17'
+date-meta: '2023-05-24'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-17" />
-  <meta name="citation_publication_date" content="2023-05-17" />
-  <meta property="article:published_time" content="2023-05-17" />
-  <meta name="dc.modified" content="2023-05-17T16:30:48+00:00" />
-  <meta property="article:modified_time" content="2023-05-17T16:30:48+00:00" />
+  <meta name="dc.date" content="2023-05-24" />
+  <meta name="citation_publication_date" content="2023-05-24" />
+  <meta property="article:published_time" content="2023-05-24" />
+  <meta name="dc.modified" content="2023-05-24T05:53:54+00:00" />
+  <meta property="article:modified_time" content="2023-05-24T05:53:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/27c9d5ee12200e781832df4f83d29334879e8e64/))
+([URL](https://hwong23.github.io/e-service/v/4b7055e3d1ef033584df7d5c08a048081770f4d5/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@27c9d5e](https://github.com/hwong23/e-service/tree/27c9d5ee12200e781832df4f83d29334879e8e64)
-del May 17, 2023.
+[hwong23/e-service@4b7055e](https://github.com/hwong23/e-service/tree/4b7055e3d1ef033584df7d5c08a048081770f4d5)
+del May 24, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|27c9d5e del 17 May 2023                              |
+|Versión|4b7055e del 24 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -246,10 +246,17 @@ A continuación presentamos la descripción de los proyectos de este alcance en 
 #### Objetivo
 Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
 
+#### Alcance
+- Crear e institucionalizar el comité de gobierno SOA del FNA
+- Definir los roles y responsabilidades para la instalación del comité
+- Elaborar los lineamientos, políticas  y procesos de gobierno SOA del FNA
+- Medir las decisiones de gobierno sobre la arquitectura y el proceso de desarrollo de soluciones SOA
+
 #### Actividades
-- Generar lineamientos y políticas de gobierno SOA
-- Aplicar y fortalecer gobierno SOA en el FNA
-- Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
+1. Generar lineamientos y políticas de gobierno SOA
+1. Aplicar y fortalecer gobierno SOA en el FNA
+1. Relacionar el gobierno SOA con gestión de modelos y repositorio de arquitectura del FNA
+1. Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
 
 #### Fases y Entregables
 - Fase 0. Definición
@@ -267,7 +274,7 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
     - PR07. Métricas de efectividad del gobierno
 
 #### Plazo de Ejecución
-5 meses, iniciado a partir del mes de abril del 2023 (ver Plan de Ejecución PRY01, más adelante).
+3 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY01, más adelante).
 
 #### Impacto / Beneficio
 - Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
