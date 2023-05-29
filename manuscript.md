@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-25'
+date-meta: '2023-05-29'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-25" />
-  <meta name="citation_publication_date" content="2023-05-25" />
-  <meta property="article:published_time" content="2023-05-25" />
-  <meta name="dc.modified" content="2023-05-25T16:48:21+00:00" />
-  <meta property="article:modified_time" content="2023-05-25T16:48:21+00:00" />
+  <meta name="dc.date" content="2023-05-29" />
+  <meta name="citation_publication_date" content="2023-05-29" />
+  <meta property="article:published_time" content="2023-05-29" />
+  <meta name="dc.modified" content="2023-05-29T14:11:21+00:00" />
+  <meta property="article:modified_time" content="2023-05-29T14:11:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/02d4ee64a181fc98d6e2f86fab606b6a5a3efd6e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/02d4ee64a181fc98d6e2f86fab606b6a5a3efd6e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/02d4ee64a181fc98d6e2f86fab606b6a5a3efd6e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/01e5cdccbf59a5aadc7ad7be0ada636178caadfb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/01e5cdccbf59a5aadc7ad7be0ada636178caadfb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/01e5cdccbf59a5aadc7ad7be0ada636178caadfb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/02d4ee64a181fc98d6e2f86fab606b6a5a3efd6e/))
+([URL](https://hwong23.github.io/e-service/v/01e5cdccbf59a5aadc7ad7be0ada636178caadfb/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@02d4ee6](https://github.com/hwong23/e-service/tree/02d4ee64a181fc98d6e2f86fab606b6a5a3efd6e)
-del May 25, 2023.
+[hwong23/e-service@01e5cdc](https://github.com/hwong23/e-service/tree/01e5cdccbf59a5aadc7ad7be0ada636178caadfb)
+del May 29, 2023.
 </em></small>
 
 
@@ -101,7 +101,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|02d4ee6 del 25 May 2023                              |
+|Versión|01e5cdc del 29 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -141,7 +141,7 @@ _Fuente: Consultoría Arquitectura E-Service._
 
 
 
-## Justificación
+## Justificación (FLA)
 La ejecución de la hoja de ruta E-Service (diagnóstico SOA) plantea la implementación de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcción y diseño de servicios, y a la independencia de proveedor, en el ámbito de las vicepresidencias de Crédito y de Operación, en el período de ejecución 2023.
 
 Como resultado del inicio de la ejecución de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnológico de estas soluciones.
@@ -522,7 +522,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 
 ## Lista de Fases y Entregables de la Propuesta
-|        | PRY01.                                                                   | Documentación |
+|        | PRY01. Gobierno SOA                                                                    | Documentación |
 |--------|----------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
 |        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
@@ -541,7 +541,7 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 |        | PRY02. Arquitectura Referencia 2.0                                                             | Documentación |
 |--------|------------------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                          |               |
-|        | PR010.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
+|        | PR010.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                             |               |
 | Fase 1 | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes          |               |
 |        | PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología  ​ |               |
 | Fase 2 | PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                     |               |
