@@ -70,6 +70,9 @@ jobs:
           echo "DEFAULT_BRANCH_REF=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
           echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
+
+          echo "TEMADOC=Propuesta de Implementación de la Oficina de Arquitectura del FNA" >> $GITHUB_ENV
+          echo "PROY_DESCR=Arquitectura de Referencia SOA 2.0 del FNA" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
         with:
