@@ -1,4 +1,4 @@
-name: devdocs-mbot
+name: propsta-mbot
 on:
   push:
     branches:
@@ -36,7 +36,7 @@ on:
         default: true
 jobs:
   devdocs:
-    name: devdocs-Mbot
+    name: dd-propsta-mbot
     runs-on: ubuntu-latest
     env:
       GITHUB_PULL_REQUEST_SHA: ${{ github.event.pull_request.head.sha }}
