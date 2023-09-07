@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-07" />
   <meta name="citation_publication_date" content="2023-09-07" />
   <meta property="article:published_time" content="2023-09-07" />
-  <meta name="dc.modified" content="2023-09-07T16:03:03+00:00" />
-  <meta property="article:modified_time" content="2023-09-07T16:03:03+00:00" />
+  <meta name="dc.modified" content="2023-09-07T18:00:10+00:00" />
+  <meta property="article:modified_time" content="2023-09-07T18:00:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/31805b6a08bb6c0eeec96b7e8a1abcb52a841dfe/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/31805b6a08bb6c0eeec96b7e8a1abcb52a841dfe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/31805b6a08bb6c0eeec96b7e8a1abcb52a841dfe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/3a45138129d425905533a2f2d8202272f6234ce4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/3a45138129d425905533a2f2d8202272f6234ce4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/3a45138129d425905533a2f2d8202272f6234ce4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,15 +57,11 @@ manubot-clear-requests-cache: false
 ...
 
 
-
-
-
-
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/31805b6a08bb6c0eeec96b7e8a1abcb52a841dfe/))
-está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/e-service@31805b6](https://github.com/hwong23/e-service/tree/31805b6a08bb6c0eeec96b7e8a1abcb52a841dfe)
+([URL](https://hwong23.github.io/e-service/v/3a45138129d425905533a2f2d8202272f6234ce4/))
+está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
+[hwong23/e-service@3a45138](https://github.com/hwong23/e-service/tree/3a45138129d425905533a2f2d8202272f6234ce4)
 del September 7, 2023.
 </em></small>
 
@@ -94,14 +90,16 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 :::
 
 
-## Resumen y control de cambios {.page_break_before}
+## Objetivo del Documento
+Propuesta de implementación de la oficina de arquitectura del FNA, basada en los resultados de la consultoría de arquitectura E-Service, Fase II, 2023, de Stefanini.
 
-|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cierre de brecha E-Service**|
+
+|Tema            |Propuesta de Implementación de la Oficina de Arquitectura del FNA                                           |
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|31805b6 del 07 Sep 2023                              |
+|Versión|3a45138 del 07 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -110,7 +108,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 
 ## Hoja de Ruta E-Service FNA (Arquitectura E-Service)
-Los proyectos de la hoja de ruta resultado de la ejecución de la consultoría "Arquitectura E-Service", dentro del proyecto PETI, son los siguientes:
+Los proyectos de la hoja de ruta resultado de la ejecución de la consultoría E-Service, Fase I, 2022, parte del proyecto PETIC del FNA, son los siguientes:
 
 1. Gobierno SOA
 1. Oficina de arquitectura
@@ -170,8 +168,7 @@ Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguiente
 
 
 ## Alcance de la primera ejecución de la hoja de ruta E-Service
-Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA 
-de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2), _en el dominio de aplicaciones y servicios únicamente_ (restricción de alcance). Esto implica la planeación, ejecución y seguimiento de los proyectos siguientes:
+Para el período 2023, la implementación de la hoja de ruta E-Service impactará los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2), _en el dominio de aplicaciones y servicios únicamente_ (restricción de alcance). Esto implica la planeación, ejecución y seguimiento de los proyectos siguientes:
 
 * PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios únicamente
 * PRY02. Arquitectura Referencia: dominio de aplicaciones y servicios únicamente
