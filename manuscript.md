@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-09-07'
+date-meta: '2023-09-08'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-07" />
-  <meta name="citation_publication_date" content="2023-09-07" />
-  <meta property="article:published_time" content="2023-09-07" />
-  <meta name="dc.modified" content="2023-09-07T19:27:02+00:00" />
-  <meta property="article:modified_time" content="2023-09-07T19:27:02+00:00" />
+  <meta name="dc.date" content="2023-09-08" />
+  <meta name="citation_publication_date" content="2023-09-08" />
+  <meta property="article:published_time" content="2023-09-08" />
+  <meta name="dc.modified" content="2023-09-08T16:44:59+00:00" />
+  <meta property="article:modified_time" content="2023-09-08T16:44:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/6e22cafb579c51182a2c3705f5c1c036b4fdb12a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/6e22cafb579c51182a2c3705f5c1c036b4fdb12a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/6e22cafb579c51182a2c3705f5c1c036b4fdb12a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/344afe2e60159349d237a74b7cbcca3e1e0797c5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/344afe2e60159349d237a74b7cbcca3e1e0797c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/344afe2e60159349d237a74b7cbcca3e1e0797c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -56,13 +56,24 @@ manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
 
+---
+title: Propuesta de Implementación E-Service Fase 3. Oficina de Arquitectura del FNA
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
+...
+
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/6e22cafb579c51182a2c3705f5c1c036b4fdb12a/))
+([URL](https://hwong23.github.io/e-service/v/344afe2e60159349d237a74b7cbcca3e1e0797c5/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@6e22caf](https://github.com/hwong23/e-service/tree/6e22cafb579c51182a2c3705f5c1c036b4fdb12a)
-del September 7, 2023.
+[hwong23/e-service@344afe2](https://github.com/hwong23/e-service/tree/344afe2e60159349d237a74b7cbcca3e1e0797c5)
+del September 8, 2023.
 </em></small>
 
 
@@ -91,7 +102,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 
 ## Objetivo del Documento
-Propuesta de implementación de la oficina de arquitectura del FNA, basada en los resultados de la consultoría de arquitectura E-Service, Fase II, 2023, de Stefanini.
+Propuesta de implementación de la oficina de arquitectura del FNA con base en los resultados de la consultoría de arquitectura E-Service, Fase II, del 2023, realizada por  Stefanini.
 
 
 |Tema            |Propuesta de Implementación de la Oficina de Arquitectura del FNA                                           |
@@ -99,41 +110,27 @@ Propuesta de implementación de la oficina de arquitectura del FNA, basada en lo
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|6e22caf del 07 Sep 2023                              |
+|Versión|344afe2 del 08 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 
-
-
-## Hoja de Ruta E-Service FNA (Arquitectura E-Service)
-Los proyectos de la hoja de ruta resultado de la ejecución de la consultoría E-Service, Fase I, 2022, parte del proyecto PETIC del FNA, son los siguientes:
-
-1. Gobierno SOA
-1. Oficina de arquitectura
-1. Arquitectura de referencia 2.0
-1. Portafolio API
-1. Microservicios
-1. Plataforma híbrida de integración
-1. Service mesh
-1. Hub de integración digital
-1. Gobierno de datos
-1. Gestión de datos maestros
-1. Arquitectura de datos (data mesh)
-1. Devops
-1. Infraestructura escalable nube
-1. Infraestructura autoservicio de datos
+# Propuesta de Implementación de la Oficina de Arquitectura del FNA
 
 <br>
 
-La secuencia, la dependencia y los plazos estimados de los proyectos de la hoja de ruta E-Service FNA es la indicada en la siguiente imagen.
 
-![](images/hojaruta1.png)
+## La Oficina de Arquitectura del FNA
+Es el equipo de trabajo, conforme tanto al gobierno SOA como al gobierno TIC del FNA a cargo de la creación de los diseños y la dirección de las implementaciones y transiciones que involucren soluciones de sistemas de información y aplicaciones, servicios y componentes de negocio, información negocio, y de tecnologías de infraestructura local y remota (nube). En general, la oficina de arquitectura gestiona el conocimiento de la arquitectura actual del FNA y la continuidad de la arquitectura de referencia.​
 
-[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, dependencias, secuencia, puntos de control de la evolución de la arquitectura de referencia SOA 2.0 del Fondo.
+La importancia de la oficina de arquitectura está dada en tanto que materializa al gobierno del FNA mediante la ejecución de sus funciones y responsabilidades. Además, realiza la necesaria articulación con otros contextos, áreas y proveedores del FNA.
 
-_Fuente: Consultoría Arquitectura E-Service._
+En la imagen siguiente muestra la colaboración de la Oficina de Arquitectura con el modelo de gobierno del FNA (2023).
+
+![Oficina de Arquitectura en contexto del Modelo de Gobierno SOA del FNA, emisión inicial. Gestiona la evolución de las arquitecturas del FNA.](images/modelo-gob.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
