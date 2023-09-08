@@ -1,4 +1,10 @@
-git add .
-git commit -a -m "$1"
-git push
+git checkout output
 git pull
+cp FNA*.docx ~/Downloads/tmpr
+
+f="`ls -t ~/Downloads/tmpr/*.docx | head -1`"
+basedocxFILE=${f##*/};  
+open $basedocxFILE
+
+git checkout main
+
