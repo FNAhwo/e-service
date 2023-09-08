@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-08" />
   <meta name="citation_publication_date" content="2023-09-08" />
   <meta property="article:published_time" content="2023-09-08" />
-  <meta name="dc.modified" content="2023-09-08T19:06:06+00:00" />
-  <meta property="article:modified_time" content="2023-09-08T19:06:06+00:00" />
+  <meta name="dc.modified" content="2023-09-08T19:13:19+00:00" />
+  <meta property="article:modified_time" content="2023-09-08T19:13:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/803682a92b803a96e4f61f495c3b0a16019e590e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/803682a92b803a96e4f61f495c3b0a16019e590e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/803682a92b803a96e4f61f495c3b0a16019e590e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/035feb10042f5a55ef7a8d80a99285f17783ca61/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/035feb10042f5a55ef7a8d80a99285f17783ca61/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/035feb10042f5a55ef7a8d80a99285f17783ca61/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/803682a92b803a96e4f61f495c3b0a16019e590e/))
+([URL](https://hwong23.github.io/e-service/v/035feb10042f5a55ef7a8d80a99285f17783ca61/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@803682a](https://github.com/hwong23/e-service/tree/803682a92b803a96e4f61f495c3b0a16019e590e)
+[hwong23/e-service@035feb1](https://github.com/hwong23/e-service/tree/035feb10042f5a55ef7a8d80a99285f17783ca61)
 del September 8, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|803682a del 08 Sep 2023                              |
+|Versión|035feb1 del 08 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -139,8 +139,6 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 ## Justificación de la Propuesta
 La implementación de la oficina de arquitectura del FNA plantea la sistematización de la evolución de los sistemas y componentes de la empresa en tanto relevantes a la estrategia  TI del FNA. En este sentido, la oficina promueve a los sistemas de información del FNA, junto con sus dependencias, hacia diseños y tecnologías determinadas en la arquitectura de referencia (la arquitectura de referencia del FNA fue desarrollada por esta consultoría, E-Service, Fase II, 2023), la cual incluye estilos de arquitectura orientada a eventos y tecnologías afines a esta, como microservicios, API internas y externas, infraestructura Nube, entre otras.​
 
-<br>
-
 #### Oportunidades / Retos
 - Gestionar la transformación mediada por arquitecturas del FNA
 - Activar el repositorio de arquitectura como base de toma de decisiones de cambio
@@ -149,8 +147,6 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 - Unificar el modelo de trabajo interno y a proveedores tecnológicos (fábricas de software, entre otros) del FNA
 - Acelerar el desarrollo de las arquitecturas de solución​
 - Ejercer los lineamientos y políticas de gobierno​ SOA/TI del Fondo
-
-
 
 #### Actores
 - Áreas de negocio críticas​
@@ -163,41 +159,10 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 - Mitigación de rotación del equipo de arquitectura​
 - Visión global de soluciones de TI vs requisitos del negocio​
 	
-#### Alcance
-- Diseño unificado de vistas funcional, despliegue, información, integración y tecnología​
-- Modelado en lenguaje y herramienta de diseño del FNA​
-- Crear y administrar las transiciones hacia la arquitectura versión 2.0
-- Utilización del depósito de arquitectura institucional​
-- Crear inventario de artefactos modelo-serie de aceleración de implementación
-	
 #### Tecnología
-- Depósito de Arquitectura
-- Herramientas de modelado
-
-<br>
-
-La ejecución de la hoja de ruta E-Service (diagnóstico SOA) plantea la implementación de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcción y diseño de servicios, y a la independencia de proveedor, en el ámbito de las vicepresidencias de Crédito y de Operación, en el período de ejecución 2023.
-
-Como resultado del inicio de la ejecución de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnológico de estas soluciones.
-
-Puntualmente, la implementación (todos los proyectos) de la hoja de ruta, tal como está diagnosticada por E-Service, buscan los objetivos de (ordenados por prioridad):
-
-* Flexibilidad y tiempo de mercado (OBJ3)
-* Fortaleza SOA de las aplicaciones (OBJ2)
-* Independencia de proveedor (OBJ1)
-
-<br>
-
-Para lo cual, la hoja de ruta E-Service está orientada a impactar los siguientes brechas y oportunidades:
-
-* OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
-* OP2. Mejorar proceso de diseño,  construcción y DevOps de soluciones SOA
-* OP3. Mejorar la oferta de servicios analíticos en segmento FNA
-* OP4. Aumentar el nivel de utilización de la Tecnología SOA del FNA
-* OP5. Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0
-* OP6. Gestión de la Tecnología (gobierno) orientada por arquitectura 2.0
-* OP7. Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores
-* OP8. Monitoreo de los índices de eficacia de los servicios FNA
+- Repositorio de Arquitectura, Mega Hopex
+- Herramientas de modelado colaborativo, Archimate
+- Herramientas de generación de documentos, jArchi
 
 <br>
 
