@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-12" />
   <meta name="citation_publication_date" content="2023-09-12" />
   <meta property="article:published_time" content="2023-09-12" />
-  <meta name="dc.modified" content="2023-09-12T16:55:09+00:00" />
-  <meta property="article:modified_time" content="2023-09-12T16:55:09+00:00" />
+  <meta name="dc.modified" content="2023-09-12T17:16:07+00:00" />
+  <meta property="article:modified_time" content="2023-09-12T17:16:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/))
+([URL](https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@d9eebee](https://github.com/hwong23/e-service/tree/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69)
+[hwong23/e-service@ea8347d](https://github.com/hwong23/e-service/tree/ea8347df73961571069b404f49b16d8f50900e4d)
 del September 12, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|d9eebee del 12 Sep 2023                              |
+|Versión|ea8347d del 12 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -194,9 +194,18 @@ El plan general de referencia de de la implementación de la actual propuesta, p
 
 ![Vista de tiempo de ejecución del proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA. E-Service Fase III, objeto de esta propuesta. Septiembre, 2023.](images/plangeneral.png){#fig:plangeneral.png width=}
 
+La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
+
 <br>
 
-La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
+### Fases del proyecto / Organización de trabajo
+El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y 4 etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
+
+### Plazo de Ejecución
+El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses, o su equivalente en horas totales.
+
+    horas hombre: 180 hrs/mes * 12 meses = 2.160 hrs/hombre
+    horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto
 
 <br>
 
@@ -256,21 +265,14 @@ Definir y vigilar las relaciones entre las áreas de negocio, que para este proy
 <br>
 
 
-#### Equipo Base del Proyecto
-|   |                                                                                            | Trabajo                                                                                    | Dedicación |
+## Equipo Base del Proyecto
+|   |                                                                                            | Rol / Trabajo                                                                                    | Dedicación |
 |---|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------|
-| 1 | Director / Gerente proyecto (Stefanini)                                                    | Calidad del proyecto                                                                       | 100% o 50% |
-|   | Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance         |                                                                                            |            |
-| 2 | Especialista SOA 1, o Arquitectura empresarial (Stefanini/MEGA)                            | Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios        | 100%       |
-|   | Nota: considerar un perfil parcial de apoyo al especialista SOA, experiencia en herr. MEGA |                                                                                            |            |
-| 3 | Especialista construcción software, servicios y componentes (Stefanini)                    | Referente para diseño de servicios y software, modelamiento procesos, software y servicios | 100%       |
-|   | Personal del FNA                                                                           | Recepción y ejecución de gobierno SOA, modelamiento software y servicios                   | *          |
-|   | - Especialista SOA                                                                         |                                                                                            |            |
-|   | - Especialista(s) construcción software                                                    |                                                                                            |            |
-
-<br>
-
-(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
+| 1 | Especialista SOA 1                                                                         | Jefe Oficina de Arquitectura (FNA). Calidad del proyecto. Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios  | 100%       |
+|   | **Nota**: es condición del presente proyecto que este recurso sea interno FNA, por tanto, no entra en la propuesta económica presentada más adelante|                                   |            |
+| 2 | Especialista Arquitectura Aplicaciones (Stefanini)              | Referente para diseño de servicios y software, modelamiento procesos, software y servicios                            | 100%       |
+| 3 | Especialista Arquitectura de Datos (Stefanini)                  | Referente para diseño de entidades de datos, intercambio de información, y modelamiento de procesos y flujo de datos  | 100%       |
+| 4 | Especialista Arquitectura de TI o Infraestructura (Stefanini)   | Referente para diseño de plataformas de cómputo, almacenamiento y redes, y modelamiento de ambientes de ejecución y comunicación   | 100%       |
 
 <br>
 
