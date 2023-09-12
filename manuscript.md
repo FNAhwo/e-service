@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-12" />
   <meta name="citation_publication_date" content="2023-09-12" />
   <meta property="article:published_time" content="2023-09-12" />
-  <meta name="dc.modified" content="2023-09-12T16:46:17+00:00" />
-  <meta property="article:modified_time" content="2023-09-12T16:46:17+00:00" />
+  <meta name="dc.modified" content="2023-09-12T16:53:04+00:00" />
+  <meta property="article:modified_time" content="2023-09-12T16:53:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/))
+([URL](https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@f41d126](https://github.com/hwong23/e-service/tree/f41d1267063ca71112122b0dce81dc33e8d1571f)
+[hwong23/e-service@11a92c9](https://github.com/hwong23/e-service/tree/11a92c9b4ff9b5bbd114f587bd95f57e87132846)
 del September 12, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|f41d126 del 12 Sep 2023                              |
+|Versión|11a92c9 del 12 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -192,15 +192,11 @@ El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de
 ## Plan General de la Propuesta
 El plan general de referencia de de la implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA, 2023 está resumido en la siguiente imagen. Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos a aceptación.
 
-![Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.](images/plangeneral.png){#fig: width=}
+![Vista de tiempo de ejecución del proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA. E-Service Fase III, objeto de esta propuesta. Septiembre, 2023.](images/plangeneral.png){#fig:plangeneral.png width=}
 
 <br>
 
-La planeación general no contiene fases ni entregables. En su lugar, cada proyecto (PRY01... 03) dentro de la planeación general es independiente y contiene fases, fechas, actividades y productos de trabajo por separado. La planeación de cada proyecto es como sigue.
-
-![](images/plangeneral1.png)
-
-[Imagen.]() Vista de tiempo de ejecución del proyecto 01 de cierre de brecha, _PRY01. Gobierno SOA FNA_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
 
 <br>
 
@@ -328,175 +324,6 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
     180 hrs/mes * 5 meses = 910 hrs / hombre proyecto
 
 <br>
-
-
-### PRY02. Arquitectura de referencia SOA 2.0: dominio de aplicaciones y servicios
-#### Objetivo
-Definir la línea base de la arquitectura de referencia 2.0 del FNA y dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, etc.) y favorecer la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y requerimientos de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
-
-#### Actividades
-- Acelerar el desarrollo de las arquitecturas de solución​
-- Relacionar las implementaciones con las áreas de negocio y TI​
-- Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo
-- Documentación técnica en el depósito de arquitectura institucional​
-
-#### Fases y Entregables
-- Fase 0. Definición
-    - PR10. Detalle de los ítems de arquitectura impactados por el proyecto
-    - PR10.1. Aprobación de inicio y personal FNA asignado a la arquitectura de referencia
-- Fase 1. Diseño incremento 1 arq. referencia
-    - PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-    - PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​
-- Fase 2. Incremento 1 arq. referencia
-    - PR13. Modelado en lenguaje y herramienta de diseño del FNA​
-    - PR14. Administración de las transiciones hacia la arquitectura versión 2.0
-- Fase 3. Optimización arq. referencia
-    - PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación
-- Fase 4. Integración SOA
-    - PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura 
-    - PR17. Ítems de arquitectura incrementados en ejecución
-
-#### Plazo de Ejecución
-3 meses, iniciado a partir del mes de abril dl 2023 (ver Plan de Ejecución PRY01 más adelante).
-
-#### Impacto / Beneficio
-- Reducción en tiempos y costos asociados a las soluciones SOA​
-- Mejora en la alineación entre negocio y TI​
-- Mitigación de rotación del equipo de arquitectura​
-- Visión global de soluciones de TI vs. requisitos del negocio​
-	
-#### Actores
-- Áreas de negocio críticas​
-- Oficina de arquitectura FNA​
-- Consultores y equipo de apoyo​
-
-#### Consideraciones
-- Depósito de Arquitectura
-- Herramientas de modelado
-
-
-<br>
-
-
-#### Equipo Base del Proyecto
-|  |                                         | Trabajo              | Dedicación |
-|--|:----------------------------------------|:---------------------|:-----------|
-| 1| Director / Gerente proyecto (Stefanini) | Calidad del proyecto | 100% o 50% |
-|  |Nota: este recurso puede ser individual, o común entre ambos proyectos del alcance|
-| 2|Especialista SOA o Arquitectura de software (Stefanini)|Referente y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
-| 3|Especialista construcción software, servicios y componentes (Stefanini)|Implementación y vigilancia de implementación y diseños, modelamiento software y servicios|100%|
-|  |Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
-|  |- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
-|  |- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
-
-<br>
-
-(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
-
-<br>
-
-
-#### Plan de Trabajo
-Organización de trabajo: el proyecto 2 (PRY02) inicia con la fase de Definición (DEF) en la que amplía en detalle los elementos y tecnologías de la arquitectura de referencia 2.0. Se determina además otros detalles como los elementos de la arquitectura a impactar que terminarán siendo evolucionados en los incrementos siguientes (correspondientes a las fases 2 y 3) de este mismo plan.
-
-![](images/pry2arqref2.0.jpg)
-
-[Imagen.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
-
-#### Fases del proyecto
-La fase 1 y 2, Diseño e Incremento respectivamente, tienen en realidad dos acciones: el planteamiento de la solución de la arquitectura (detalles tecnológicos), y el de la puesta en marcha de cambios mediante una implementación real de este diseño, al que llamamos arquitectura de referencia 2.0 FNA.
-
-Las fases 3, Optimización, busca crear y gestionar el inventario de elementos genéricos de aceleración de desarrollo, como funcionalidades, y artefactos de software que cumplan los estándares de la arquitectura de referencia 2.0 definida anteriormente.
-
-Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño de los incrementos de evolución de la arquitectura de referencia 2.0.
-
-#### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 5 meses, o su equivalente en horas
-
-    180 hrs/mes * 5 meses = 910 hrs / hombre proyecto
-
-<br>
-
-
-
-### PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service
-#### Objetivo
-Estructurar y detallar los proyectos de cierre de brecha de la hoja de ruta E-Service.
-
-#### Actividades
-- Definición de solución de los proyectos de la hoja de ruta E-Service por implementar
-- Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service
-- Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo
-- Aprobación de inicio de los proyectos de la hoja de ruta
-
-#### Fases y Entregables
-- Fase 0. Levantamiento
-    - PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar
-    - PR20.1. Aprobación de inicio y personal asignado al proyecto de hoja de ruta E-Service
-- Fase 1. Definición de soluciones brechas
-    - PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service 
-    - PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service
-    - PR24. Arquitectura de solución de los proyectos de cierre de brecha
-- Fase 2. Estructuración proyectos. Incremento 1
-    - PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1
-- Fase 3. Estructuración proyectos. Incremento 2
-    - PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2
-
-#### Plazo de Ejecución
-3 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY03 más adelante).
-
-#### Impacto / Beneficio
-- Preparativos que logren la aprobación de la ejecución de los proyectos de cierre de brecha de las debilidades de arquitectura FNA.​
-
-#### Actores
-- Comité de gobierno del FNA
-- Oficina de arquitectura FNA
-- Personal FNA asociado por proyecto (infraestructura, Crédito, Datos, etc.)
-
-#### Consideraciones
-- MEGA: depósito centralizado de arquitectura del FNA
-- Depósito documental
-- Herramientas de gestión de proyectos de tecnología
-
-<br>
-
-
-#### Equipo Base del Proyecto
-|  |                                         | Trabajo              | Dedicación |
-|--|:----------------------------------------|:---------------------|:-----------|
-| 1|Coordinador de proyectos principal Senior (Stefanini)|Estructuración de proyectos de la hoja de ruta E-Service|100%|
-| 2|Coordinador de proyectos auxiliar (Stefanini)||100%|
-| 3|Arquitecto de solución (Stefanini)|Describir, diseñar, especificar y gestionar la visión técnica de la soluciones a las problmemáticas de cierre de brecha (proyectos) señaladas en la hoja de ruta E-Service. |100%|
-| 4|Personal del FNA|Recepción y ejecución de diseños, requerimientos, e implementación, SOA, modelamiento requerimientos, procesos y servicios|*|
-|  |- Especialistas de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia)||
-|  |- Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA||
-
-<br>
-
-(*) La dedicación y horas de participación de los recursos internos la dispone el FNA.
-
-<br>
-
-
-#### Plan de Trabajo
-Organización de trabajo: el proyecto 3 (PRY03) inicia con la fase de Levantamiento (LVT) de los proyectos por implementar de la hoja de ruta E-Service, en coordinación con las áreas de negocio y tecnología del FNA involucradas en cada proyecto. Se determinan los detalles de los elementos de la arquitectura a impactar.
-
-![](images/pry3estructuracion.jpg)
-
-[Imagen.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023.
-
-#### Fases del proyecto
-Las fases 1 detalla las soluciones de los proyectos de cierre de brechas que confirman la hoja de ruta E-Service por implementar. Trata de los componentes, partes de la arquitectura de referencia 2.0, herramientas, métodos, diseños y tecnologías requeridas para la implementación y ejecución de dichos proyectos de cierre de brecha.
-
-Las fases 2 y 3, de estructuración, agregan la información de la organización, ejecución y seguimiento de los proyectos de solución definidos en la fase anterior.
-
-#### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 4 meses, o su equivalente en horas
-
-    180 hrs/mes * 4 meses = 720 hrs / hombre proyecto
-
-<br>
-
 
 
 ## Componentes de la Arquitectura FNA Impactados
