@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-12" />
   <meta name="citation_publication_date" content="2023-09-12" />
   <meta property="article:published_time" content="2023-09-12" />
-  <meta name="dc.modified" content="2023-09-12T16:53:04+00:00" />
-  <meta property="article:modified_time" content="2023-09-12T16:53:04+00:00" />
+  <meta name="dc.modified" content="2023-09-12T16:55:09+00:00" />
+  <meta property="article:modified_time" content="2023-09-12T16:55:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/11a92c9b4ff9b5bbd114f587bd95f57e87132846/))
+([URL](https://hwong23.github.io/e-service/v/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@11a92c9](https://github.com/hwong23/e-service/tree/11a92c9b4ff9b5bbd114f587bd95f57e87132846)
+[hwong23/e-service@d9eebee](https://github.com/hwong23/e-service/tree/d9eebeed81eadbef5d4c1829cbcfb73a7d580b69)
 del September 12, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|11a92c9 del 12 Sep 2023                              |
+|Versión|d9eebee del 12 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -201,35 +201,7 @@ La planeación general presenta la evolución de la arquitectura del FNA a la pa
 <br>
 
 
-## Proyectos del Alcance
-Los proyectos PRY01, PRY02 y PRY03 de la hoja de ruta consignados en arriba en el alcance tienen por objeto impactar las brechas Fortaleza SOA (OBJ2) y Flexibilidad y riesgos técnicos (OBJ3) determinados en el diagnóstico de la consultoría "Arquitectura E-Service". 
-
-Estos proyectos buscan también incrementar las capacidades del FNA, Gestión de tecnología y de Entrega de productos y funcionalidades (CAP1 y CAP2, respectivamente), mencionadas en el alcance y estructurar el detalle técnico y tecnológico de los proyectos futuros planteadas en dicha hoja de ruta.
-
-Las capacidades, las brechas y los proyectos de este alcance se encuentran relacionadas en la imagen siguiente. En la imagen se ve además el impacto (evolución) que este alcance causa en la arquitectura de referencia del FNA.
-
-![](images/vistaevolarquitectura.jpg)
-
-[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón de las capacidades incrementadas mediante los proyectos de este alcance.
-
-<br>
-
-La evolución de la arquitectura del FNA impactada mediante este alcance está organizada en dos incrementos.
-
-### Arquitectura de referencia 2.0. Incremento 1
-Versión mejorada de arquitectura actual SOA FNA con soporte en implementación parcial del gobierno y definiciones iniciales de la arquitectura de referencia SOA 2.0. Aplicación de arquitectura de referencia inicial a ítems seleccionados en una fase de levantamiento (LVT).
-
-### Arquitectura de referencia 2.0. Incremento 2
-Continuidad de la mejora del incremento 1. La arquitectura SOA FNA cuenta con implementación total del gobierno, una definición candidata de la arquitectura de referencia 2.0, y aplicación de los cambios en ítems adicionales al incremente 1 de la arquitectura actual.
-
-La imagen 2 presentada anteriormente ilustra el alcance propuesto en términos de las capacidades del FNA impactadas, los proyectos de ejecución, las evoluciones de la arquitectura y las brechas involucradas. 
-
-A continuación presentamos la descripción de los proyectos de este alcance en forma de fichas de proyecto. 
-
-<br>
-
-
-### PRY01. Gobierno SOA FNA: dominio de aplicaciones y servicios
+### PRY01. Implementación de la Oficina de Arquitectura y Gobierno del FNA
 #### Objetivo
 Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
 
