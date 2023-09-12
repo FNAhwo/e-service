@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-09-08'
+date-meta: '2023-09-12'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-08" />
-  <meta name="citation_publication_date" content="2023-09-08" />
-  <meta property="article:published_time" content="2023-09-08" />
-  <meta name="dc.modified" content="2023-09-08T19:15:49+00:00" />
-  <meta property="article:modified_time" content="2023-09-08T19:15:49+00:00" />
+  <meta name="dc.date" content="2023-09-12" />
+  <meta name="citation_publication_date" content="2023-09-12" />
+  <meta property="article:published_time" content="2023-09-12" />
+  <meta name="dc.modified" content="2023-09-12T16:46:17+00:00" />
+  <meta property="article:modified_time" content="2023-09-12T16:46:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/1caaa237a1c4de6d3e6093476d8a61d28dff5660/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/1caaa237a1c4de6d3e6093476d8a61d28dff5660/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/1caaa237a1c4de6d3e6093476d8a61d28dff5660/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/1caaa237a1c4de6d3e6093476d8a61d28dff5660/))
+([URL](https://hwong23.github.io/e-service/v/f41d1267063ca71112122b0dce81dc33e8d1571f/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@1caaa23](https://github.com/hwong23/e-service/tree/1caaa237a1c4de6d3e6093476d8a61d28dff5660)
-del September 8, 2023.
+[hwong23/e-service@f41d126](https://github.com/hwong23/e-service/tree/f41d1267063ca71112122b0dce81dc33e8d1571f)
+del September 12, 2023.
 </em></small>
 
 
@@ -105,18 +105,18 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 Propuesta de implementación de la oficina de arquitectura del FNA con base en los resultados de la consultoría de arquitectura E-Service, Fase II, del 2023, realizada por  Stefanini.
 
 
-|Tema            |Propuesta de Implementación de la Oficina de Arquitectura del FNA                                           |
+|Tema            |Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA                                           |
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|1caaa23 del 08 Sep 2023                              |
+|Versión|f41d126 del 12 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 
-# Propuesta de Implementación de la Oficina de Arquitectura del FNA
+# Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA
 
 <br>
 
@@ -168,9 +168,9 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 
 
 
-## Alcance de la Propuesta Propuesta de Implementación de la Oficina de Arquitectura del FNA
+## Alcance de la Propuesta Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA
 Para el período 2023, la implementación de la Oficina de arquitectura FNA impactará las capacidades Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2)
-del FNA (fuente, E-Service Fase I), _en el dominio de aplicaciones y servicios_ (restricción de alcance). Este alcance implica la planeación, ejecución y seguimiento de los actividades y objetos siguientes:
+del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicaciones y servicios_ (restricción de alcance), hasta llevarlas a la versión 1.3 respectivamente. Este alcance implica la planeación, ejecución y seguimiento de los actividades y objetos siguientes:
 
 - Gestionar la transformación mediada por arquitecturas del FNA
 - Activar el repositorio de arquitectura como base de toma de decisiones de cambio
@@ -182,19 +182,17 @@ del FNA (fuente, E-Service Fase I), _en el dominio de aplicaciones y servicios_ 
 
 <br>
 
-El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura del FNA, es el ilustrado a continuación.
+El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, que busca impactar a las capacidades hasta llevarlas a la versión 1.3 es el ilustrado a continuación.
 
-![Vista de evolución de capacidades dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
+![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
 
 <br>
 
 
 ## Plan General de la Propuesta
-La siguiente imagen presenta a manera de referencia el plan general en el tiempo de los tres proyectos contenidos en el alcance de esta propuesta. Nota: los plazos en la imagen son referenciales. Los plazos reales de cada proyecto, por separado, serán determinados y aceptados en las fases de levantamiento de cada uno.
+El plan general de referencia de de la implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA, 2023 está resumido en la siguiente imagen. Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos a aceptación.
 
-![](images/plangeneral.png)
-
-[Imagen 2.]() Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
+![Vista de tiempo de ejecución de los proyectos de cierre de brecha de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.](images/plangeneral.png){#fig: width=}
 
 <br>
 
@@ -203,14 +201,6 @@ La planeación general no contiene fases ni entregables. En su lugar, cada proye
 ![](images/plangeneral1.png)
 
 [Imagen.]() Vista de tiempo de ejecución del proyecto 01 de cierre de brecha, _PRY01. Gobierno SOA FNA_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
-
-![](images/plangeneral2.png)
-
-[Imagen.]() Vista de tiempo de ejecución del proyecto 02 de cierre de brecha, _PRY02. Arquitectura Referencia_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
-
-![](images/plangeneral3.png)
-
-[Imagen.]() Vista de tiempo de ejecución del proyecto 03 de cierre de brecha, _PRY03. Estructuración de proyectos_, de la hoja de ruta E-Service consignados en el alcance de esta propuesta, para el período de 5 meses, en el 2023.
 
 <br>
 
