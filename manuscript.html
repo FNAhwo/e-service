@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Harry Wong, ing." />
-  <meta name="dcterms.date" content="2023-09-12" />
+  <meta name="dcterms.date" content="2023-09-15" />
   <meta name="keywords" content="SOA, madurez, gobierno, FNA" />
   <title>Propuesta de Implementación E-Service Fase 3. Oficina de Arquitectura del FNA</title>
   <style>
@@ -50,11 +50,11 @@
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-12" />
-  <meta name="citation_publication_date" content="2023-09-12" />
-  <meta property="article:published_time" content="2023-09-12" />
-  <meta name="dc.modified" content="2023-09-12T17:16:07+00:00" />
-  <meta property="article:modified_time" content="2023-09-12T17:16:07+00:00" />
+  <meta name="dc.date" content="2023-09-15" />
+  <meta name="citation_publication_date" content="2023-09-15" />
+  <meta property="article:published_time" content="2023-09-15" />
+  <meta name="dc.modified" content="2023-09-15T12:36:34+00:00" />
+  <meta property="article:modified_time" content="2023-09-15T12:36:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -69,9 +69,9 @@
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -88,10 +88,10 @@
 </header>
 <p><small><em>
 Esta propuesta
-(<a href="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/">URL</a>)
+(<a href="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/">URL</a>)
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-<a href="https://github.com/hwong23/e-service/tree/ea8347df73961571069b404f49b16d8f50900e4d">hwong23/e-service@ea8347d</a>
-del September 12, 2023.
+<a href="https://github.com/hwong23/e-service/tree/9c21716c53f3b79e2dd46b2950cdb3714c191d95">hwong23/e-service@9c21716</a>
+del September 15, 2023.
 </em></small></p>
 <h2 id="autores">Autores</h2>
 <ul>
@@ -137,7 +137,7 @@ Harry Wong, ing. &lt;e_hwong@stefanini.com&gt;.</p>
 </tr>
 <tr class="even">
 <td>Versión</td>
-<td>ea8347d del 12 Sep 2023</td>
+<td>9c21716 del 15 Sep 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -152,7 +152,7 @@ Harry Wong, ing. &lt;e_hwong@stefanini.com&gt;.</p>
 <p>Es el equipo de trabajo, conforme tanto al gobierno SOA como al gobierno TIC del FNA a cargo de la creación de los diseños y la dirección de las implementaciones y transiciones que involucren soluciones de sistemas de información y aplicaciones, servicios y componentes de negocio, información negocio, y de tecnologías de infraestructura local y remota (nube). En general, la oficina de arquitectura gestiona el conocimiento de la arquitectura actual del FNA y la continuidad de la arquitectura de referencia.​</p>
 <p>La importancia de la oficina de arquitectura está dada en tanto que materializa al gobierno del FNA mediante la ejecución de sus funciones y responsabilidades. Además, realiza la necesaria articulación con otros contextos, áreas y proveedores del FNA.</p>
 <p>En la imagen siguiente muestra la colaboración de la Oficina de Arquitectura con el modelo de gobierno del FNA (2023).</p>
-<div id="fig:f559a9d8-6caf-4500-911f-5b8739c06d59" class="fignos">
+<div id="fig:1e6d0622-d1a2-4f89-b600-83088ba57221" class="fignos">
 <figure>
 <img src="images/modelo-gob.png" alt="Imagen 1: Oficina de Arquitectura en contexto del Modelo de Gobierno SOA del FNA, emisión inicial. Gestiona la evolución de las arquitecturas del FNA." />
 <figcaption aria-hidden="true"><span>Imagen 1:</span> Oficina de Arquitectura en contexto del Modelo de Gobierno SOA del FNA, emisión inicial. Gestiona la evolución de las arquitecturas del FNA.</figcaption>
@@ -174,9 +174,10 @@ Harry Wong, ing. &lt;e_hwong@stefanini.com&gt;.</p>
 </ul>
 <h4 id="actores">Actores</h4>
 <ul>
-<li>Áreas de negocio críticas​</li>
+<li>Áreas de negocio misionales u operativas</li>
 <li>Oficina de arquitectura FNA​</li>
-<li>Consultores y equipo de apoyo​</li>
+<li>Comité de arquitectura FNA​</li>
+<li>Consultores del FNA, proveedores tecnológicos y fábricas de software</li>
 </ul>
 <h4 id="impacto-beneficio">Impacto / Beneficio</h4>
 <ul>
@@ -230,85 +231,17 @@ del FNA (fuente, E-Service Fase I) versión origen, <em>en el dominio de aplicac
 <pre><code>horas hombre: 180 hrs/mes * 12 meses = 2.160 hrs/hombre
 horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto</code></pre>
 <p><br></p>
-<h3 id="pry01.-implementación-de-la-oficina-de-arquitectura-y-gobierno-del-fna">PRY01. Implementación de la Oficina de Arquitectura y Gobierno del FNA</h3>
-<h4 id="objetivo">Objetivo</h4>
-<p>Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.</p>
-<p><br></p>
-<h4 id="alcance">Alcance</h4>
-<ul>
-<li>Crear e institucionalizar el comité de gobierno SOA del FNA</li>
-<li>Definir los roles y responsabilidades para la instalación del comité</li>
-<li>Elaborar los lineamientos, políticas y procesos de gobierno SOA del FNA</li>
-<li>Medir las decisiones de gobierno sobre la arquitectura y el proceso de desarrollo de soluciones SOA</li>
-</ul>
-<h4 id="actividades">Actividades</h4>
-<ol type="1">
-<li>Generar lineamientos y políticas de gobierno SOA</li>
-<li>Aplicar y fortalecer gobierno SOA en el FNA</li>
-<li>Relacionar el gobierno SOA con gestión de modelos y repositorio de arquitectura del FNA</li>
-<li>Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA</li>
-</ol>
-<h4 id="fases-y-entregables">Fases y Entregables</h4>
-<ul>
-<li>Fase 0. Definición
-<ul>
-<li>PR01. Detalle de los ítems de arquitectura impactados por el proyecto</li>
-<li>PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA</li>
-</ul></li>
-<li>Fase 1. Definición gobierno
-<ul>
-<li>PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes</li>
-<li>PR03. Diseño de los procesos y responsabilidades del comité de gobierno</li>
-</ul></li>
-<li>Fase 2. Ejecución gobierno. Incremento 1
-<ul>
-<li>PR04. Definición de roles y responsabilidades y selección e instalación del comité</li>
-<li>PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos</li>
-</ul></li>
-<li>Fase 3. Ejecución gobierno. Incremento 2
-<ul>
-<li>PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto</li>
-</ul></li>
-<li>Fase 4. Integración gobierno
-<ul>
-<li>PR07. Métricas de efectividad del gobierno</li>
-</ul></li>
-</ul>
-<h4 id="plazo-de-ejecución-1">Plazo de Ejecución</h4>
-<p>3 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY01, más adelante).</p>
-<h4 id="impacto-beneficio-1">Impacto / Beneficio</h4>
-<ul>
-<li>Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización</li>
-<li>Fuente única de planeación y control de las soluciones de software del FNA</li>
-<li>Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​</li>
-</ul>
-<h4 id="actores-1">Actores</h4>
-<ul>
-<li>Comité de gobierno del FNA</li>
-<li>Oficina de arquitectura FNA</li>
-<li>Comité asesor </li>
-</ul>
-<h4 id="consideraciones">Consideraciones</h4>
-<ul>
-<li>MEGA: depósito centralizado de arquitectura del FNA</li>
-<li>Depósito documental</li>
-<li>Herramientas de gestión de arquitectura</li>
-<li>Herramientas de gestión de proyectos de tecnología</li>
-</ul>
-<p><br></p>
 <h2 id="equipo-base-del-proyecto">Equipo Base del Proyecto</h2>
 <table>
 <colgroup>
-<col style="width: 1%" />
-<col style="width: 46%" />
-<col style="width: 46%" />
-<col style="width: 6%" />
+<col style="width: 7%" />
+<col style="width: 61%" />
+<col style="width: 30%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th></th>
-<th style="text-align: left;"></th>
-<th style="text-align: left;">Rol / Trabajo</th>
+<th style="text-align: left;">Recurso / ROL</th>
 <th style="text-align: left;">Dedicación</th>
 </tr>
 </thead>
@@ -317,31 +250,26 @@ horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto</
 <td>1</td>
 <td style="text-align: left;">Especialista SOA 1</td>
 <td style="text-align: left;">Jefe Oficina de Arquitectura (FNA). Calidad del proyecto. Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios</td>
-<td style="text-align: left;">100%</td>
 </tr>
 <tr class="even">
 <td></td>
 <td style="text-align: left;"><strong>Nota</strong>: es condición del presente proyecto que este recurso sea interno FNA, por tanto, no entra en la propuesta económica presentada más adelante</td>
-<td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td>2</td>
 <td style="text-align: left;">Especialista Arquitectura Aplicaciones (Stefanini)</td>
 <td style="text-align: left;">Referente para diseño de servicios y software, modelamiento procesos, software y servicios</td>
-<td style="text-align: left;">100%</td>
 </tr>
 <tr class="even">
 <td>3</td>
 <td style="text-align: left;">Especialista Arquitectura de Datos (Stefanini)</td>
 <td style="text-align: left;">Referente para diseño de entidades de datos, intercambio de información, y modelamiento de procesos y flujo de datos</td>
-<td style="text-align: left;">100%</td>
 </tr>
 <tr class="odd">
 <td>4</td>
 <td style="text-align: left;">Especialista Arquitectura de TI o Infraestructura (Stefanini)</td>
 <td style="text-align: left;">Referente para diseño de plataformas de cómputo, almacenamiento y redes, y modelamiento de ambientes de ejecución y comunicación</td>
-<td style="text-align: left;">100%</td>
 </tr>
 </tbody>
 </table>
@@ -356,17 +284,9 @@ horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto</
 <p>La fase 1, Definición del Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.</p>
 <p>Las fases 2 y 3, implantan el gobierno anteriormente definido, e impactan directamente a los modelos y las decisiones de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.</p>
 <p>Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).</p>
-<h4 id="plazo-de-ejecución-2">Plazo de Ejecución</h4>
+<h4 id="plazo-de-ejecución-1">Plazo de Ejecución</h4>
 <p>El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 5 meses, o su equivalente en horas</p>
 <pre><code>180 hrs/mes * 5 meses = 910 hrs / hombre proyecto</code></pre>
-<p><br></p>
-<h2 id="componentes-de-la-arquitectura-fna-impactados">Componentes de la Arquitectura FNA Impactados</h2>
-<p>Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).</p>
-<p>Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implementación de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems no presentes en este ejemplo pueden ser impactados).</p>
-<figure>
-<img src="images/vistaitemsarq.png" />
-</figure>
-<p><a href="">Imagen 2.</a> Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.</p>
 <p><br></p>
 <h2 id="lista-de-fases-y-entregables-de-la-propuesta">Lista de Fases y Entregables de la Propuesta</h2>
 <table>
@@ -598,13 +518,12 @@ horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto</
 <h2 id="propuesta-económica-costo-beneficio-aproximado">Propuesta Económica (costo / beneficio) (aproximado)</h2>
 <p>…</p>
 <p><br></p>
-<h2 id="consideraciones-1">Consideraciones</h2>
+<h2 id="consideraciones">Consideraciones</h2>
 <ol type="1">
 <li>Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.</li>
-<li>Mega es la herramienta de gestión del repositorio continuo de arquitectura de referencia del FNA.</li>
+<li>Mega es la herramienta de gestión del repositorio continuo de arquitectura del FNA.</li>
 <li>Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.</li>
 </ol>
-<h2 id="edt">EDT</h2>
 <h2 class="page_break_before" id="referencias">Referencias</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" role="doc-bibliography">

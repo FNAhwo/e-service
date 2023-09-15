@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-09-12'
+date-meta: '2023-09-15'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-12" />
-  <meta name="citation_publication_date" content="2023-09-12" />
-  <meta property="article:published_time" content="2023-09-12" />
-  <meta name="dc.modified" content="2023-09-12T17:16:07+00:00" />
-  <meta property="article:modified_time" content="2023-09-12T17:16:07+00:00" />
+  <meta name="dc.date" content="2023-09-15" />
+  <meta name="citation_publication_date" content="2023-09-15" />
+  <meta property="article:published_time" content="2023-09-15" />
+  <meta name="dc.modified" content="2023-09-15T12:36:34+00:00" />
+  <meta property="article:modified_time" content="2023-09-15T12:36:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/ea8347df73961571069b404f49b16d8f50900e4d/))
+([URL](https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@ea8347d](https://github.com/hwong23/e-service/tree/ea8347df73961571069b404f49b16d8f50900e4d)
-del September 12, 2023.
+[hwong23/e-service@9c21716](https://github.com/hwong23/e-service/tree/9c21716c53f3b79e2dd46b2950cdb3714c191d95)
+del September 15, 2023.
 </em></small>
 
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|ea8347d del 12 Sep 2023                              |
+|Versión|9c21716 del 15 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -149,9 +149,10 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 - Ejercer los lineamientos y políticas de gobierno​ SOA/TI del Fondo
 
 #### Actores
-- Áreas de negocio críticas​
+- Áreas de negocio misionales u operativas
 - Oficina de arquitectura FNA​
-- Consultores y equipo de apoyo​
+- Comité de arquitectura FNA​
+- Consultores del FNA, proveedores tecnológicos y fábricas de software
 	
 #### Impacto / Beneficio
 - Reducción en tiempos y costos asociados a las soluciones SOA​
@@ -210,64 +211,9 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
 <br>
 
 
-### PRY01. Implementación de la Oficina de Arquitectura y Gobierno del FNA
-#### Objetivo
-Definir y vigilar las relaciones entre las áreas de negocio, que para este proyecto son la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA; definir y vigilar la implementación y diseño de las soluciones SOA, servicios y herramientas de software, en cumplimiento de la nueva arquitectura de referencia 2.0 del FNA. Este gobierno SOA debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de dichas soluciones.
-
-<br>
-
-#### Alcance
-- Crear e institucionalizar el comité de gobierno SOA del FNA
-- Definir los roles y responsabilidades para la instalación del comité
-- Elaborar los lineamientos, políticas  y procesos de gobierno SOA del FNA
-- Medir las decisiones de gobierno sobre la arquitectura y el proceso de desarrollo de soluciones SOA
-
-#### Actividades
-1. Generar lineamientos y políticas de gobierno SOA
-1. Aplicar y fortalecer gobierno SOA en el FNA
-1. Relacionar el gobierno SOA con gestión de modelos y repositorio de arquitectura del FNA
-1. Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA
-
-#### Fases y Entregables
-- Fase 0. Definición
-    - PR01. Detalle de los ítems de arquitectura impactados por el proyecto
-    - PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA
-- Fase 1. Definición gobierno
-    - PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-    - PR03. Diseño de los procesos y responsabilidades del comité de gobierno
-- Fase 2. Ejecución gobierno. Incremento 1
-    - PR04. Definición de roles y responsabilidades y selección e instalación del comité
-    - PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos
-- Fase 3. Ejecución gobierno. Incremento 2
-    - PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
-- Fase 4. Integración gobierno
-    - PR07. Métricas de efectividad del gobierno
-
-#### Plazo de Ejecución
-3 meses, iniciado a partir del mes de mayo del 2023 (ver Plan de Ejecución PRY01, más adelante).
-
-#### Impacto / Beneficio
-- Lineamientos claros, libres de ambigüedad que permitan guiar y medir la evolución de la arquitectura SOA 2.0 en la organización
-- Fuente única de planeación y control de las soluciones de software del FNA
-- Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​
-
-#### Actores
-- Comité de gobierno del FNA
-- Oficina de arquitectura FNA
-- Comité asesor 
-
-#### Consideraciones
-- MEGA: depósito centralizado de arquitectura del FNA
-- Depósito documental
-- Herramientas de gestión de arquitectura
-- Herramientas de gestión de proyectos de tecnología
-
-<br>
-
-
 ## Equipo Base del Proyecto
-|   |                                                                                            | Rol / Trabajo                                                                                    | Dedicación |
-|---|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------|
+|   | Recurso / ROL          | Dedicación |
+|---|:-----------------------|:-----------|
 | 1 | Especialista SOA 1                                                                         | Jefe Oficina de Arquitectura (FNA). Calidad del proyecto. Referente para montaje de gobierno SOA, modelamiento procesos, software y servicios  | 100%       |
 |   | **Nota**: es condición del presente proyecto que este recurso sea interno FNA, por tanto, no entra en la propuesta económica presentada más adelante|                                   |            |
 | 2 | Especialista Arquitectura Aplicaciones (Stefanini)              | Referente para diseño de servicios y software, modelamiento procesos, software y servicios                            | 100%       |
@@ -298,19 +244,6 @@ El plazo de ejecución, contado desde la firma del contrato y de la autorizació
     180 hrs/mes * 5 meses = 910 hrs / hombre proyecto
 
 <br>
-
-
-## Componentes de la Arquitectura FNA Impactados
-Los aumentos de versión de la arquitectura SOA del FNA implica ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
-
-Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implementación de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems no presentes en este ejemplo pueden ser impactados).
-
-![](images/vistaitemsarq.png)
-
-[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
-
-<br>
-
 
 
 ## Lista de Fases y Entregables de la Propuesta
@@ -373,11 +306,8 @@ Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de v
 
 ## Consideraciones
 1. Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.
-1. Mega es la herramienta de gestión del repositorio continuo de arquitectura de referencia del FNA.
+1. Mega es la herramienta de gestión del repositorio continuo de arquitectura del FNA.
 1. Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.
-
-
-## EDT
 
 
 ## Referencias {.page_break_before}
