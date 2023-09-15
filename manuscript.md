@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-15" />
   <meta name="citation_publication_date" content="2023-09-15" />
   <meta property="article:published_time" content="2023-09-15" />
-  <meta name="dc.modified" content="2023-09-15T12:36:34+00:00" />
-  <meta property="article:modified_time" content="2023-09-15T12:36:34+00:00" />
+  <meta name="dc.modified" content="2023-09-15T13:33:05+00:00" />
+  <meta property="article:modified_time" content="2023-09-15T13:33:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/9c21716c53f3b79e2dd46b2950cdb3714c191d95/))
+([URL](https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@9c21716](https://github.com/hwong23/e-service/tree/9c21716c53f3b79e2dd46b2950cdb3714c191d95)
+[hwong23/e-service@25ae3d8](https://github.com/hwong23/e-service/tree/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07)
 del September 15, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|9c21716 del 15 Sep 2023                              |
+|Versión|25ae3d8 del 15 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -170,8 +170,7 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 
 
 ## Alcance de la Propuesta Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA
-Para el período 2023, la implementación de la Oficina de arquitectura FNA impactará las capacidades Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2)
-del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicaciones y servicios_ (restricción de alcance), hasta llevarlas a la versión 1.3 respectivamente. Este alcance implica la planeación, ejecución y seguimiento de los actividades y objetos siguientes:
+La Oficina de arquitectura FNA, una vez puesta en marcha, impactará las capacidades determinadas en los diagnósticos de Fase I y II, E-Service: Gestión de tecnología (CAP1) y Entrega de productos y funcionalidades (CAP2) del FNA (fuente, E-Service Fase I) en sus versiones de origen 1.0, _en el dominio de aplicaciones y servicios_ (restricción de alcance). El resultado de este impacto es incrementar estas capacidades hasta llevarlas a la versión 1.3 respectivamente. Este alcance implica, además, la planeación, ejecución y seguimiento de los actividades y objetos siguientes:
 
 - Gestionar la transformación mediada por arquitecturas del FNA
 - Activar el repositorio de arquitectura como base de toma de decisiones de cambio
@@ -183,7 +182,7 @@ del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicacion
 
 <br>
 
-El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, que busca impactar a las capacidades hasta llevarlas a la versión 1.3 es el ilustrado a continuación.
+El alcance consignado aquí, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, el cual busca impactar a las capacidades hasta llevarlas a la versión 1.3 es el ilustrado a continuación.
 
 ![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
 
@@ -191,19 +190,19 @@ El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de
 
 
 ## Plan General de la Propuesta
-El plan general de referencia de de la implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA, 2023 está resumido en la siguiente imagen. Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos a aceptación.
+El plan general de referencia plantea la implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA del 2023, se encuentra resumido en la siguiente imagen. Nota: los plazos en la imagen son referenciales. Sirve únicamente para indicar duración aproximada en cuanto que son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance deberán ser determinados previo a su ejecución y presentados a aceptación.
 
 ![Vista de tiempo de ejecución del proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA. E-Service Fase III, objeto de esta propuesta. Septiembre, 2023.](images/plangeneral.png){#fig:plangeneral.png width=}
 
-La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
+La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo que estructuran este plan: Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
 
 <br>
 
 ### Fases del proyecto / Organización de trabajo
-El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y 4 etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
+El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y 4 etapas de tiempo (trimestres, en la imagen) distribuidas a lo largo de un (1) año de ejecución (o 12 meses contractuales). Las etapas del plan demarcan la ejecuta de las líneas de trabajo del plan y darán como resultado los incrementos tanto en las capacidades indicadas en el alcance como en la arquitectura del FNA.
 
 ### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses, o su equivalente en horas totales.
+El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses (o un año contractual), o su equivalente en horas totales.
 
     horas hombre: 180 hrs/mes * 12 meses = 2.160 hrs/hombre
     horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto
