@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-09-15'
+date-meta: '2023-09-18'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-15" />
-  <meta name="citation_publication_date" content="2023-09-15" />
-  <meta property="article:published_time" content="2023-09-15" />
-  <meta name="dc.modified" content="2023-09-15T13:33:05+00:00" />
-  <meta property="article:modified_time" content="2023-09-15T13:33:05+00:00" />
+  <meta name="dc.date" content="2023-09-18" />
+  <meta name="citation_publication_date" content="2023-09-18" />
+  <meta property="article:published_time" content="2023-09-18" />
+  <meta name="dc.modified" content="2023-09-18T15:51:29+00:00" />
+  <meta property="article:modified_time" content="2023-09-18T15:51:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07/))
+([URL](https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@25ae3d8](https://github.com/hwong23/e-service/tree/25ae3d8704ceb0ac6d26c6eb4f5f849de40f2a07)
-del September 15, 2023.
+[hwong23/e-service@935d3db](https://github.com/hwong23/e-service/tree/935d3db73ea3209ab7ab05e05cedf347c9f087c3)
+del September 18, 2023.
 </em></small>
 
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|25ae3d8 del 15 Sep 2023                              |
+|Versión|935d3db del 18 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -124,7 +124,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 ## La Oficina de Arquitectura del FNA
 Es el equipo de trabajo, conforme tanto al gobierno SOA como al gobierno TIC del FNA a cargo de la creación de los diseños y la dirección de las implementaciones y transiciones que involucren soluciones de sistemas de información y aplicaciones, servicios y componentes de negocio, información negocio, y de tecnologías de infraestructura local y remota (nube). En general, la oficina de arquitectura gestiona el conocimiento de la arquitectura actual del FNA y la continuidad de la arquitectura de referencia.​
 
-La importancia de la oficina de arquitectura está dada en tanto que materializa al gobierno del FNA mediante la ejecución de sus funciones y responsabilidades. Además, realiza la necesaria articulación con otros contextos, áreas y proveedores del FNA.
+La importancia de la oficina de arquitectura está dada en tanto que materializa al gobierno del FNA, es el órgano ejecutivo de este, mediante la puesta en marcha de las funciones propias de la oficina y de las responsabilidades que gobierno le demanda. Además, realiza la necesaria articulación con otros contextos, áreas y proveedores del FNA.
 
 En la imagen siguiente muestra la colaboración de la Oficina de Arquitectura con el modelo de gobierno del FNA (2023).
 
@@ -136,7 +136,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 
 
-## Justificación de la Propuesta
+## Justificación de la Propuesta Implementación de la Oficina de Arquitectura y Gobierno del FNA
 La implementación de la oficina de arquitectura del FNA plantea la sistematización de la evolución de los sistemas y componentes de la empresa en tanto relevantes a la estrategia  TI del FNA. En este sentido, la oficina promueve a los sistemas de información del FNA, junto con sus dependencias, hacia diseños y tecnologías determinadas en la arquitectura de referencia (la arquitectura de referencia del FNA fue desarrollada por esta consultoría, E-Service, Fase II, 2023), la cual incluye estilos de arquitectura orientada a eventos y tecnologías afines a esta, como microservicios, API internas y externas, infraestructura Nube, entre otras.​
 
 #### Oportunidades / Retos
@@ -162,15 +162,15 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 	
 #### Tecnología
 - Repositorio de Arquitectura, Mega Hopex
-- Herramientas de modelado colaborativo, Archimate
-- Herramientas de generación de documentos, jArchi
+- Lenguaje de creción de arquitecturas, Archimate 2.0++
+- Herramientas de modelado colaborativo de arquitecturas, Archi, Git
+- Herramientas de generación de documentos, Mega Hopex
 
 <br>
 
 
-
 ## Alcance de la Propuesta Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA
-La Oficina de arquitectura FNA, una vez puesta en marcha, impactará las capacidades determinadas en los diagnósticos de Fase I y II, E-Service: Gestión de tecnología (CAP1) y Entrega de productos y funcionalidades (CAP2) del FNA (fuente, E-Service Fase I) en sus versiones de origen 1.0, _en el dominio de aplicaciones y servicios_ (restricción de alcance). El resultado de este impacto es incrementar estas capacidades hasta llevarlas a la versión 1.3 respectivamente. Este alcance implica, además, la planeación, ejecución y seguimiento de los actividades y objetos siguientes:
+Para el período 2023, la implementación de la Oficina de arquitectura FNA impactará las capacidades Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2) del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicaciones y servicios_ (restricción de alcance), hasta llevarlas a la versión 1.3 respectivamente. Por lo anterior, el alcance de la presente propuesta implica a la planeación, ejecución y seguimiento de los actividades tendientes a la implementación de la oficina de arquitectura del FNA, realizada mediante los objetos siguientes:
 
 - Gestionar la transformación mediada por arquitecturas del FNA
 - Activar el repositorio de arquitectura como base de toma de decisiones de cambio
@@ -182,30 +182,39 @@ La Oficina de arquitectura FNA, una vez puesta en marcha, impactará las capacid
 
 <br>
 
-El alcance consignado aquí, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, el cual busca impactar a las capacidades hasta llevarlas a la versión 1.3 es el ilustrado a continuación.
+El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, que busca impactar a las capacidades hasta llevarlas a la versión 1.3, es el ilustrado a continuación.
 
 ![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
 
 <br>
 
+El alcance arriba consignado es rotativo por períodos. Esto es, el alcance indicado se repite de igual manera en cada períodos de corte, que en suma es la duración del proyecto propuesto. Para esta propuesta estos períodos son trimestrales como lo indica la imagen arriba. Por tanto, el alcance rotativo de este proyecto se repite en períodos trimestrales. Esta disposición del alcance permite la gestión al final de cada período del desempeño del proyecto, y por ende, de la oficina de arquitectura del FNA, objeto del proyecto.
+
+<br>
+
 
 ## Plan General de la Propuesta
-El plan general de referencia plantea la implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA del 2023, se encuentra resumido en la siguiente imagen. Nota: los plazos en la imagen son referenciales. Sirve únicamente para indicar duración aproximada en cuanto que son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance deberán ser determinados previo a su ejecución y presentados a aceptación.
+El plan general de referencia de implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA, 2023, lo hemos organizado en dos componentes, o líneas de trabajo en adelante, que responden directamente a las capacidades del FNA a impactar por la propuesta. Estos es, las capacidades CAP01 Gestión de tecnología, y CAP02 Entrega de productos y funcionalidades del FNA (fuente, E-Service Fase II). Estas líneas de trabajo toman el nombre de las capacidades. La imagen siguiente resumen todo el plan, las capacidades y las líneas de trabajo relacionadas. 
+
+    Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos a aceptación.
 
 ![Vista de tiempo de ejecución del proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA. E-Service Fase III, objeto de esta propuesta. Septiembre, 2023.](images/plangeneral.png){#fig:plangeneral.png width=}
 
-La planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las dos líneas de trabajo que estructuran este plan: Oficina Arquitectura y Transformación Arquitectura, azul y verde en la imagen. Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
+Adicionalmente, la planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura (azul y verde en la imagen). Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
 
 <br>
 
 ### Fases del proyecto / Organización de trabajo
-El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y 4 etapas de tiempo (trimestres, en la imagen) distribuidas a lo largo de un (1) año de ejecución (o 12 meses contractuales). Las etapas del plan demarcan la ejecuta de las líneas de trabajo del plan y darán como resultado los incrementos tanto en las capacidades indicadas en el alcance como en la arquitectura del FNA.
+El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y cuatro (4) etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
 
 ### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses (o un año contractual), o su equivalente en horas totales.
+El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses calendario, no horas hombre. Los meses de trabajo en medida de horas es el siguiente:
 
-    horas hombre: 180 hrs/mes * 12 meses = 2.160 hrs/hombre
-    horas proyecto: 2.160 hrs/hombre * 3 recursos equipo base = 6.840 hrs/proyecto
+    horas recurso 12 meses: 180 hrs/mes * 12 meses = 2.160 hrs proyecto
+    horas recursos 12 meses: 2.160 hrs/mes * 3 recursos, equipo base = 6.840 hrs proyecto
+    corte mensual horas recursos total mes: 6.840 hrs proyecto / 12 = 570 horas mes proyecto
+
+Para efectos de facturación mensual, el trabajo en horas de la oficina asciende a 570 horas por mes durante 12 meses de duración del proyecto propuesto.
 
 <br>
 
