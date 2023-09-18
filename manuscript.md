@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-18" />
   <meta name="citation_publication_date" content="2023-09-18" />
   <meta property="article:published_time" content="2023-09-18" />
-  <meta name="dc.modified" content="2023-09-18T15:51:29+00:00" />
-  <meta property="article:modified_time" content="2023-09-18T15:51:29+00:00" />
+  <meta name="dc.modified" content="2023-09-18T16:30:54+00:00" />
+  <meta property="article:modified_time" content="2023-09-18T16:30:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/935d3db73ea3209ab7ab05e05cedf347c9f087c3/))
+([URL](https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@935d3db](https://github.com/hwong23/e-service/tree/935d3db73ea3209ab7ab05e05cedf347c9f087c3)
+[hwong23/e-service@0eba90b](https://github.com/hwong23/e-service/tree/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9)
 del September 18, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|935d3db del 18 Sep 2023                              |
+|Versión|0eba90b del 18 Sep 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -208,11 +208,19 @@ Adicionalmente, la planeación general presenta la evolución de la arquitectura
 El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y cuatro (4) etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
 
 ### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses calendario, no horas hombre. Los meses de trabajo en medida de horas es el siguiente:
+El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 12 meses calendario, no horas hombre. 
 
-    horas recurso 12 meses: 180 hrs/mes * 12 meses = 2.160 hrs proyecto
-    horas recursos 12 meses: 2.160 hrs/mes * 3 recursos, equipo base = 6.840 hrs proyecto
-    corte mensual horas recursos total mes: 6.840 hrs proyecto / 12 = 570 horas mes proyecto
+Los meses de trabajo en medida de horas es el siguiente:
+
+| Recurso           | Duración |
+|-------------------|----------|
+| Horas recurso 12 meses | 180 hrs/mes * 12 meses = 2.160 hrs proyecto |
+| Horas recursos 12 meses | 2.160 hrs/mes * 3 recursos, equipo base = 6.840 hrs proyecto |
+| Corte mensual horas recursos total mes | 6.840 hrs proyecto / 12 = 570 horas mes proyecto |
+
+Table: Plazo de ejecución. Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA. Meses de trabajo en medida de horas. {#tbl:tblduracion-id}
+
+<br>
 
 Para efectos de facturación mensual, el trabajo en horas de la oficina asciende a 570 horas por mes durante 12 meses de duración del proyecto propuesto.
 
