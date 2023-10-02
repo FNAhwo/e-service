@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-09-18'
+date-meta: '2023-10-02'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-09-18" />
-  <meta name="citation_publication_date" content="2023-09-18" />
-  <meta property="article:published_time" content="2023-09-18" />
-  <meta name="dc.modified" content="2023-09-18T16:30:54+00:00" />
-  <meta property="article:modified_time" content="2023-09-18T16:30:54+00:00" />
+  <meta name="dc.date" content="2023-10-02" />
+  <meta name="citation_publication_date" content="2023-10-02" />
+  <meta property="article:published_time" content="2023-10-02" />
+  <meta name="dc.modified" content="2023-10-02T18:18:56+00:00" />
+  <meta property="article:modified_time" content="2023-10-02T18:18:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9/))
+([URL](https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@0eba90b](https://github.com/hwong23/e-service/tree/0eba90b5a3f2c57d8b08e1af8a997bcb503c71c9)
-del September 18, 2023.
+[hwong23/e-service@fc63e6f](https://github.com/hwong23/e-service/tree/fc63e6f7157420b7ff9076e2ef621196e00cb4f7)
+del October 2, 2023.
 </em></small>
 
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|0eba90b del 18 Sep 2023                              |
+|Versión|fc63e6f del 02 Oct 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -122,10 +122,10 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 
 
 ## La Oficina de Arquitectura del FNA
-Es el equipo de trabajo, conforme tanto al gobierno SOA como al gobierno TIC del FNA a cargo de la creación de los diseños y la dirección de las implementaciones y transiciones que involucren soluciones de sistemas de información y aplicaciones, servicios y componentes de negocio, información negocio, y de tecnologías de infraestructura local y remota (nube). En general, la oficina de arquitectura gestiona el conocimiento de la arquitectura actual del FNA y la continuidad de la arquitectura de referencia.​
+En el contexto de la presente propuesta la oficina de arquitectura es el equipo de trabajo, conforme tanto al gobierno SOA como al gobierno TIC del FNA, a cargo de la creación de los diseños y la dirección de las implementaciones y transiciones que involucren soluciones de sistemas de información y aplicaciones, servicios y componentes de negocio, información de negocio, y de tecnologías de infraestructura local y remota (nube). En general, la oficina de arquitectura gestiona el conocimiento de la arquitectura actual del FNA y la continuidad de la arquitectura de referencia.​
 
-La importancia de la oficina de arquitectura está dada en tanto que materializa al gobierno del FNA, es el órgano ejecutivo de este, mediante la puesta en marcha de las funciones propias de la oficina y de las responsabilidades que gobierno le demanda. Además, realiza la necesaria articulación con otros contextos, áreas y proveedores del FNA.
-
+El objetivo principal de la oficina de arquitectura es materializar el gobierno del FNA Mediante la puesta en marcha de las funciones propias de la oficina y de las responsabilidades que gobierno FNA le demanda. Esto se extiende hacia las articulaciones necesarias con otros contextos, áreas y proveedores del FNA. 
+ 
 En la imagen siguiente muestra la colaboración de la Oficina de Arquitectura con el modelo de gobierno del FNA (2023).
 
 ![Oficina de Arquitectura en contexto del Modelo de Gobierno SOA del FNA, emisión inicial. Gestiona la evolución de las arquitecturas del FNA.](images/modelo-gob.png){#fig: width=}
@@ -137,7 +137,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 
 ## Justificación de la Propuesta Implementación de la Oficina de Arquitectura y Gobierno del FNA
-La implementación de la oficina de arquitectura del FNA plantea la sistematización de la evolución de los sistemas y componentes de la empresa en tanto relevantes a la estrategia  TI del FNA. En este sentido, la oficina promueve a los sistemas de información del FNA, junto con sus dependencias, hacia diseños y tecnologías determinadas en la arquitectura de referencia (la arquitectura de referencia del FNA fue desarrollada por esta consultoría, E-Service, Fase II, 2023), la cual incluye estilos de arquitectura orientada a eventos y tecnologías afines a esta, como microservicios, API internas y externas, infraestructura Nube, entre otras.​
+La implementación de la oficina de arquitectura del FNA plantea la sistematización de la evolución de los sistemas y componentes de la empresa relevantes para el contexto de la oficina a la estrategia TI del FNA. En este sentido, la oficina promueve a los sistemas de información del FNA, junto con sus dependencias, hacia diseños y tecnologías determinadas en la arquitectura de referencia (la arquitectura de referencia del FNA fue desarrollada por esta consultoría, E-Service, Fase II, 2023), la cual incluye estilos de arquitectura orientada a eventos y tecnologías afines a esta, como microservicios, API internas y externas, infraestructura Nube, entre otras.​
 
 #### Oportunidades / Retos
 - Gestionar la transformación mediada por arquitecturas del FNA
@@ -170,7 +170,7 @@ La implementación de la oficina de arquitectura del FNA plantea la sistematizac
 
 
 ## Alcance de la Propuesta Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA
-Para el período 2023, la implementación de la Oficina de arquitectura FNA impactará las capacidades Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2) del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicaciones y servicios_ (restricción de alcance), hasta llevarlas a la versión 1.3 respectivamente. Por lo anterior, el alcance de la presente propuesta implica a la planeación, ejecución y seguimiento de los actividades tendientes a la implementación de la oficina de arquitectura del FNA, realizada mediante los objetos siguientes:
+Para el período 2023, la implementación de la Oficina de arquitectura FNA impactará las capacidades Gestión de tecnología (CAP1) y de Entrega de productos y funcionalidades (CAP2) del FNA (fuente, E-Service Fase I) versión origen, _en el dominio de aplicaciones y servicios_ (restricción de alcance), hasta llevarlas a la versión 1.3 respectivamente. Por lo anterior, el alcance de la presente propuesta implica a la planeación, ejecución y seguimiento de las actividades tendientes a la implementación de la oficina de arquitectura del FNA, realizada mediante los siguientes objetos:
 
 - Gestionar la transformación mediada por arquitecturas del FNA
 - Activar el repositorio de arquitectura como base de toma de decisiones de cambio
@@ -182,13 +182,15 @@ Para el período 2023, la implementación de la Oficina de arquitectura FNA impa
 
 <br>
 
-El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, que busca impactar a las capacidades hasta llevarlas a la versión 1.3, es el ilustrado a continuación.
+El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, busca impactar a las capacidades hasta llevarlas a la versión 1.3. Dicho alcance es el ilustrado a continuación.
 
 ![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
 
+    Nota: para mejor apreciación, esta propuesta incluye aparte las imágenes anexas al documento.
+
 <br>
 
-El alcance arriba consignado es rotativo por períodos. Esto es, el alcance indicado se repite de igual manera en cada períodos de corte, que en suma es la duración del proyecto propuesto. Para esta propuesta estos períodos son trimestrales como lo indica la imagen arriba. Por tanto, el alcance rotativo de este proyecto se repite en períodos trimestrales. Esta disposición del alcance permite la gestión al final de cada período del desempeño del proyecto, y por ende, de la oficina de arquitectura del FNA, objeto del proyecto.
+El alcance arriba consignado es rotativo por períodos. Es decir, el alcance indicado se aplica de igual manera en cada uno de los períodos de corte de la ejecución, y que en suma es la duración del proyecto presente. Para esta propuesta estos períodos son trimestrales tal como lo indica la imagen arriba. Por tanto, el alcance rotativo de este proyecto se repite en períodos trimestrales. Esta disposición del alcance permite la gestión del desempeño del proyecto al final de cada período. Todo lo anterior se traduce en la evaluación de desempeño de la oficina de arquitectura del FNA, objeto del proyecto.
 
 <br>
 
@@ -196,13 +198,29 @@ El alcance arriba consignado es rotativo por períodos. Esto es, el alcance indi
 ## Plan General de la Propuesta
 El plan general de referencia de implementación de la actual propuesta, proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA, 2023, lo hemos organizado en dos componentes, o líneas de trabajo en adelante, que responden directamente a las capacidades del FNA a impactar por la propuesta. Estos es, las capacidades CAP01 Gestión de tecnología, y CAP02 Entrega de productos y funcionalidades del FNA (fuente, E-Service Fase II). Estas líneas de trabajo toman el nombre de las capacidades. La imagen siguiente resumen todo el plan, las capacidades y las líneas de trabajo relacionadas. 
 
-    Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos a aceptación.
+    Nota: los plazos en la imagen son referenciales. Únicamente para indicar duración aproximada en cuanto son elementos para evaluar esta propuesta. Los plazos reales de cada fase del alcance, por separado, serán determinados previo a su ejecución y presentamos para aceptación.
 
 ![Vista de tiempo de ejecución del proyecto Implementación de la Oficina de Arquitectura y Gobierno del FNA. E-Service Fase III, objeto de esta propuesta. Septiembre, 2023.](images/plangeneral.png){#fig:plangeneral.png width=}
 
 Adicionalmente, la planeación general presenta la evolución de la arquitectura del FNA a la par del desarrollo de las líneas de trabajo del plan, Oficina Arquitectura y Transformación Arquitectura (azul y verde en la imagen). Si bien cada una de las dos líneas de trabajo son independientes, contienen fases, fechas, actividades y productos interrelacionados. 
 
 <br>
+
+### Compromisos y Entregables del Plan de Proyecto
+Para el particular del Plan General presentado arriba lo pertinente es determinar las obligaciones del contratista que hace las veces de productos de trabajo a razón de que la oficina de arquitectura opera en modalidad Por Demanda.
+
+La oficina de arquitectura del FNA, objeto de esta propuesta, cumplirá como mínimo con las obligaciones generales siguientes:
+
+1. Elaborar y presentar un plan de trabajo junto con su aseguramiento de la calidad al inicio de los períodos de actividades consignados en el alcance del proyecto.
+1. Elaborar y presentar al supervisor del contrato el detalle de la metodología que va a utilizar, las cuales deben apoyarse en estándares y arquitecturas acordados entre las partes.
+1. Acordar con la gerencia de tecnología FNA la estructura y contenidos, junto con los criterios de aceptación, productos de software, componentes tecnológicos, y gestión del control de cambios de los entregables realizados durante los períodos de actividades consignados en el alcance del proyecto.
+1. Disponer oportunamente de acciones de mitigación de riesgos preventivas y correctivas a lo largo del desarrollo del contrato.
+1. Presentar para aprobación de la gerencia de tecnología del FNA los entregables, productos de software y demás componentes tecnológicos registrados en las obligaciones a cargo de los implementadores.
+1. Asegurar la calidad de los procesos de ingeniería a su cargo, según los lineamientos del Ministerio de Tecnologías de la Información y Comunicaciones (MinTIC), y las prácticas y estándares del gobierno de arquitectura del FNA.
+1. Ejecutar las acciones que gobierno de arquitectura demande a la oficina.
+1. Proponer mejoras para aprobación de la gerencia de tecnología del FNA, cuando apliquen, a los documentos e información a cargo de la oficina de arquitectura.
+1. Responder por aquellos actos que causen perjuicio a la gerencia de tecnología del FNA que le sean imputables.
+
 
 ### Fases del proyecto / Organización de trabajo
 El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y cuatro (4) etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
