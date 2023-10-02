@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-10-02" />
   <meta name="citation_publication_date" content="2023-10-02" />
   <meta property="article:published_time" content="2023-10-02" />
-  <meta name="dc.modified" content="2023-10-02T18:31:13+00:00" />
-  <meta property="article:modified_time" content="2023-10-02T18:31:13+00:00" />
+  <meta name="dc.modified" content="2023-10-02T18:41:45+00:00" />
+  <meta property="article:modified_time" content="2023-10-02T18:41:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/bde447ddbea82e9a4697ac5eeafc571ae7b38eaf/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/bde447ddbea82e9a4697ac5eeafc571ae7b38eaf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/bde447ddbea82e9a4697ac5eeafc571ae7b38eaf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/))
+([URL](https://hwong23.github.io/e-service/v/bde447ddbea82e9a4697ac5eeafc571ae7b38eaf/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@398e092](https://github.com/hwong23/e-service/tree/398e0925cbc13e54009b001bc3a4b76c63ecbf8d)
+[hwong23/e-service@bde447d](https://github.com/hwong23/e-service/tree/bde447ddbea82e9a4697ac5eeafc571ae7b38eaf)
 del October 2, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|398e092 del 02 Oct 2023                              |
+|Versión|bde447d del 02 Oct 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -221,6 +221,7 @@ La oficina de arquitectura del FNA, objeto de esta propuesta, cumplirá como mí
 1. Proponer mejoras para aprobación de la gerencia de tecnología del FNA, cuando apliquen, a los documentos e información a cargo de la oficina de arquitectura.
 1. Responder por aquellos actos que causen perjuicio a la gerencia de tecnología del FNA que le sean imputables.
 
+<br>
 
 ### Fases del proyecto / Organización de trabajo
 El proyecto propuesto (Implementación de la Oficina de Arquitectura y Gobierno del FNA) está organizado en dos (2) líneas de trabajo (horizontal en el diagrama plan general) y cuatro (4) etapas de tiempo (trimestres, en la imagen). Cada etapa ejecuta las líneas de trabajo y como resultado producirá incrementos tanto en capacidades indicadas en el alcance, como en la arquitectura del FNA.
@@ -268,6 +269,9 @@ Para efectos de facturación mensual, el trabajo en horas de la oficina asciende
 1. Las restricciones de tiempo, esfuerzo y productos de los proyectos del alcance de esta propuesta deben ser precisadas y aprobadas en la fases de levantamiento (fase 0) respectivas.
 1. Mega es la herramienta de gestión del repositorio continuo de arquitectura del FNA.
 1. Los diseños y modelos de arquitectura deben seguir el estándar XMI, por tanto, otras herramientas que se adhieran este podrán complementar el repositorio de arquitectura.
+1. Las obligaciones de la oficina de arquitectura FNA, objeto de esta propuesta, es†ean descritas en el tema [Compromisos y Entregables del Plan de Proyecto].
+
+<br>
 
 
 ## Referencias {.page_break_before}
