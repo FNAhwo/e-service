@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-10-02" />
   <meta name="citation_publication_date" content="2023-10-02" />
   <meta property="article:published_time" content="2023-10-02" />
-  <meta name="dc.modified" content="2023-10-02T18:18:56+00:00" />
-  <meta property="article:modified_time" content="2023-10-02T18:18:56+00:00" />
+  <meta name="dc.modified" content="2023-10-02T18:29:38+00:00" />
+  <meta property="article:modified_time" content="2023-10-02T18:29:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/fc63e6f7157420b7ff9076e2ef621196e00cb4f7/))
+([URL](https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@fc63e6f](https://github.com/hwong23/e-service/tree/fc63e6f7157420b7ff9076e2ef621196e00cb4f7)
+[hwong23/e-service@43872d2](https://github.com/hwong23/e-service/tree/43872d2d994935ec6c67fb6cc7fda70fb720abf7)
 del October 2, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|fc63e6f del 02 Oct 2023                              |
+|Versión|43872d2 del 02 Oct 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -184,9 +184,9 @@ Para el período 2023, la implementación de la Oficina de arquitectura FNA impa
 
 El alcance de la propuesta actual, Propuesta de Implementación de la Oficina de Arquitectura y Gobierno del FNA, busca impactar a las capacidades hasta llevarlas a la versión 1.3. Dicho alcance es el ilustrado a continuación.
 
-![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023.)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
+![Vista de evolución de capacidades, versión 1.3, dentro del alcance del proyecto de implementación de la oficina de arquitectura, E-Service, Fase III, 2023 (ppstaalcance.png).)](images/ppstaalcance.png){#fig:ppstaalcance.png width=}
 
-    Nota: para mejor apreciación, esta propuesta incluye aparte las imágenes anexas al documento.
+    Nota: para mejor apreciación, esta propuesta incluye aparte las imágenes anexas al documento. La referencia al archivo está debajo, en la descripción de cada imagen.
 
 <br>
 
