@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-10-02" />
   <meta name="citation_publication_date" content="2023-10-02" />
   <meta property="article:published_time" content="2023-10-02" />
-  <meta name="dc.modified" content="2023-10-02T18:29:38+00:00" />
-  <meta property="article:modified_time" content="2023-10-02T18:29:38+00:00" />
+  <meta name="dc.modified" content="2023-10-02T18:31:13+00:00" />
+  <meta property="article:modified_time" content="2023-10-02T18:31:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/e-service/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/e-service/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/e-service/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ tablenos-caption-name: Tabla
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/e-service/v/43872d2d994935ec6c67fb6cc7fda70fb720abf7/))
+([URL](https://hwong23.github.io/e-service/v/398e0925cbc13e54009b001bc3a4b76c63ecbf8d/))
 está basada en el resultado de la consultoría de arquitectura E-Service, Fase II, 2023,
-[hwong23/e-service@43872d2](https://github.com/hwong23/e-service/tree/43872d2d994935ec6c67fb6cc7fda70fb720abf7)
+[hwong23/e-service@398e092](https://github.com/hwong23/e-service/tree/398e0925cbc13e54009b001bc3a4b76c63ecbf8d)
 del October 2, 2023.
 </em></small>
 
@@ -110,7 +110,7 @@ Propuesta de implementación de la oficina de arquitectura del FNA con base en l
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|43872d2 del 02 Oct 2023                              |
+|Versión|398e092 del 02 Oct 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -256,80 +256,6 @@ Para efectos de facturación mensual, el trabajo en horas de la oficina asciende
 
 <br>
 
-
-
-#### Plan de Trabajo
-Organización de trabajo: El proyecto 1 (PRY01) está organizado en 4 fases. La fase de Levantamiento (LVT) presentada abajo en la imagen determina en detalle los elementos de gobierno y de la arquitectura que se evolucionarán en los dos incrementos planteados en los proyectos del alcance consignado arriba, y que se corresponden con las fases 2 y 3 de la plan siguiente.
-
-![](images/pry1gobierno.jpg)
-
-[Imagen.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
-
-#### Fases del proyecto
-La fase 1, Definición del Gobierno, diseña y determina los procesos de gestión de mejoramiento de la arquitectura SOA y la vigilancia de riesgo técnico que regirán en adelante en el FNA. Estos mismo procesos de gobierno aplican en las fases sucesivas del proyecto.
-
-Las fases 2 y 3, implantan el gobierno anteriormente definido, e impactan directamente a los modelos y las decisiones de la arquitectura SOA del FNA, esto es, sistemas de información, herramientas de software, servicios, o componentes seleccionados en la fase Levantamiento.
-
-Finalmente, la fase 4 se encarga de ejecutar los indicadores de medición de desempeño, tanto del gobierno como de los incrementos de evolución de la arquitectura de referencia 2.0 (ver resultados del diagnóstico E-Service, 2022).
-
-#### Plazo de Ejecución
-El plazo de ejecución, contado desde la firma del contrato y de la autorización de todas las partes, es de 5 meses, o su equivalente en horas
-
-    180 hrs/mes * 5 meses = 910 hrs / hombre proyecto
-
-<br>
-
-
-## Lista de Fases y Entregables de la Propuesta
-|        | PRY01. Gobierno SOA                                                                    | Documentación |
-|--------|----------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
-|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
-| Fase 1 | PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes  |               |
-|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
-| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
-|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
-| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |               |
-| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |               |
-| A      | Generar lineamientos y políticas de gobierno SOA                                       |               |
-|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |               |
-|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |               |
-
-<br>
-
-|        | PRY02. Arquitectura Referencia 2.0                                                             | Documentación |
-|--------|------------------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                          |               |
-|        | PR010.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                             |               |
-| Fase 1 | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes          |               |
-|        | PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología  ​ |               |
-| Fase 2 | PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                     |               |
-|        | PR14. Administración de las transiciones hacia la arquitectura versión 2.0                     |               |
-| Fase 3 | PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación          |               |
-| Fase 4 | PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura                  |               |
-|        | PR17. Ítems de arquitectura incrementados en ejecución                                         |               |
-| A      | Acelerar el desarrollo de las arquitecturas de solución​                                        |               |
-|        | Relacionar las implementaciones con las áreas de negocio y TI​                                  |               |
-|        | Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo         |               |
-|        | Documentación técnica en el depósito de arquitectura institucional​                             |               |
-
-<br>
-
-|        | PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service                                 | Documentación |
-|--------|-------------------------------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar         |               |
-|        | PR20.1. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                  |               |
-| Fase 1 | PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                         |               |
-|        | PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service      |               |
-|        | PR24. Arquitectura de solución de los proyectos de cierre de brecha                                         |               |
-| Fase 2 | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                               |               |
-| Fase 3 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                               |               |
-| A      | Definición de solución de los proyectos de la hoja de ruta E-Service por implementar                        |               |
-|        | Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service                      |               |
-|        | Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo |               |
-|        | Aprobación de inicio de los proyectos de la hoja de ruta                                                    |               |
-
-<br>
 
 
 ## Propuesta Económica (costo / beneficio) (aproximado)
